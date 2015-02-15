@@ -23,6 +23,328 @@
 				<p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
+		<div>
+			<html><body><pre>
+
+
+<span style="color: #33997E;">import</span> de.fhpotsdam.unfolding.providers.*;
+
+<span style="color: #666666;">//package&nbsp;de.fhpotsdam.unfolding.examples.data.choropleth;</span>
+
+<span style="color: #33997E;">import</span> java.util.<span style="color: #E2661A;">HashMap</span>;
+<span style="color: #33997E;">import</span> java.util.List;
+
+<span style="color: #33997E;">import</span> processing.core.PApplet;
+
+<span style="color: #33997E;">import</span> processing.opengl.*;
+<span style="color: #33997E;">import</span> de.fhpotsdam.unfolding.UnfoldingMap;
+<span style="color: #33997E;">import</span> de.fhpotsdam.unfolding.data.Feature;
+<span style="color: #33997E;">import</span> de.fhpotsdam.unfolding.data.GeoJSONReader;
+<span style="color: #33997E;">import</span> de.fhpotsdam.unfolding.marker.Marker;
+<span style="color: #33997E;">import</span> de.fhpotsdam.unfolding.utils.MapUtils;
+
+<span style="color: #33997E;">import</span> controlP5.*;
+
+<span style="color: #666666;">/**</span>
+<span style="color: #666666;">&nbsp;*&nbsp;Visualizes&nbsp;population&nbsp;density&nbsp;of&nbsp;the&nbsp;world&nbsp;as&nbsp;a&nbsp;choropleth&nbsp;map.&nbsp;Countries&nbsp;are&nbsp;shaded&nbsp;in&nbsp;proportion&nbsp;to&nbsp;the&nbsp;population</span>
+<span style="color: #666666;">&nbsp;*&nbsp;density.</span>
+<span style="color: #666666;">&nbsp;*&nbsp;</span>
+<span style="color: #666666;">&nbsp;*&nbsp;It&nbsp;loads&nbsp;the&nbsp;country&nbsp;shapes&nbsp;from&nbsp;a&nbsp;GeoJSON&nbsp;file&nbsp;via&nbsp;a&nbsp;data&nbsp;reader,&nbsp;and&nbsp;loads&nbsp;the&nbsp;population&nbsp;density&nbsp;values&nbsp;from</span>
+<span style="color: #666666;">&nbsp;*&nbsp;another&nbsp;CSV&nbsp;file&nbsp;(provided&nbsp;by&nbsp;the&nbsp;World&nbsp;Bank).&nbsp;The&nbsp;data&nbsp;value&nbsp;is&nbsp;encoded&nbsp;to&nbsp;transparency&nbsp;via&nbsp;a&nbsp;simplistic&nbsp;linear</span>
+<span style="color: #666666;">&nbsp;*&nbsp;mapping.</span>
+<span style="color: #666666;">&nbsp;*/</span>
+&nbsp;<span style="color: #33997E;">import</span> de.fhpotsdam.unfolding.marker.Marker;
+&nbsp;<span style="color: #33997E;">import</span> de.fhpotsdam.unfolding.*;
+<span style="color: #33997E;">import</span> de.fhpotsdam.unfolding.geo.*;
+<span style="color: #33997E;">import</span> de.fhpotsdam.unfolding.utils.*; 
+
+&nbsp;&nbsp;UnfoldingMap&nbsp;map;
+&nbsp;&nbsp;ControlP5&nbsp;cp5;
+&nbsp;&nbsp;Slider&nbsp;slide;
+&nbsp;&nbsp;Textlabel&nbsp;yearLabel;
+&nbsp;&nbsp;Textlabel[]&nbsp;colour_levels&nbsp;=&nbsp;<span style="color: #33997E;">new</span> Textlabel[8];
+&nbsp;&nbsp;Textlabel[]&nbsp;income_levels&nbsp;=&nbsp;<span style="color: #33997E;">new</span> Textlabel[8];
+&nbsp;&nbsp;Textlabel&nbsp;colour_Levels;
+&nbsp;&nbsp;Textlabel&nbsp;Borough_Info;
+&nbsp;&nbsp;Textlabel&nbsp;title;
+&nbsp;&nbsp;Textlabel&nbsp;legendTitle;
+&nbsp;&nbsp;<span style="color: #E2661A;">int</span> column = 0;
+&nbsp;&nbsp;<span style="color: #E2661A;">int</span> Interval = 1;
+&nbsp;&nbsp;<span style="color: #E2661A;">boolean</span> borough_info_flag = <span style="color: #33997E;">false</span>;
+&nbsp;&nbsp;<span style="color: #E2661A;">int</span>[] min_mean_array = {15800, 17000, 17700, 17300, 17400, 18500, 19200, 19600, 21000, 21900, 21700, 22000};
+&nbsp;&nbsp;<span style="color: #E2661A;">int</span>[] max_mean_array = {58200, 86500, 78900, 72900, 84900, 86600, 109000, 122000, 151000, 161000, 128000, 137000};
+&nbsp;&nbsp;<span style="color: #E2661A;">int</span> min_mean = min_mean_array[0];
+&nbsp;&nbsp;<span style="color: #E2661A;">int</span> max_mean = max_mean_array[0];
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #E2661A;">int</span>[] min_median_array = {13300, 14700, 15300, 15000, 14500, 15100, 15200, 15800, 16500, 17600, 17400, 17600};
+&nbsp;&nbsp;<span style="color: #E2661A;">int</span>[] max_median_array = {20900, 25200, 25900, 25400, 25600, 24500, 27300, 27500, 31900, 34100, 31700, 37200};
+&nbsp;&nbsp;<span style="color: #E2661A;">int</span> min_median = min_median_array[0];
+&nbsp;&nbsp;<span style="color: #E2661A;">int</span> max_median = max_median_array[0];
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #E2661A;">String</span>[] year_Ranges_array = {<span style="color: #7D4793;">&quot;1999 - 2000&quot;</span> , <span style="color: #7D4793;">&quot;2000 - 2001&quot;</span>, <span style="color: #7D4793;">&quot;2001 - 2002&quot;</span>, <span style="color: #7D4793;">&quot;2002 - 2003&quot;</span>, <span style="color: #7D4793;">&quot;2003 - 2004&quot;</span>, <span style="color: #7D4793;">&quot;2004 -2005&quot;</span>, <span style="color: #7D4793;">&quot;2005 - 2006&quot;</span>, <span style="color: #7D4793;">&quot;2006 - 2007&quot;</span>, <span style="color: #7D4793;">&quot;2007 - 2008&quot;</span>, <span style="color: #7D4793;">&quot;2009 - 2010&quot;</span>, <span style="color: #7D4793;">&quot;2010 - 2011&quot;</span>, <span style="color: #7D4793;">&quot;2011 - 2012&quot;</span>}; 
+&nbsp;&nbsp;<span style="color: #E2661A;">String</span>[] mean_Ranges_array = {<span style="color: #7D4793;">&quot;&lt; &#163;20,000&quot;</span>, <span style="color: #7D4793;">&quot;&#163;20,001 - &#163;27,500&quot;</span>, <span style="color: #7D4793;">&quot;&#163;27,501 - &#163;35,000&quot;</span>, <span style="color: #7D4793;">&quot;&#163;35,001 - &#163;42,500&quot;</span>, <span style="color: #7D4793;">&quot;&#163;42,501 - &#163;50,000&quot;</span>, <span style="color: #7D4793;">&quot;&gt;&#163;50,000&quot;</span>};
+
+&nbsp;&nbsp;<span style="color: #E2661A;">HashMap</span>&lt;<span style="color: #E2661A;">String</span>, DataEntry&gt; dataEntriesMap;
+&nbsp;&nbsp;List&lt;Marker&gt;&nbsp;boroughMarkers;
+
+&nbsp;&nbsp;<span style="color: #33997E;">public</span> <span style="color: #33997E;">void</span> <span style="color: #006699;"><b>setup</b></span>() {
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">size</span>(800, 600, OPENGL);
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">smooth</span>();
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;Location&nbsp;center&nbsp;=&nbsp;<span style="color: #33997E;">new</span> Location(51.48969, -0.1715987); 
+&nbsp;&nbsp;&nbsp;&nbsp;map&nbsp;=&nbsp;<span style="color: #33997E;">new</span> UnfoldingMap(<span style="color: #33997E;">this</span>, <span style="color: #33997E;">new</span> Google.GoogleMapProvider());
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #666666;">//new Google.GoogleMapProvider()</span>
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;map.zoomAndPanTo(center,&nbsp;10);
+&nbsp;&nbsp;&nbsp;&nbsp;map.setPanningRestriction(center,&nbsp;0);
+&nbsp;&nbsp;&nbsp;&nbsp;map.setBackgroundColor(<span style="color: #006699;">color</span>(255,255,255, 255));
+&nbsp;&nbsp;&nbsp;&nbsp;MapUtils.createDefaultEventDispatcher(<span style="color: #33997E;">this</span>, map);
+
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #666666;">// Load borough polygons and adds them as markers</span>
+&nbsp;&nbsp;&nbsp;&nbsp;List&lt;Feature&gt;&nbsp;boroughs&nbsp;=&nbsp;GeoJSONReader.loadData(<span style="color: #33997E;">this</span>, <span style="color: #7D4793;">&quot;data/London_Boroughs.geojson&quot;</span>);
+&nbsp;&nbsp;&nbsp;&nbsp;boroughMarkers&nbsp;=&nbsp;MapUtils.createSimpleMarkers(boroughs);
+&nbsp;&nbsp;&nbsp;&nbsp;map.addMarkers(boroughMarkers);
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #666666;">// Load population data</span>
+&nbsp;&nbsp;&nbsp;&nbsp;dataEntriesMap&nbsp;=&nbsp;loadPopulationDensityFromCSV(<span style="color: #7D4793;">&quot;data/income-of-tax-payers_reduced.csv&quot;</span>);
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">println</span>(<span style="color: #7D4793;">&quot;Loaded &quot;</span> + dataEntriesMap.<span style="color: #006699;">size</span>() + <span style="color: #7D4793;">&quot; data entries&quot;</span>);
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #666666;">// Country markers are shaded according to its population density (only once)</span>
+&nbsp;&nbsp;&nbsp;&nbsp;shadeCountries(column);
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;cp5&nbsp;=&nbsp;<span style="color: #33997E;">new</span> ControlP5(<span style="color: #33997E;">this</span>);
+&nbsp;&nbsp;&nbsp;&nbsp;cp5.setAutoDraw(<span style="color: #33997E;">false</span>);
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;title&nbsp;=&nbsp;cp5.addTextlabel(<span style="color: #7D4793;">&quot;title&quot;</span>)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.setPosition(15,10)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.setSize(300,75)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.setFont(<span style="color: #006699;">createFont</span>(<span style="color: #7D4793;">&quot;arial&quot;</span>,22))
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.setColor(0)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.setText(<span style="color: #7D4793;">&quot;Choropleth showing mean \n income of tax payers per \n London Borough 1999 - 2012&quot;</span>);
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;legendTitle&nbsp;=&nbsp;cp5.addTextlabel(<span style="color: #7D4793;">&quot;legendTitle&quot;</span>)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.setPosition(10,&nbsp;130)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.setSize(150,&nbsp;30)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.setFont(<span style="color: #006699;">createFont</span>(<span style="color: #7D4793;">&quot;arial&quot;</span>,14))
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.setColor(0)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.setText(<span style="color: #7D4793;">&quot;Income Ranges&quot;</span>); 
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;slide&nbsp;=&nbsp;cp5.addSlider(<span style="color: #7D4793;">&quot;sliderValue&quot;</span>)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.setPosition(150,560)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.setSize(600,20)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.setNumberOfTickMarks(12)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.setRange(0,11)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.snapToTickMarks(<span style="color: #33997E;">true</span>)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.setSliderMode(0)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.setColorValueLabel(255);
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;yearLabel&nbsp;=&nbsp;cp5.addTextlabel(<span style="color: #7D4793;">&quot;label&quot;</span>)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.setPosition(30,&nbsp;560)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.setSize(100,&nbsp;25)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.setFont(<span style="color: #006699;">createFont</span>(<span style="color: #7D4793;">&quot;arial&quot;</span>, 18))
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.setColor(<span style="color: #006699;">color</span>(0))
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.setText(year_Ranges_array[column]);
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #669900;">for</span>(<span style="color: #E2661A;">int</span> i = 0; i &lt;6; i++){
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;income_levels[i]&nbsp;=&nbsp;cp5.addTextlabel(<span style="color: #7D4793;">&quot;label&quot;</span> + i)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.setPosition(30,&nbsp;154&nbsp;+&nbsp;30*i)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.setSize(150,20)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.setFont(<span style="color: #006699;">createFont</span>(<span style="color: #7D4793;">&quot;arial&quot;</span>, 12))
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.setColor(0)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.setText(mean_Ranges_array[i]);
+&nbsp;&nbsp;&nbsp;&nbsp;}
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;Borough_Info&nbsp;=&nbsp;cp5.addTextlabel(<span style="color: #7D4793;">&quot;Boroughlabel&quot;</span>)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.setPosition(530,&nbsp;30)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.setSize(200,150)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.setFont(<span style="color: #006699;">createFont</span>(<span style="color: #7D4793;">&quot;arial&quot;</span>,20))
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.setColor(0)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.<span style="color: #006699;">setVisible</span>(<span style="color: #33997E;">false</span>);    
+
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">noStroke</span>();
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;}
+&nbsp;&nbsp;<span style="color: #33997E;">public</span> <span style="color: #33997E;">void</span> drawColourLabels(){
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #669900;">for</span>(<span style="color: #E2661A;">int</span> i = 0; i &lt;6; i++){
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">fill</span>(<span style="color: #006699;">color</span>(255-(40*(i+1)),255-(40*(i+1)), 255));
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">rect</span>(10, 150 + 30*i, 20, 20);
+&nbsp;&nbsp;&nbsp;&nbsp;}
+&nbsp;&nbsp;}
+
+&nbsp;&nbsp;<span style="color: #33997E;">public</span> <span style="color: #33997E;">void</span> <span style="color: #006699;"><b>draw</b></span>() {
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">background</span>(255);
+&nbsp;&nbsp;&nbsp;&nbsp;map.<span style="color: #006699;"><b>draw</b></span>();
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #669900;">if</span>(borough_info_flag){
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">fill</span>(<span style="color: #006699;">color</span>(240));
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">rect</span>(530,30,250,50);
+&nbsp;&nbsp;&nbsp;&nbsp;}
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #666666;">// Legend box</span>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">fill</span>(<span style="color: #006699;">color</span>(240));
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">rect</span>(5, 125, 140, 205);
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #666666;">// Year range label box</span>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">fill</span>(<span style="color: #006699;">color</span>(240));
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">rect</span>(30, 560, 110, 25);
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #666666;">// Main title box</span>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">fill</span>(<span style="color: #006699;">color</span>(240));
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">rect</span>(15, 10, 300, 75);
+&nbsp;&nbsp;&nbsp;&nbsp;cp5.<span style="color: #006699;"><b>draw</b></span>();
+&nbsp;&nbsp;&nbsp;&nbsp;update(column);
+&nbsp;&nbsp;&nbsp;&nbsp;drawColourLabels();
+&nbsp;&nbsp;}
+
+&nbsp;&nbsp;<span style="color: #33997E;">public</span> <span style="color: #33997E;">void</span> shadeCountries(<span style="color: #E2661A;">int</span> row) {
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #E2661A;">int</span> index = 0;
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #669900;">for</span> (Marker marker : boroughMarkers) {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #666666;">// Find data for country of the current marker</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #E2661A;">String</span> countryId = marker.getId();
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Object&nbsp;boroughId&nbsp;=&nbsp;countryId;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DataEntry&nbsp;dataEntry&nbsp;=&nbsp;dataEntriesMap.<span style="color: #006699;">get</span>(boroughId);
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #E2661A;">float</span> transparency = 1000;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #669900;">if</span> (dataEntry != <span style="color: #33997E;">null</span>) {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #666666;">// Encode value as brightness (values range: 0-1000)</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #666666;">//transparency = map(dataEntry.means[column],min_mean, max_mean, 10, 255);</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Interval&nbsp;=&nbsp;getMeanInterval(dataEntry.means[column]);
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;marker.setColor(<span style="color: #006699;">color</span>(255-(40*Interval),255-(40*Interval), 255));
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;<span style="color: #669900;">else</span> {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #666666;">// No value available</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">println</span>(<span style="color: #7D4793;">&quot;It&apos;s null!&quot;</span>);
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;marker.setColor(<span style="color: #006699;">color</span>(255,255,255));
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;index++;
+&nbsp;&nbsp;&nbsp;&nbsp;}
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;}
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #33997E;">public</span> <span style="color: #33997E;">void</span> update(<span style="color: #E2661A;">int</span> column){
+&nbsp;&nbsp;setMeanRange(column);
+&nbsp;&nbsp;shadeCountries(column);&nbsp;&nbsp;
+&nbsp;&nbsp;yearLabel.setText(year_Ranges_array[column]);
+&nbsp;&nbsp;}
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #33997E;">public</span> <span style="color: #33997E;">void</span> setMeanRange(<span style="color: #E2661A;">int</span> columnNum){
+&nbsp;&nbsp;&nbsp;&nbsp;min_mean&nbsp;=&nbsp;min_mean_array[columnNum];
+&nbsp;&nbsp;&nbsp;&nbsp;max_mean&nbsp;=&nbsp;max_mean_array[columnNum];
+&nbsp;&nbsp;}
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #33997E;">public</span> <span style="color: #E2661A;">int</span> getMeanInterval(<span style="color: #E2661A;">int</span> Value){
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #E2661A;">int</span> interval = 7;
+&nbsp;&nbsp;<span style="color: #669900;">if</span>( Value&lt;20000){
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;interval&nbsp;=&nbsp;1;
+&nbsp;&nbsp;&nbsp;}&nbsp;<span style="color: #669900;">else</span> <span style="color: #669900;">if</span>(Value &gt;= 20000 &amp;&amp; Value &lt; 27500){
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;interval&nbsp;=&nbsp;2;
+&nbsp;&nbsp;&nbsp;}&nbsp;<span style="color: #669900;">else</span> <span style="color: #669900;">if</span>(Value &gt;= 27500 &amp;&amp; Value &lt; 35000){
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;interval&nbsp;=&nbsp;3;
+&nbsp;&nbsp;&nbsp;}&nbsp;<span style="color: #669900;">else</span> <span style="color: #669900;">if</span>(Value &gt;=35000 &amp;&amp; Value &lt; 42500){
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;interval&nbsp;=&nbsp;4;&nbsp;
+&nbsp;&nbsp;&nbsp;}&nbsp;<span style="color: #669900;">else</span> <span style="color: #669900;">if</span>(Value &gt;= 42500 &amp;&amp; Value &lt; 50000){
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;interval&nbsp;=&nbsp;5;
+&nbsp;&nbsp;&nbsp;}&nbsp;<span style="color: #669900;">else</span> <span style="color: #669900;">if</span>(Value &gt;= 50000){
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;interval&nbsp;=&nbsp;6;
+&nbsp;&nbsp;&nbsp;}&nbsp;<span style="color: #669900;">else</span> {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">println</span>(<span style="color: #7D4793;">&quot;Error: Value has not been set correctly!&quot;</span>);
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">println</span>(Value);      
+&nbsp;&nbsp;&nbsp;}
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;<span style="color: #33997E;">return</span> interval;
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;}
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #33997E;">void</span> controlEvent(ControlEvent theControlEvent) {
+&nbsp;&nbsp;<span style="color: #669900;">if</span>(theControlEvent.isFrom(<span style="color: #7D4793;">&quot;sliderValue&quot;</span>)) {
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #666666;">// min and max values are stored in an array.</span>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #666666;">// access this array with controller().arrayValue().</span>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #666666;">// min is at index 0, max is at index 1.</span>
+&nbsp;&nbsp;&nbsp;&nbsp;column&nbsp;=&nbsp;<span style="color: #006699;">int</span>(theControlEvent.getController().getValue());
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">println</span>(<span style="color: #7D4793;">&quot;range update, done.&quot;</span>);
+&nbsp;&nbsp;}
+}
+
+<span style="color: #33997E;">public</span> <span style="color: #33997E;">void</span> drawInfoBox(Marker theMarker){
+&nbsp;&nbsp;<span style="color: #E2661A;">String</span> countryId = theMarker.getId();
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Object&nbsp;boroughId&nbsp;=&nbsp;countryId;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DataEntry&nbsp;dataEntry&nbsp;=&nbsp;dataEntriesMap.<span style="color: #006699;">get</span>(boroughId);
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Borough_Info.setText(dataEntry.boroughName&nbsp;+&nbsp;<span style="color: #7D4793;">&quot;\n&#163;&quot;</span> + dataEntry.means[column])
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.<span style="color: #006699;">setVisible</span>(<span style="color: #33997E;">true</span>)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.setColorBackground(200);
+
+}
+
+<span style="color: #33997E;">public</span> <span style="color: #33997E;">void</span> <span style="color: #006699;"><b>mouseMoved</b></span>() {
+&nbsp;&nbsp;&nbsp;&nbsp;Marker&nbsp;hitMarker&nbsp;=&nbsp;map.getFirstHitMarker(<span style="color: #D94A7A;">mouseX</span>, <span style="color: #D94A7A;">mouseY</span>);
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #669900;">if</span> (hitMarker != <span style="color: #33997E;">null</span>) {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #666666;">// Select current marker </span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hitMarker.setSelected(<span style="color: #33997E;">true</span>);
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;borough_info_flag&nbsp;=&nbsp;<span style="color: #33997E;">true</span>;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;drawInfoBox(hitMarker);
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #666666;">// Deselect all other markers</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #669900;">for</span> (Marker marker : map.getMarkers()) {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #669900;">if</span>(!hitMarker.<span style="color: #006699;">equals</span>(marker)){
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;marker.setSelected(<span style="color: #33997E;">false</span>);
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}
+&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;<span style="color: #669900;">else</span> {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #666666;">// Deselect all other markers</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #669900;">for</span> (Marker marker : map.getMarkers()) {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;marker.setSelected(<span style="color: #33997E;">false</span>);
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Borough_Info.<span style="color: #006699;">setVisible</span>(<span style="color: #33997E;">false</span>);
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;borough_info_flag&nbsp;=&nbsp;<span style="color: #33997E;">false</span>;
+&nbsp;&nbsp;&nbsp;&nbsp;}
+}
+
+&nbsp;&nbsp;<span style="color: #33997E;">public</span> <span style="color: #E2661A;">HashMap</span>&lt;<span style="color: #E2661A;">String</span>, DataEntry&gt; loadPopulationDensityFromCSV(<span style="color: #E2661A;">String</span> fileName) {
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #E2661A;">HashMap</span>&lt;<span style="color: #E2661A;">String</span>, DataEntry&gt; dataEntriesMap = <span style="color: #33997E;">new</span> <span style="color: #E2661A;">HashMap</span>&lt;<span style="color: #E2661A;">String</span>, DataEntry&gt;();
+
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #E2661A;">String</span>[] rows = <span style="color: #006699;">loadStrings</span>(fileName);
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #669900;">for</span> (<span style="color: #E2661A;">String</span> row : rows) {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #666666;">// Reads country name and population density value from CSV row</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #E2661A;">String</span>[] columns = row.<span style="color: #006699;">split</span>(<span style="color: #7D4793;">&quot;,&quot;</span>);
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #669900;">if</span> (columns != <span style="color: #33997E;">null</span>) {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DataEntry&nbsp;dataEntry&nbsp;=&nbsp;<span style="color: #33997E;">new</span> DataEntry();
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dataEntry.boroughName&nbsp;=&nbsp;columns[0];
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dataEntry.id&nbsp;=&nbsp;columns[1];
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">println</span>(columns[0]);
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #669900;">for</span>(<span style="color: #E2661A;">int</span> i = 3; i&lt;26; i+=2){
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dataEntry.medianPush(<span style="color: #E2661A;">Integer</span>.<span style="color: #006699;">parseInt</span>(columns[i]));
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">println</span>(<span style="color: #E2661A;">Integer</span>.<span style="color: #006699;">parseInt</span>(columns[i]));
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">println</span>(columns[0]);
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #669900;">for</span>(<span style="color: #E2661A;">int</span> i = 2; i&lt;26; i+=2){
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dataEntry.meanPush(<span style="color: #E2661A;">Integer</span>.<span style="color: #006699;">parseInt</span>(columns[i]));
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">println</span>(<span style="color: #E2661A;">Integer</span>.<span style="color: #006699;">parseInt</span>(columns[i]));
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dataEntriesMap.put(dataEntry.id,&nbsp;dataEntry);
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}
+&nbsp;&nbsp;&nbsp;&nbsp;}
+
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #33997E;">return</span> dataEntriesMap;
+&nbsp;&nbsp;}
+
+&nbsp;&nbsp;<span style="color: #33997E;">class</span> DataEntry {
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #E2661A;">int</span> meanIndex = 0;
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #E2661A;">int</span> medianIndex = 0;
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #E2661A;">String</span> id;
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #E2661A;">String</span> boroughName;
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #E2661A;">Integer</span>[] means = <span style="color: #33997E;">new</span> <span style="color: #E2661A;">Integer</span>[12];
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #E2661A;">Integer</span>[] medians = <span style="color: #33997E;">new</span> <span style="color: #E2661A;">Integer</span>[12];
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #33997E;">public</span> <span style="color: #33997E;">void</span> meanPush(<span style="color: #E2661A;">int</span> value){
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;means[meanIndex]&nbsp;=&nbsp;value;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;meanIndex++;
+&nbsp;&nbsp;&nbsp;&nbsp;}
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #33997E;">public</span> <span style="color: #33997E;">void</span> medianPush(<span style="color: #E2661A;">int</span> value){
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;medians[medianIndex]&nbsp;=&nbsp;value;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;medianIndex++;
+&nbsp;&nbsp;&nbsp;&nbsp;}
+&nbsp;&nbsp;}
+
+</pre></body></html>
+		</div>
+		
 		<footer>
     		<ul>
         		<li><a href="mailto:hankquinlanhub@gmail.com">email</a></li>
