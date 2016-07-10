@@ -1,0 +1,58 @@
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html {
+	height: 100%;
+}
+
+body {
+	height: 100%;
+	overflow: hidden;
+	/*background-image: url(Parliament_Background.jpg);*/
+	background-color: #fffaf0;
+	background-size: cover;
+	margin: 0;
+	background-repeat: no-repeat;
+}
+
+
+
+div.map_area {
+	float: left;
+	clear: left;
+}
+
+.path:not(.focus):hover{
+	fill:#666;
+}
+.path { 
+	fill: darkblue;
+	outline: none;
+}
+
+.path:focus {
+	outline: none;
+	border: none;
+}
+
+form {
+	float:left;
+	clear: left;
+}
+
+div.tooltip {
+        color: #222;
+        background-color: #fff;
+        padding: .5em;
+        text-shadow: #f5f5f5 0 1px 0;
+        border-radius: 2px;
+        opacity: 0.9;
+        position: absolute;
+    }
+
+.hidden {
+        display: none;
+    }
