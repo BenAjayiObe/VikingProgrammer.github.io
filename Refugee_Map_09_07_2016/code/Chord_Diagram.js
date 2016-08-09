@@ -24,8 +24,7 @@ var datatset = []
 
 d3.csv("https://raw.githubusercontent.com/VikingProgrammer/VikingProgrammer.github.io/master/Refugee_Map_09_07_2016/data/clean_refugee_2015.csv", function(error,data) {
   if (error) throw error;
-  console.log(data)
-  dataset = data.map(function(d){return [d["country of asylum"],d["country of origin"],+d["total movement"]];})
+  dataset = data.map(function(d){return [d["country of asylum"],d["country of origin"],+d["total movement"],+d["Percent Change"]];})
   var matrix = [],
       new_matrix = []
 
@@ -36,13 +35,13 @@ d3.csv("https://raw.githubusercontent.com/VikingProgrammer/VikingProgrammer.gith
       matrix[unique_countries[i]][unique_countries[j]] = 0
     }
   }
-  console.log(dataset)
+
   dataset.forEach(function(d){
     if ((unique_countries.indexOf(d[0])>=0 && unique_countries.indexOf(d[1])>=0)){
-      if (d[2] < 0){
+      if (d[3] < 0){
         matrix[d[0]][d[1]] = 0
       } else {
-        matrix[d[0]][d[1]] = d[2]
+        matrix[d[0]][d[1]] = d[3]
       }
     }
   });
@@ -55,14 +54,13 @@ for(i=0;i<196;i++){
 
   console.log(new_matrix)
   chord.matrix(new_matrix);
-  console.log(chord);
   var g = svg.selectAll(".group")
       .data(chord.groups)
     .enter().append("g")
       .attr("class", "group");
 
   g.append("path")
-      .style("fill", function(d) { return fill(d.index); })
+      .style("fill", function(d) {return fill(d.index); })
       .style("stroke", function(d) { return fill(d.index); })
       .attr("d", arc);
 
@@ -75,7 +73,7 @@ for(i=0;i<196;i++){
             + (d.angle > Math.PI ? "rotate(180)" : "");
       })
       .style("text-anchor", function(d) { return d.angle > Math.PI ? "end" : null; })
-      .text(function(d) { return d[2]; });
+      .text(function(d) { return d[3]; });
 
   svg.selectAll(".chord")
       .data(chord.chords)
