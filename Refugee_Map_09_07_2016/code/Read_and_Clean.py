@@ -13,6 +13,7 @@ raw_data["total movement"] = raw_data["end year total"] - raw_data["begin year t
 raw_data["Percent Change"] = (raw_data["end year total"]/raw_data["begin year total"])*100
 raw_data["Percent Change"] = [math.floor(x) for x in raw_data["Percent Change"]]
 raw_data["Percent Change"] = raw_data["Percent Change"].fillna(0)
+raw_data["Percent Change"] = raw_data["Percent Change"].replace('inf',0)
 
 raw_data.to_csv("../data/clean_refugee_2015.csv",sep=",")
 
