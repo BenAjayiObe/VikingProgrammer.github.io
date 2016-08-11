@@ -38,7 +38,7 @@ d3.csv("https://raw.githubusercontent.com/VikingProgrammer/VikingProgrammer.gith
 
   dataset.forEach(function(d){
     if ((unique_countries.indexOf(d[0])>=0 && unique_countries.indexOf(d[1])>=0)){
-      if (d[3] < 0){
+      if (d[3] < 100){
         matrix[d[0]][d[1]] = 0
       } else {
         matrix[d[0]][d[1]] = d[3]
@@ -52,7 +52,7 @@ for(i=0;i<196;i++){
     }
   }
 
-  console.log(new_matrix)
+  console.log(matrix)
   chord.matrix(new_matrix);
   var g = svg.selectAll(".group")
       .data(chord.groups)
@@ -73,7 +73,7 @@ for(i=0;i<196;i++){
             + (d.angle > Math.PI ? "rotate(180)" : "");
       })
       .style("text-anchor", function(d) { return d.angle > Math.PI ? "end" : null; })
-      .text(function(d) { return d[3]; });
+      .text(function(d) { console.log(d); return unique_countries[d.index]; });
 
   svg.selectAll(".chord")
       .data(chord.chords)
