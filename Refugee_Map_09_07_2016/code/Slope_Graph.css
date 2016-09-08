@@ -5,3 +5,10 @@ text.slope-label{
     fill:red;
     font: 20px Arial;
 }
+
+.slope-line{
+	fill: none;
+	stroke: #555;
+	stroke-opacity: 0.4;
+	stroke-width: 1.5px;
+}

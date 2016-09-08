@@ -1,4 +1,4 @@
-year,country of asylum,country of origin,population type,begin year total,end year total
+Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Year_Total
 2015,ABW,COL,REF,0,*
 2015,ABW,CUB,REF,,*
 2015,AFG,GAZ,REF,*,0

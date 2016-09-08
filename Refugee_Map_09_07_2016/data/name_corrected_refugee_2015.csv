@@ -31,32 +31,32 @@ Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Ye
 2015,Papua New Guinea**,United States,REF,14.0,18.0,4.0
 2015,Papua New Guinea**,Zambia,REF,7.0,7.0,0.0
 2015,Canada**30,Syrian Arab Republic**4,REF,0.0,15.0,15.0
-2015, S.A.**,Papua New Guinea**,REF,0.0,0.0,0.0
-2015, S.A.**,Burundi,REF,37.0,24.0,-13.0
-2015, S.A.**,Russia**1,REF,40.0,45.0,5.0
-2015, S.A.**,Ukraine**27,REF,45.0,41.0,-4.0
-2015, S.A.**,Djibouti**4,REF,6.0,5.0,-1.0
-2015, S.A.**,Eritrea**,REF,1625.0,1405.0,-220.0
-2015, S.A.**,Ethiopia**2,REF,1138.0,1085.0,-53.0
-2015, S.A.**,Gaza Strip,REF,70023.0,70021.0,-2.0
-2015, S.A.**,Republic of Guinea,REF,9.0,9.0,0.0
-2015, S.A.**,Cocos Islands,REF,298.0,249.0,-49.0
-2015, S.A.**,Iran**20,REF,5149.0,4347.0,-802.0
-2015, S.A.**,Romania**1,REF,0.0,0.0,0.0
-2015, S.A.**,United States**502,REF,6.0,7.0,1.0
-2015, S.A.**,Mali**2,REF,8.0,9.0,1.0
-2015, S.A.**,Mexico**140,REF,0.0,0.0,0.0
-2015, S.A.**,Nigeria**16,REF,5.0,5.0,0.0
-2015, S.A.**,United States**653,REF,0.0,0.0,0.0
-2015, S.A.**,Germany**23,REF,21.0,19.0,-2.0
-2015, S.A.**,Somali Republic**3,REF,5733.0,4491.0,-1242.0
-2015, S.A.**,France**95,REF,542.0,1686.0,1144.0
-2015, S.A.**,Sudan**37,REF,12730.0,11296.0,-1434.0
-2015, S.A.**,Syrian Arab Republic**4,REF,138381.0,117635.0,-20746.0
-2015, S.A.**,Tajikistan**3,REF,11.0,11.0,0.0
-2015, S.A.**,Uganda**20,REF,15.0,9.0,-6.0
-2015, S.A.**,Yemem,REF,198.0,54.0,-144.0
-2015, S.A.**,Zimbabwe,REF,8.0,9.0,1.0
+2015,South Africa**,Papua New Guinea**,REF,0.0,0.0,0.0
+2015,South Africa**,Burundi,REF,37.0,24.0,-13.0
+2015,South Africa**,Russia**1,REF,40.0,45.0,5.0
+2015,South Africa**,Ukraine**27,REF,45.0,41.0,-4.0
+2015,South Africa**,Djibouti**4,REF,6.0,5.0,-1.0
+2015,South Africa**,Eritrea**,REF,1625.0,1405.0,-220.0
+2015,South Africa**,Ethiopia**2,REF,1138.0,1085.0,-53.0
+2015,South Africa**,Gaza Strip,REF,70023.0,70021.0,-2.0
+2015,South Africa**,Republic of Guinea,REF,9.0,9.0,0.0
+2015,South Africa**,Cocos Islands,REF,298.0,249.0,-49.0
+2015,South Africa**,Iran**20,REF,5149.0,4347.0,-802.0
+2015,South Africa**,Romania**1,REF,0.0,0.0,0.0
+2015,South Africa**,United States**502,REF,6.0,7.0,1.0
+2015,South Africa**,Mali**2,REF,8.0,9.0,1.0
+2015,South Africa**,Mexico**140,REF,0.0,0.0,0.0
+2015,South Africa**,Nigeria**16,REF,5.0,5.0,0.0
+2015,South Africa**,United States**653,REF,0.0,0.0,0.0
+2015,South Africa**,Germany**23,REF,21.0,19.0,-2.0
+2015,South Africa**,Somali Republic**3,REF,5733.0,4491.0,-1242.0
+2015,South Africa**,France**95,REF,542.0,1686.0,1144.0
+2015,South Africa**,Sudan**37,REF,12730.0,11296.0,-1434.0
+2015,South Africa**,Syrian Arab Republic**4,REF,138381.0,117635.0,-20746.0
+2015,South Africa**,Tajikistan**3,REF,11.0,11.0,0.0
+2015,South Africa**,Uganda**20,REF,15.0,9.0,-6.0
+2015,South Africa**,Yemem,REF,198.0,54.0,-144.0
+2015,South Africa**,Zimbabwe,REF,8.0,9.0,1.0
 2015,Argentina**3,Afghanistan**,REF,5.0,5.0,0.0
 2015,Argentina**3,Mexico**19,REF,25.0,20.0,-5.0
 2015,Argentina**3,United States**35,REF,41.0,34.0,-7.0
@@ -115,7 +115,7 @@ Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Ye
 2015,Russia**20,Afghanistan**,REF,7675.0,7785.0,110.0
 2015,Russia**20,Mexico**19,REF,65.0,66.0,1.0
 2015,Russia**20,United States**35,REF,13.0,12.0,-1.0
-2015,Russia**20, S.A.**,REF,1370.0,1507.0,137.0
+2015,Russia**20,South Africa**,REF,1370.0,1507.0,137.0
 2015,Russia**20,Bahrain**,REF,91.0,92.0,1.0
 2015,Russia**20,Burundi,REF,27.0,31.0,4.0
 2015,Russia**20,Bangladesh**,REF,351.0,380.0,29.0
@@ -196,7 +196,7 @@ Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Ye
 2015,Australia**10,Mexico**19,REF,118.0,106.0,-12.0
 2015,Australia**10,United States**35,REF,53.0,52.0,-1.0
 2015,Australia**10,Papua New Guinea**,REF,133.0,121.0,-12.0
-2015,Australia**10, S.A.**,REF,124.0,137.0,13.0
+2015,Australia**10,South Africa**,REF,124.0,137.0,13.0
 2015,Australia**10,Spain**11,REF,996.0,957.0,-39.0
 2015,Australia**10,Germany**9,REF,419.0,405.0,-14.0
 2015,Australia**10,Burundi,REF,16.0,19.0,3.0
@@ -285,7 +285,7 @@ Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Ye
 2015,Brazil,Mexico**19,REF,442.0,484.0,42.0
 2015,Brazil,United States**35,REF,37.0,47.0,10.0
 2015,Brazil,Papua New Guinea**,REF,97.0,100.0,3.0
-2015,Brazil, S.A.**,REF,42.0,59.0,17.0
+2015,Brazil,South Africa**,REF,42.0,59.0,17.0
 2015,Brazil,Argentina**3,REF,0.0,0.0,0.0
 2015,Brazil,Spain**11,REF,99.0,126.0,27.0
 2015,Brazil,Australia**10,REF,0.0,0.0,0.0
@@ -418,7 +418,7 @@ Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Ye
 2015,Finland**5,Sudan**37,REF,8.0,9.0,1.0
 2015,Finland**5,United States,REF,13.0,15.0,2.0
 2015,United States**22,Afghanistan**,REF,399.0,403.0,4.0
-2015,United States**22, S.A.**,REF,6.0,6.0,0.0
+2015,United States**22,South Africa**,REF,6.0,6.0,0.0
 2015,United States**22,Germany**9,REF,15.0,14.0,-1.0
 2015,United States**22,Ethiopia**2,REF,8.0,8.0,0.0
 2015,United States**22,Gaza Strip,REF,6.0,6.0,0.0
@@ -449,7 +449,7 @@ Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Ye
 2015,Brazil,Afghanistan**,REF,52.0,76.0,24.0
 2015,Brazil,United States**35,REF,7.0,7.0,0.0
 2015,Brazil,Papua New Guinea**,REF,1070.0,1083.0,13.0
-2015,Brazil, S.A.**,REF,8.0,13.0,5.0
+2015,Brazil,South Africa**,REF,8.0,13.0,5.0
 2015,Brazil,Argentina**3,REF,11.0,11.0,0.0
 2015,Brazil,Burundi,REF,33.0,37.0,4.0
 2015,Brazil,India,REF,29.0,29.0,0.0
@@ -501,7 +501,7 @@ Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Ye
 2015,Canada**109,Serbia,REF,140.0,86.0,-54.0
 2015,Canada**109,Syrian Arab Republic**4,REF,25.0,14.0,-11.0
 2015,Democratic Republic of the Congo**7,Afghanistan**,REF,212.0,197.0,-15.0
-2015,Democratic Republic of the Congo**7, S.A.**,REF,14.0,8.0,-6.0
+2015,Democratic Republic of the Congo**7,South Africa**,REF,14.0,8.0,-6.0
 2015,Democratic Republic of the Congo**7,Spain**11,REF,25.0,25.0,0.0
 2015,Democratic Republic of the Congo**7,Bangladesh**,REF,8.0,7.0,-1.0
 2015,Democratic Republic of the Congo**7,Congo-Brazzaville,REF,7.0,7.0,0.0
@@ -529,7 +529,7 @@ Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Ye
 2015,United Kingdom**108,United States**35,REF,346.0,355.0,9.0
 2015,United Kingdom**108,Papua New Guinea**,REF,445.0,226.0,-219.0
 2015,United Kingdom**108,Canada**30,REF,48.0,51.0,3.0
-2015,United Kingdom**108, S.A.**,REF,684.0,352.0,-332.0
+2015,United Kingdom**108,South Africa**,REF,684.0,352.0,-332.0
 2015,United Kingdom**108,Argentina**3,REF,191.0,85.0,-106.0
 2015,United Kingdom**108,Spain**11,REF,189.0,180.0,-9.0
 2015,United Kingdom**108,Russia**20,REF,6.0,6.0,0.0
@@ -810,7 +810,7 @@ Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Ye
 2015,United States,Canada**103,REF,27.0,34.0,7.0
 2015,United States,Kenya**19,REF,7.0,7.0,0.0
 2015,Cyprus**2,Afghanistan**,REF,7.0,7.0,0.0
-2015,Cyprus**2, S.A.**,REF,77.0,84.0,7.0
+2015,Cyprus**2,South Africa**,REF,77.0,84.0,7.0
 2015,Cyprus**2,Spain**11,REF,23.0,26.0,3.0
 2015,Cyprus**2,Canada**109,REF,15.0,15.0,0.0
 2015,Cyprus**2,United Kingdom**84,REF,11.0,19.0,8.0
@@ -880,7 +880,7 @@ Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Ye
 2015,United States,Afghanistan**,REF,2130.0,2166.0,36.0
 2015,United States,Mexico**19,REF,20.0,20.0,0.0
 2015,United States,United States**35,REF,9.0,9.0,0.0
-2015,United States, S.A.**,REF,0.0,6.0,6.0
+2015,United States,South Africa**,REF,0.0,6.0,6.0
 2015,United States,Spain**11,REF,74.0,73.0,-1.0
 2015,United States,Germany**9,REF,76.0,59.0,-17.0
 2015,United States,Burundi,REF,16.0,6.0,-10.0
@@ -984,7 +984,7 @@ Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Ye
 2015,Finland**8,Afghanistan**,REF,1443.0,1406.0,-37.0
 2015,Finland**8,United States**35,REF,20.0,20.0,0.0
 2015,Finland**8,Papua New Guinea**,REF,180.0,157.0,-23.0
-2015,Finland**8, S.A.**,REF,6.0,8.0,2.0
+2015,Finland**8,South Africa**,REF,6.0,8.0,2.0
 2015,Finland**8,Germany**9,REF,18.0,30.0,12.0
 2015,Finland**8,Bangladesh**,REF,22.0,19.0,-3.0
 2015,Finland**8,United States**22,REF,13.0,13.0,0.0
@@ -1039,7 +1039,7 @@ Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Ye
 2015,United Kingdom**146,Mexico**19,REF,2522.0,2911.0,389.0
 2015,United Kingdom**146,United States**35,REF,1353.0,1384.0,31.0
 2015,United Kingdom**146,Papua New Guinea**,REF,3338.0,3349.0,11.0
-2015,United Kingdom**146, S.A.**,REF,662.0,767.0,105.0
+2015,United Kingdom**146,South Africa**,REF,662.0,767.0,105.0
 2015,United Kingdom**146,Spain**11,REF,4063.0,4034.0,-29.0
 2015,United Kingdom**146,Germany**9,REF,2771.0,2816.0,45.0
 2015,United Kingdom**146,Burundi,REF,367.0,375.0,8.0
@@ -1173,7 +1173,7 @@ Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Ye
 2015,United States**719,Mexico**19,REF,1371.0,1823.0,452.0
 2015,United States**719,United States**35,REF,378.0,334.0,-44.0
 2015,United States**719,Papua New Guinea**,REF,375.0,294.0,-81.0
-2015,United States**719, S.A.**,REF,351.0,473.0,122.0
+2015,United States**719,South Africa**,REF,351.0,473.0,122.0
 2015,United States**719,Spain**11,REF,34.0,38.0,4.0
 2015,United States**719,Germany**9,REF,86.0,83.0,-3.0
 2015,United States**719,Bahrain**,REF,124.0,146.0,22.0
@@ -1292,7 +1292,7 @@ Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Ye
 2015,France,United States**35,REF,301.0,289.0,-12.0
 2015,France,Papua New Guinea**,REF,800.0,796.0,-4.0
 2015,France,Canada**30,REF,0.0,0.0,0.0
-2015,France, S.A.**,REF,355.0,636.0,281.0
+2015,France,South Africa**,REF,355.0,636.0,281.0
 2015,France,Argentina**3,REF,14.0,12.0,-2.0
 2015,France,Spain**11,REF,1127.0,1191.0,64.0
 2015,France,Russia**20,REF,11.0,5.0,-6.0
@@ -1456,7 +1456,7 @@ Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Ye
 2015,Greece**4,Afghanistan**,REF,1451.0,1923.0,472.0
 2015,Greece**4,Mexico**19,REF,139.0,143.0,4.0
 2015,Greece**4,United States**35,REF,31.0,33.0,2.0
-2015,Greece**4, S.A.**,REF,92.0,140.0,48.0
+2015,Greece**4,South Africa**,REF,92.0,140.0,48.0
 2015,Greece**4,Spain**11,REF,13.0,11.0,-2.0
 2015,Greece**4,Germany**9,REF,10.0,10.0,0.0
 2015,Greece**4,Bangladesh**,REF,167.0,200.0,33.0
@@ -1558,7 +1558,7 @@ Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Ye
 2015,Taiwan,Afghanistan**,REF,819.0,942.0,123.0
 2015,Taiwan,United States**35,REF,10.0,16.0,6.0
 2015,Taiwan,Papua New Guinea**,REF,5.0,5.0,0.0
-2015,Taiwan, S.A.**,REF,10.0,12.0,2.0
+2015,Taiwan,South Africa**,REF,10.0,12.0,2.0
 2015,Taiwan,Spain**11,REF,30.0,45.0,15.0
 2015,Taiwan,Germany**9,REF,12.0,13.0,1.0
 2015,Taiwan,Bangladesh**,REF,6.0,7.0,1.0
@@ -1633,7 +1633,7 @@ Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Ye
 2015,Ireland**16,Sudan**37,REF,49.0,65.0,16.0
 2015,Ireland**16,Syrian Arab Republic**4,REF,27.0,41.0,14.0
 2015,United Kingdom**193,Afghanistan**,REF,1681.0,2890.0,1209.0
-2015,United Kingdom**193, S.A.**,REF,13.0,13.0,0.0
+2015,United Kingdom**193,South Africa**,REF,13.0,13.0,0.0
 2015,United Kingdom**193,Canada**112,REF,27.0,20.0,-7.0
 2015,United Kingdom**193,Congo-Brazzaville,REF,0.0,0.0,0.0
 2015,United Kingdom**193,Ukraine**27,REF,10.0,7.0,-3.0
@@ -1656,7 +1656,7 @@ Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Ye
 2015,Iran**17,Mexico**19,REF,68.0,75.0,7.0
 2015,Iran**17,United States**35,REF,184.0,188.0,4.0
 2015,Iran**17,Papua New Guinea**,REF,244.0,249.0,5.0
-2015,Iran**17, S.A.**,REF,41.0,36.0,-5.0
+2015,Iran**17,South Africa**,REF,41.0,36.0,-5.0
 2015,Iran**17,Spain**11,REF,10.0,10.0,0.0
 2015,Iran**17,Germany**9,REF,12.0,14.0,2.0
 2015,Iran**17,Burundi,REF,20.0,22.0,2.0
@@ -1768,7 +1768,7 @@ Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Ye
 2015,United States**458,Mexico**19,REF,256.0,356.0,100.0
 2015,United States**458,United States**35,REF,113.0,146.0,33.0
 2015,United States**458,Papua New Guinea**,REF,36.0,40.0,4.0
-2015,United States**458, S.A.**,REF,1145.0,1379.0,234.0
+2015,United States**458,South Africa**,REF,1145.0,1379.0,234.0
 2015,United States**458,Spain**11,REF,225.0,274.0,49.0
 2015,United States**458,Germany**9,REF,69.0,61.0,-8.0
 2015,United States**458,Burundi,REF,12.0,14.0,2.0
@@ -1854,7 +1854,7 @@ Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Ye
 2015,Kenya**19,Cuba**,REF,0.0,0.0,0.0
 2015,Kenya**19,Canada**98,REF,18.0,8.0,-10.0
 2015,Romania**1,Afghanistan**,REF,8.0,8.0,0.0
-2015,Romania**1, S.A.**,REF,44.0,56.0,12.0
+2015,Romania**1,South Africa**,REF,44.0,56.0,12.0
 2015,Romania**1,Canada**109,REF,9.0,9.0,0.0
 2015,Romania**1,Djibouti**4,REF,0.0,0.0,0.0
 2015,Romania**1,Eritrea**,REF,12.0,20.0,8.0
@@ -1889,7 +1889,7 @@ Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Ye
 2015,Kazakhstan,Canada**112,REF,9.0,8.0,-1.0
 2015,Kazakhstan,Syrian Arab Republic**4,REF,14.0,23.0,9.0
 2015,Kazakhstan,Uzbekistan**10,REF,27.0,26.0,-1.0
-2015,United States**502, S.A.**,REF,5.0,6.0,1.0
+2015,United States**502,South Africa**,REF,5.0,6.0,1.0
 2015,United States**502,Burundi,REF,657.0,848.0,191.0
 2015,United States**502,Central African Republic**1,REF,0.0,0.0,0.0
 2015,United States**502,Congo-Brazzaville,REF,13.0,24.0,11.0
@@ -1913,7 +1913,7 @@ Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Ye
 2015,Kyrgyzstan**13,Uzbekistan**10,REF,37.0,26.0,-11.0
 2015,Democratic People's Republic of Korea**,Afghanistan**,REF,16.0,32.0,16.0
 2015,Democratic People's Republic of Korea**,United States**35,REF,5.0,5.0,0.0
-2015,Democratic People's Republic of Korea**, S.A.**,REF,5.0,10.0,5.0
+2015,Democratic People's Republic of Korea**,South Africa**,REF,5.0,10.0,5.0
 2015,Democratic People's Republic of Korea**,Bangladesh**,REF,73.0,83.0,10.0
 2015,Democratic People's Republic of Korea**,Canada**112,REF,27.0,35.0,8.0
 2015,Democratic People's Republic of Korea**,United Kingdom**84,REF,13.0,15.0,2.0
@@ -1967,7 +1967,7 @@ Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Ye
 2015,Albania**3,Sudan**37,REF,658.0,624.0,-34.0
 2015,Albania**3,Syrian Arab Republic**4,REF,18653.0,97.0,-18556.0
 2015,United States,Afghanistan**,REF,19.0,20.0,1.0
-2015,United States, S.A.**,REF,26.0,45.0,19.0
+2015,United States,South Africa**,REF,26.0,45.0,19.0
 2015,United States,Bahrain**,REF,9.0,19.0,10.0
 2015,United States,Eritrea**,REF,10.0,20.0,10.0
 2015,United States,Ethiopia**2,REF,5.0,13.0,8.0
@@ -2038,7 +2038,7 @@ Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Ye
 2015,Luxembourg,Ecuador**,REF,7.0,10.0,3.0
 2015,Luxembourg,Ukraine**19,REF,5.0,6.0,1.0
 2015,France,Afghanistan**,REF,28.0,36.0,8.0
-2015,France, S.A.**,REF,5.0,5.0,0.0
+2015,France,South Africa**,REF,5.0,5.0,0.0
 2015,France,Germany**9,REF,5.0,5.0,0.0
 2015,France,United States**22,REF,7.0,7.0,0.0
 2015,France,Gaza Strip,REF,5.0,5.0,0.0
@@ -2179,7 +2179,7 @@ Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Ye
 2015,French Polynesia,Rwanda**3,REF,796.0,849.0,53.0
 2015,French Polynesia,Somali Republic**3,REF,89.0,208.0,119.0
 2015,French Polynesia,Sudan**37,REF,5.0,6.0,1.0
-2015,United States**396, S.A.**,REF,30.0,43.0,13.0
+2015,United States**396,South Africa**,REF,30.0,43.0,13.0
 2015,United States**396,Bangladesh**,REF,6.0,8.0,2.0
 2015,United States**396,United States**22,REF,9.0,9.0,0.0
 2015,United States**396,Canada**112,REF,12.0,12.0,0.0
@@ -2225,7 +2225,7 @@ Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Ye
 2015,Nigeria**52,Mexico**19,REF,15.0,13.0,-2.0
 2015,Nigeria**52,United States**35,REF,35.0,26.0,-9.0
 2015,Nigeria**52,Papua New Guinea**,REF,359.0,183.0,-176.0
-2015,Nigeria**52, S.A.**,REF,189.0,198.0,9.0
+2015,Nigeria**52,South Africa**,REF,189.0,198.0,9.0
 2015,Nigeria**52,Spain**11,REF,811.0,562.0,-249.0
 2015,Nigeria**52,Germany**9,REF,1136.0,621.0,-515.0
 2015,Nigeria**52,Burundi,REF,1131.0,1135.0,4.0
@@ -2331,7 +2331,7 @@ Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Ye
 2015,United States**632,Somali Republic**3,REF,0.0,0.0,0.0
 2015,Nigeria**16,Afghanistan**,REF,5.0,5.0,0.0
 2015,Nigeria**16,Papua New Guinea**,REF,0.0,0.0,0.0
-2015,Nigeria**16, S.A.**,REF,0.0,0.0,0.0
+2015,Nigeria**16,South Africa**,REF,0.0,0.0,0.0
 2015,Nigeria**16,Burundi,REF,0.0,8.0,8.0
 2015,Nigeria**16,Central African Republic**1,REF,77.0,149.0,72.0
 2015,Nigeria**16,Russia**1,REF,79.0,74.0,-5.0
@@ -2352,7 +2352,7 @@ Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Ye
 2015,Norway**15,Mexico**19,REF,30.0,15.0,-15.0
 2015,Norway**15,United States**35,REF,22.0,20.0,-2.0
 2015,Norway**15,Papua New Guinea**,REF,76.0,58.0,-18.0
-2015,Norway**15, S.A.**,REF,26.0,27.0,1.0
+2015,Norway**15,South Africa**,REF,26.0,27.0,1.0
 2015,Norway**15,Spain**11,REF,14.0,13.0,-1.0
 2015,Norway**15,Germany**9,REF,46.0,32.0,-14.0
 2015,Norway**15,Burundi,REF,278.0,120.0,-158.0
@@ -2529,7 +2529,7 @@ Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Ye
 2015,United States**716,United Kingdom**326,REF,15.0,15.0,0.0
 2015,United States**716,Sudan**37,REF,18.0,18.0,0.0
 2015,Sweden**39,Afghanistan**,REF,93.0,93.0,0.0
-2015,Sweden**39, S.A.**,REF,31.0,46.0,15.0
+2015,Sweden**39,South Africa**,REF,31.0,46.0,15.0
 2015,Sweden**39,Spain**11,REF,80.0,78.0,-2.0
 2015,Sweden**39,Germany**9,REF,11.0,8.0,-3.0
 2015,Sweden**39,Bangladesh**,REF,6.0,7.0,1.0
@@ -2595,7 +2595,7 @@ Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Ye
 2015,Canada**61,Syrian Arab Republic**4,REF,14.0,14.0,0.0
 2015,Dominican Republic**9,Afghanistan**,REF,120.0,141.0,21.0
 2015,Dominican Republic**9,United States**35,REF,5.0,5.0,0.0
-2015,Dominican Republic**9, S.A.**,REF,17.0,21.0,4.0
+2015,Dominican Republic**9,South Africa**,REF,17.0,21.0,4.0
 2015,Dominican Republic**9,Central African Republic**1,REF,6.0,8.0,2.0
 2015,Dominican Republic**9,United Kingdom**84,REF,25.0,25.0,0.0
 2015,Dominican Republic**9,Congo-Brazzaville,REF,11.0,11.0,0.0
@@ -2663,7 +2663,7 @@ Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Ye
 2015,Sudan**15,Zimbabwe,REF,6217.0,6358.0,141.0
 2015,Germany**23,Afghanistan**,REF,1104.0,945.0,-159.0
 2015,Germany**23,Papua New Guinea**,REF,0.0,9.0,9.0
-2015,Germany**23, S.A.**,REF,23.0,11.0,-12.0
+2015,Germany**23,South Africa**,REF,23.0,11.0,-12.0
 2015,Germany**23,Germany**9,REF,11.0,18.0,7.0
 2015,Germany**23,Bangladesh**,REF,9.0,13.0,4.0
 2015,Germany**23,Canada**112,REF,5.0,5.0,0.0
@@ -2735,7 +2735,7 @@ Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Ye
 2015,United States**844,Mexico**19,REF,15.0,15.0,0.0
 2015,United States**844,United States**35,REF,38.0,38.0,0.0
 2015,United States**844,Papua New Guinea**,REF,12.0,12.0,0.0
-2015,United States**844, S.A.**,REF,16.0,16.0,0.0
+2015,United States**844,South Africa**,REF,16.0,16.0,0.0
 2015,United States**844,Spain**11,REF,22.0,22.0,0.0
 2015,United States**844,Germany**9,REF,38.0,38.0,0.0
 2015,United States**844,Bangladesh**,REF,15.0,15.0,0.0
@@ -2786,14 +2786,14 @@ Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Ye
 2015,United States**844,Venezuela**21,REF,45.0,45.0,0.0
 2015,United States**844,United States,REF,10.0,10.0,0.0
 2015,United States**844,Yemem,REF,5.0,5.0,0.0
-2015,Serbia, S.A.**,REF,0.0,0.0,0.0
+2015,Serbia,South Africa**,REF,0.0,0.0,0.0
 2015,Serbia,Canada**109,REF,11323.0,9287.0,-2036.0
 2015,Serbia,United Kingdom**84,REF,0.0,0.0,0.0
 2015,Serbia,Congo-Brazzaville,REF,0.0,0.0,0.0
 2015,Serbia,Croatia,REF,32372.0,25962.0,-6410.0
 2015,Serbia,Syrian Arab Republic**4,REF,5.0,11.0,6.0
 2015,Serbia,Ecuador**,REF,0.0,0.0,0.0
-2015,France**95, S.A.**,REF,0.0,0.0,0.0
+2015,France**95,South Africa**,REF,0.0,0.0,0.0
 2015,France**95,Burundi,REF,0.0,0.0,0.0
 2015,France**95,Central African Republic**1,REF,2040.0,1882.0,-158.0
 2015,France**95,Ukraine**27,REF,15485.0,15916.0,431.0
@@ -2803,7 +2803,7 @@ Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Ye
 2015,France**95,Rwanda**3,REF,0.0,0.0,0.0
 2015,France**95,Sudan**37,REF,225727.0,241002.0,15275.0
 2015,France**95,Uganda**20,REF,0.0,0.0,0.0
-2015,Sudan**37, S.A.**,REF,10.0,24.0,14.0
+2015,Sudan**37,South Africa**,REF,10.0,24.0,14.0
 2015,Sudan**37,Spain**11,REF,5.0,5.0,0.0
 2015,Sudan**37,Central African Republic**1,REF,4113.0,1439.0,-2674.0
 2015,Sudan**37,Central African Republic**1,REF-like,0.0,0.0,0.0
@@ -2859,7 +2859,7 @@ Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Ye
 2015,Sweden**46,Mexico**19,REF,289.0,297.0,8.0
 2015,Sweden**46,United States**35,REF,74.0,61.0,-13.0
 2015,Sweden**46,Papua New Guinea**,REF,70.0,68.0,-2.0
-2015,Sweden**46, S.A.**,REF,228.0,274.0,46.0
+2015,Sweden**46,South Africa**,REF,228.0,274.0,46.0
 2015,Sweden**46,Spain**11,REF,573.0,559.0,-14.0
 2015,Sweden**46,Germany**9,REF,856.0,783.0,-73.0
 2015,Sweden**46,Bahrain**,REF,14.0,14.0,0.0
@@ -2962,7 +2962,7 @@ Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Ye
 2015,United States**796,Mexico**19,REF,47.0,64.0,17.0
 2015,United States**796,United States**35,REF,166.0,158.0,-8.0
 2015,United States**796,Papua New Guinea**,REF,975.0,918.0,-57.0
-2015,United States**796, S.A.**,REF,64.0,86.0,22.0
+2015,United States**796,South Africa**,REF,64.0,86.0,22.0
 2015,United States**796,Spain**11,REF,108.0,120.0,12.0
 2015,United States**796,Germany**9,REF,74.0,79.0,5.0
 2015,United States**796,Burundi,REF,66.0,67.0,1.0
@@ -3048,7 +3048,7 @@ Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Ye
 2015,United States**796,Zimbabwe,REF,14.0,18.0,4.0
 2015,Syrian Arab Republic**4,Afghanistan**,REF,1214.0,1213.0,-1.0
 2015,Syrian Arab Republic**4,United States**35,REF,9.0,8.0,-1.0
-2015,Syrian Arab Republic**4, S.A.**,REF,18.0,27.0,9.0
+2015,Syrian Arab Republic**4,South Africa**,REF,18.0,27.0,9.0
 2015,Syrian Arab Republic**4,Finland**5,REF,6.0,5.0,-1.0
 2015,Syrian Arab Republic**4,Democratic Republic of the Congo**7,REF,0.0,0.0,0.0
 2015,Syrian Arab Republic**4,Russia**1,REF,6.0,7.0,1.0
@@ -3125,7 +3125,7 @@ Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Ye
 2015,Sudan**43,United States**570,REF,6.0,6.0,0.0
 2015,Sudan**43,Syrian Arab Republic**4,REF,8.0,22.0,14.0
 2015,Kiribati**1,United States**35,REF,15.0,13.0,-2.0
-2015,Kiribati**1, S.A.**,REF,0.0,0.0,0.0
+2015,Kiribati**1,South Africa**,REF,0.0,0.0,0.0
 2015,Kiribati**1,Eritrea**,REF,43.0,9.0,-34.0
 2015,Kiribati**1,Ethiopia**2,REF,19.0,5.0,-14.0
 2015,Kiribati**1,Gaza Strip,REF,42.0,35.0,-7.0
@@ -3137,7 +3137,7 @@ Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Ye
 2015,Kiribati**1,Sudan**37,REF,84.0,51.0,-33.0
 2015,Kiribati**1,Syrian Arab Republic**4,REF,558.0,499.0,-59.0
 2015,Ecuador**,Afghanistan**,REF,4188.0,3846.0,-342.0
-2015,Ecuador**, S.A.**,REF,22.0,30.0,8.0
+2015,Ecuador**,South Africa**,REF,22.0,30.0,8.0
 2015,Ecuador**,Canada**112,REF,16.0,14.0,-2.0
 2015,Ecuador**,United Kingdom**84,REF,9.0,8.0,-1.0
 2015,Ecuador**,Congo-Brazzaville,REF,10.0,9.0,-1.0
@@ -3177,7 +3177,7 @@ Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Ye
 2015,United Arab Emirates**11,Somali Republic**3,REF,21.0,21.0,0.0
 2015,United Arab Emirates**11,Sudan**37,REF,6.0,5.0,-1.0
 2015,United Arab Emirates**11,Syrian Arab Republic**4,REF,28.0,36.0,8.0
-2015,Uganda**20, S.A.**,REF,5.0,0.0,-5.0
+2015,Uganda**20,South Africa**,REF,5.0,0.0,-5.0
 2015,Uganda**20,Burundi,REF,11903.0,26256.0,14353.0
 2015,Uganda**20,Central African Republic**1,REF,14.0,13.0,-1.0
 2015,Uganda**20,Russia**1,REF,5.0,5.0,0.0
@@ -3242,7 +3242,7 @@ Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Ye
 2015,United States**933,Mexico**19,REF,2751.0,2194.0,-557.0
 2015,United States**933,United States**35,REF,172.0,145.0,-27.0
 2015,United States**933,Papua New Guinea**,REF,122.0,133.0,11.0
-2015,United States**933, S.A.**,REF,10047.0,10852.0,805.0
+2015,United States**933,South Africa**,REF,10047.0,10852.0,805.0
 2015,United States**933,Argentina**3,REF,85.0,73.0,-12.0
 2015,United States**933,Spain**11,REF,2816.0,2440.0,-376.0
 2015,United States**933,Germany**9,REF,384.0,339.0,-45.0
@@ -3403,7 +3403,7 @@ Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Ye
 2015,Venezuela**21,Canada**98,REF,15.0,15.0,0.0
 2015,Venezuela**21,Pakistan**14,REF,7.0,7.0,0.0
 2015,Venezuela**21,Serbia,REF,5.0,5.0,0.0
-2015,Yemem, S.A.**,REF,15.0,15.0,0.0
+2015,Yemem,South Africa**,REF,15.0,15.0,0.0
 2015,Yemem,Congo-Brazzaville,REF,0.0,0.0,0.0
 2015,Yemem,Ukraine**27,REF,5.0,5.0,0.0
 2015,Yemem,Eritrea**,REF,1254.0,1278.0,24.0

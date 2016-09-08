@@ -1,0 +1,3442 @@
+Year,Country_Of_Asylum,Country_Of_Origin,Population_Type,Begin_Year_Total,End_Year_Total,Total_Movement
+2015,Afghanistan,Iran,REF,36.0,30.0,-6.0
+2015,Afghanistan,United States,REF-like,20156.0,20485.0,329.0
+2015,Afghanistan,United States,REF,280229.0,237038.0,-43191.0
+2015,Mexico,Canada,REF,12.0,11.0,-1.0
+2015,Mexico,Serbia,REF,64.0,59.0,-5.0
+2015,Mexico,Kiribati,REF,0.0,0.0,0.0
+2015,United States,Papua New Guinea,REF,0.0,0.0,0.0
+2015,United States,United Kingdom,REF,9.0,10.0,1.0
+2015,United States,Ukraine,REF,40.0,42.0,2.0
+2015,United States,Gaza Strip,REF,4016.0,4016.0,0.0
+2015,United States,Cocos Islands,REF,23.0,23.0,0.0
+2015,United States,Iran,REF,16.0,21.0,5.0
+2015,United States,United States,REF,90000.0,90000.0,0.0
+2015,Papua New Guinea,Burundi,REF,8.0,9.0,1.0
+2015,Papua New Guinea,Central African Republic,REF,9.0,9.0,0.0
+2015,Papua New Guinea,Russia,REF,177.0,184.0,7.0
+2015,Papua New Guinea,Ukraine,REF,12944.0,12944.0,0.0
+2015,Papua New Guinea,Cuba,REF,0.0,0.0,0.0
+2015,Papua New Guinea,Eritrea,REF,19.0,34.0,15.0
+2015,Papua New Guinea,Republic of Guinea,REF,108.0,107.0,-1.0
+2015,Papua New Guinea,Cocos Islands,REF,513.0,510.0,-3.0
+2015,Papua New Guinea,Iran,REF,0.0,0.0,0.0
+2015,Papua New Guinea,Germany,REF,153.0,155.0,2.0
+2015,Papua New Guinea,Mauritius,REF,299.0,306.0,7.0
+2015,Papua New Guinea,Rwanda,REF,257.0,273.0,16.0
+2015,Papua New Guinea,South Africa,REF,372.0,374.0,2.0
+2015,Papua New Guinea,Somali Republic,REF,272.0,288.0,16.0
+2015,Papua New Guinea,Sudan,REF,300.0,313.0,13.0
+2015,Papua New Guinea,Uganda,REF,6.0,6.0,0.0
+2015,Papua New Guinea,United States,REF,14.0,18.0,4.0
+2015,Papua New Guinea,Zambia,REF,7.0,7.0,0.0
+2015,Canada,Syrian Arab Republic,REF,0.0,15.0,15.0
+2015,South Africa,Papua New Guinea,REF,0.0,0.0,0.0
+2015,South Africa,Burundi,REF,37.0,24.0,-13.0
+2015,South Africa,Russia,REF,40.0,45.0,5.0
+2015,South Africa,Ukraine,REF,45.0,41.0,-4.0
+2015,South Africa,Djibouti,REF,6.0,5.0,-1.0
+2015,South Africa,Eritrea,REF,1625.0,1405.0,-220.0
+2015,South Africa,Ethiopia,REF,1138.0,1085.0,-53.0
+2015,South Africa,Gaza Strip,REF,70023.0,70021.0,-2.0
+2015,South Africa,Republic of Guinea,REF,9.0,9.0,0.0
+2015,South Africa,Cocos Islands,REF,298.0,249.0,-49.0
+2015,South Africa,Iran,REF,5149.0,4347.0,-802.0
+2015,South Africa,Romania,REF,0.0,0.0,0.0
+2015,South Africa,United States,REF,6.0,7.0,1.0
+2015,South Africa,Mali,REF,8.0,9.0,1.0
+2015,South Africa,Mexico,REF,0.0,0.0,0.0
+2015,South Africa,Nigeria,REF,5.0,5.0,0.0
+2015,South Africa,United States,REF,0.0,0.0,0.0
+2015,South Africa,Germany,REF,21.0,19.0,-2.0
+2015,South Africa,Somali Republic,REF,5733.0,4491.0,-1242.0
+2015,South Africa,France,REF,542.0,1686.0,1144.0
+2015,South Africa,Sudan,REF,12730.0,11296.0,-1434.0
+2015,South Africa,Syrian Arab Republic,REF,138381.0,117635.0,-20746.0
+2015,South Africa,Tajikistan,REF,11.0,11.0,0.0
+2015,South Africa,Uganda,REF,15.0,9.0,-6.0
+2015,South Africa,Yemem,REF,198.0,54.0,-144.0
+2015,South Africa,Zimbabwe,REF,8.0,9.0,1.0
+2015,Argentina,Afghanistan,REF,5.0,5.0,0.0
+2015,Argentina,Mexico,REF,25.0,20.0,-5.0
+2015,Argentina,United States,REF,41.0,34.0,-7.0
+2015,Argentina,Papua New Guinea,REF,13.0,14.0,1.0
+2015,Argentina,Spain,REF,122.0,79.0,-43.0
+2015,Argentina,Bangladesh,REF,0.0,5.0,5.0
+2015,Argentina,Canada,REF,6.0,6.0,0.0
+2015,Argentina,United States,REF,36.0,36.0,0.0
+2015,Argentina,United Kingdom,REF,11.0,6.0,-5.0
+2015,Argentina,Congo-Brazzaville,REF,9.0,5.0,-4.0
+2015,Argentina,Ukraine,REF,25.0,23.0,-2.0
+2015,Argentina,Canada,REF,551.0,541.0,-10.0
+2015,Argentina,Costa Rica,REF,5.0,5.0,0.0
+2015,Argentina,Cuba,REF,342.0,265.0,-77.0
+2015,Argentina,Ecuador,REF,16.0,17.0,1.0
+2015,Argentina,Ghana,REF,64.0,42.0,-22.0
+2015,Argentina,Guinea-Bissau,REF,18.0,15.0,-3.0
+2015,Argentina,Republic of Guinea,REF,11.0,8.0,-3.0
+2015,Argentina,Canada,REF,66.0,65.0,-1.0
+2015,Argentina,Cocos Islands,REF,36.0,21.0,-15.0
+2015,Argentina,Ireland,REF,30.0,23.0,-7.0
+2015,Argentina,Iran,REF,19.0,22.0,3.0
+2015,Argentina,Iran,REF,26.0,18.0,-8.0
+2015,Argentina,Kazakhstan,REF,22.0,18.0,-4.0
+2015,Argentina,Germany,REF,67.0,51.0,-16.0
+2015,Argentina,Lao Peoples Democratic Republic,REF,34.0,37.0,3.0
+2015,Argentina,United Kingdom,REF,17.0,9.0,-8.0
+2015,Argentina,Mali,REF,19.0,11.0,-8.0
+2015,Argentina,Nigeria,REF,55.0,44.0,-11.0
+2015,Argentina,United States,REF,50.0,33.0,-17.0
+2015,Argentina,Australia,REF,8.0,8.0,0.0
+2015,Argentina,Pakistan,REF,582.0,548.0,-34.0
+2015,Argentina,Dominican Republic,REF,54.0,51.0,-3.0
+2015,Argentina,Germany,REF,62.0,62.0,0.0
+2015,Argentina,El Salvador,REF,13.0,13.0,0.0
+2015,Argentina,United Kingdom,REF,65.0,47.0,-18.0
+2015,Argentina,South Africa,REF,41.0,39.0,-2.0
+2015,Argentina,Somali Republic,REF,5.0,5.0,0.0
+2015,Argentina,Serbia,REF,0.0,0.0,0.0
+2015,Argentina,United Kingdom,REF,10.0,6.0,-4.0
+2015,Argentina,Syrian Arab Republic,REF,233.0,276.0,43.0
+2015,Argentina,Ecuador,REF,15.0,13.0,-2.0
+2015,Argentina,Ukraine,REF,24.0,44.0,20.0
+2015,Argentina,Bulgaria,REF,550.0,532.0,-18.0
+2015,Argentina,Yemem,REF,15.0,15.0,0.0
+2015,Spain,Germany,REF,1554.0,1501.0,-53.0
+2015,Spain,Gaza Strip,REF,6.0,6.0,0.0
+2015,Spain,Guyana,REF,8.0,8.0,0.0
+2015,Spain,Cocos Islands,REF,6.0,6.0,0.0
+2015,Spain,Iran,REF,27.0,30.0,3.0
+2015,Spain,Iran,REF,979.0,1019.0,40.0
+2015,Spain,United States,REF,18.0,19.0,1.0
+2015,Spain,Syrian Arab Republic,REF-like,14450.0,16000.0,1550.0
+2015,Spain,Syrian Arab Republic,REF,544.0,611.0,67.0
+2015,Spain,Ukraine,REF,43.0,109.0,66.0
+2015,Russia,Afghanistan,REF,7675.0,7785.0,110.0
+2015,Russia,Mexico,REF,65.0,66.0,1.0
+2015,Russia,United States,REF,13.0,12.0,-1.0
+2015,Russia,South Africa,REF,1370.0,1507.0,137.0
+2015,Russia,Bahrain,REF,91.0,92.0,1.0
+2015,Russia,Burundi,REF,27.0,31.0,4.0
+2015,Russia,Bangladesh,REF,351.0,380.0,29.0
+2015,Russia,United States,REF,25.0,22.0,-3.0
+2015,Russia,Canada,REF,2883.0,2955.0,72.0
+2015,Russia,United Kingdom,REF,52.0,55.0,3.0
+2015,Russia,Congo-Brazzaville,REF,16.0,12.0,-4.0
+2015,Russia,Ukraine,REF,30.0,26.0,-4.0
+2015,Russia,Canada,REF,135.0,132.0,-3.0
+2015,Russia,Eritrea,REF,109.0,105.0,-4.0
+2015,Russia,Ethiopia,REF,229.0,231.0,2.0
+2015,Russia,Fiji,REF,359.0,379.0,20.0
+2015,Russia,Gaza Strip,REF,246.0,249.0,3.0
+2015,Russia,Guyana,REF,10.0,14.0,4.0
+2015,Russia,France,REF,5.0,5.0,0.0
+2015,Russia,Ghana,REF,32.0,31.0,-1.0
+2015,Russia,Republic of Guinea,REF,7.0,9.0,2.0
+2015,Russia,Cocos Islands,REF,7.0,7.0,0.0
+2015,Russia,Ireland,REF,314.0,337.0,23.0
+2015,Russia,United Kingdom,REF,241.0,226.0,-15.0
+2015,Russia,Iran,REF,4900.0,5201.0,301.0
+2015,Russia,Iran,REF,3121.0,2925.0,-196.0
+2015,Russia,Israel,REF,31.0,27.0,-4.0
+2015,Russia,Romania,REF,106.0,115.0,9.0
+2015,Russia,United Kingdom,REF,7.0,7.0,0.0
+2015,Russia,United States,REF,68.0,81.0,13.0
+2015,Russia,Kyrgyzstan,REF,8.0,9.0,1.0
+2015,Russia,Democratic People's Republic of Korea,REF,44.0,46.0,2.0
+2015,Russia,Kazakhstan,REF,30.0,26.0,-4.0
+2015,Russia,United States,REF,41.0,41.0,0.0
+2015,Russia,Germany,REF,24.0,27.0,3.0
+2015,Russia,Albania,REF,465.0,626.0,161.0
+2015,Russia,United States,REF,393.0,485.0,92.0
+2015,Russia,Lao Peoples Democratic Republic,REF,3387.0,3556.0,169.0
+2015,Russia,France,REF,6.0,6.0,0.0
+2015,Russia,Moldova,REF,7.0,10.0,3.0
+2015,Russia,United States,REF,105.0,123.0,18.0
+2015,Russia,Mongolia,REF,50.0,46.0,-4.0
+2015,Russia,Mexico,REF,19.0,19.0,0.0
+2015,Russia,French Polynesia,REF,5.0,5.0,0.0
+2015,Russia,Iceland,REF,515.0,495.0,-20.0
+2015,Russia,Nigeria,REF,144.0,148.0,4.0
+2015,Russia,New Zealand,REF,5.0,8.0,3.0
+2015,Russia,United States,REF,3024.0,3333.0,309.0
+2015,Russia,Netherlands,REF,31.0,34.0,3.0
+2015,Russia,United States,REF,285.0,335.0,50.0
+2015,Russia,Dominican Republic,REF,11.0,10.0,-1.0
+2015,Russia,Sudan,REF,35.0,35.0,0.0
+2015,Russia,Germany,REF,66.0,56.0,-10.0
+2015,Russia,Rwanda,REF,28.0,36.0,8.0
+2015,Russia,Spain,REF,61.0,70.0,9.0
+2015,Russia,South Africa,REF,37.0,38.0,1.0
+2015,Russia,Solomon Islands,REF,19.0,22.0,3.0
+2015,Russia,Somali Republic,REF,73.0,71.0,-2.0
+2015,Russia,Serbia,REF,21.0,10.0,-11.0
+2015,Russia,Mexico,REF,93.0,94.0,1.0
+2015,Russia,United Kingdom,REF,1710.0,1727.0,17.0
+2015,Russia,Sudan,REF,59.0,58.0,-1.0
+2015,Russia,Syrian Arab Republic,REF,302.0,301.0,-1.0
+2015,Russia,Tanzania,REF,10.0,12.0,2.0
+2015,Russia,Thailand,REF,15.0,15.0,0.0
+2015,Russia,Brazil,REF,8.0,11.0,3.0
+2015,Russia,United States,REF,8.0,14.0,6.0
+2015,Russia,Mexico,REF,19.0,22.0,3.0
+2015,Russia,Kiribati,REF,6.0,6.0,0.0
+2015,Russia,Ecuador,REF,390.0,413.0,23.0
+2015,Russia,United Arab Emirates,REF,5.0,5.0,0.0
+2015,Russia,Uganda,REF,51.0,50.0,-1.0
+2015,Russia,Ukraine,REF,22.0,21.0,-1.0
+2015,Russia,United States,REF,13.0,15.0,2.0
+2015,Russia,Uzbekistan,REF,30.0,26.0,-4.0
+2015,Russia,Bulgaria,REF,24.0,24.0,0.0
+2015,Russia,Venezuela,REF,9.0,9.0,0.0
+2015,Russia,Yemem,REF,8.0,13.0,5.0
+2015,Russia,Zambia,REF,8.0,9.0,1.0
+2015,Russia,Zimbabwe,REF,1020.0,1009.0,-11.0
+2015,Australia,Afghanistan,REF,14793.0,17458.0,2665.0
+2015,Australia,Mexico,REF,118.0,106.0,-12.0
+2015,Australia,United States,REF,53.0,52.0,-1.0
+2015,Australia,Papua New Guinea,REF,133.0,121.0,-12.0
+2015,Australia,South Africa,REF,124.0,137.0,13.0
+2015,Australia,Spain,REF,996.0,957.0,-39.0
+2015,Australia,Germany,REF,419.0,405.0,-14.0
+2015,Australia,Burundi,REF,16.0,19.0,3.0
+2015,Australia,Bangladesh,REF,141.0,201.0,60.0
+2015,Australia,Finland,REF,11.0,12.0,1.0
+2015,Australia,United States,REF,109.0,102.0,-7.0
+2015,Australia,Bolivia,REF,11.0,11.0,0.0
+2015,Australia,Canada,REF,206.0,179.0,-27.0
+2015,Australia,Canada,REF,457.0,499.0,42.0
+2015,Australia,United Kingdom,REF,240.0,246.0,6.0
+2015,Australia,Congo-Brazzaville,REF,126.0,126.0,0.0
+2015,Australia,Ukraine,REF,450.0,419.0,-31.0
+2015,Australia,Cuba,REF,24.0,21.0,-3.0
+2015,Australia,Eritrea,REF,120.0,159.0,39.0
+2015,Australia,Ethiopia,REF,144.0,145.0,1.0
+2015,Australia,Germany,REF,100.0,122.0,22.0
+2015,Australia,Guyana,REF,739.0,681.0,-58.0
+2015,Australia,Ghana,REF,35.0,33.0,-2.0
+2015,Australia,Mexico,REF,6.0,6.0,0.0
+2015,Australia,Republic of Guinea,REF,95.0,126.0,31.0
+2015,Australia,Cocos Islands,REF,66.0,65.0,-1.0
+2015,Australia,Ireland,REF,56.0,61.0,5.0
+2015,Australia,Iran,REF,3203.0,3379.0,176.0
+2015,Australia,Iran,REF,3015.0,3732.0,717.0
+2015,Australia,Israel,REF,10.0,10.0,0.0
+2015,Australia,Romania,REF,16.0,30.0,14.0
+2015,Australia,Kazakhstan,REF,61.0,66.0,5.0
+2015,Australia,United States,REF,27.0,29.0,2.0
+2015,Australia,Kyrgyzstan,REF,286.0,273.0,-13.0
+2015,Australia,Germany,REF,23.0,22.0,-1.0
+2015,Australia,Albania,REF,8.0,24.0,16.0
+2015,Australia,United States,REF,52.0,63.0,11.0
+2015,Australia,Lao Peoples Democratic Republic,REF,38.0,54.0,16.0
+2015,Australia,Mauritius,REF,6.0,5.0,-1.0
+2015,Australia,United Kingdom,REF,152.0,136.0,-16.0
+2015,Australia,Taiwan,REF,137.0,121.0,-16.0
+2015,Australia,Mali,REF,11.0,12.0,1.0
+2015,Australia,Mexico,REF,16.0,23.0,7.0
+2015,Australia,Mongolia,REF,200.0,200.0,0.0
+2015,Australia,Iceland,REF,30.0,34.0,4.0
+2015,Australia,Nepal,REF,41.0,47.0,6.0
+2015,Australia,Nigeria,REF,370.0,393.0,23.0
+2015,Australia,United States,REF,179.0,203.0,24.0
+2015,Australia,Netherlands,REF,7.0,7.0,0.0
+2015,Australia,Dominican Republic,REF,33.0,20.0,-13.0
+2015,Australia,Germany,REF,17361.0,15526.0,-1835.0
+2015,Australia,Rwanda,REF,24.0,21.0,-3.0
+2015,Australia,United Kingdom,REF,7.0,8.0,1.0
+2015,Australia,South Africa,REF,29.0,30.0,1.0
+2015,Australia,Somali Republic,REF,2641.0,3406.0,765.0
+2015,Australia,Serbia,REF,2683.0,2199.0,-484.0
+2015,Australia,United Kingdom,REF,1141.0,2467.0,1326.0
+2015,Australia,Sudan,REF,277.0,277.0,0.0
+2015,Australia,Syrian Arab Republic,REF,6653.0,14894.0,8241.0
+2015,Australia,Tajikistan,REF,82.0,97.0,15.0
+2015,Australia,Guatemala,REF,6.0,6.0,0.0
+2015,Australia,United States,REF,24.0,14.0,-10.0
+2015,Australia,Kiribati,REF,8.0,8.0,0.0
+2015,Australia,Ecuador,REF,1191.0,1125.0,-66.0
+2015,Australia,Uganda,REF,18.0,16.0,-2.0
+2015,Australia,Ukraine,REF,300.0,287.0,-13.0
+2015,Australia,Uzbekistan,REF,141.0,140.0,-1.0
+2015,Australia,Bulgaria,REF,275.0,111.0,-164.0
+2015,Australia,Yemem,REF,17.0,30.0,13.0
+2015,Australia,Zimbabwe,REF,22.0,23.0,1.0
+2015,Germany,Afghanistan,REF,618.0,602.0,-16.0
+2015,Germany,Spain,REF,0.0,0.0,0.0
+2015,Germany,Ukraine,REF,0.0,0.0,0.0
+2015,Germany,Iran,REF,76.0,71.0,-5.0
+2015,Germany,Iran,REF,15.0,16.0,1.0
+2015,Germany,Kazakhstan,REF,0.0,0.0,0.0
+2015,Germany,United States,REF,17.0,18.0,1.0
+2015,Germany,Germany,REF,557.0,539.0,-18.0
+2015,Germany,Syrian Arab Republic,REF,7.0,8.0,1.0
+2015,Germany,United Arab Emirates,REF,0.0,0.0,0.0
+2015,Bahrain,Iran,REF,303.0,237.0,-66.0
+2015,Bahrain,Yemem,REF,7.0,9.0,2.0
+2015,Burundi,Libya,REF,0.0,0.0,0.0
+2015,Burundi,Ukraine,REF,52631.0,53029.0,398.0
+2015,Burundi,Ethiopia,REF,0.0,0.0,0.0
+2015,Burundi,Mauritius,REF,0.0,0.0,0.0
+2015,Burundi,Rwanda,REF,281.0,304.0,23.0
+2015,Burundi,Somali Republic,REF,19.0,18.0,-1.0
+2015,Burundi,Sudan,REF,0.0,0.0,0.0
+2015,Brazil,Afghanistan,REF,2460.0,2934.0,474.0
+2015,Brazil,Mexico,REF,442.0,484.0,42.0
+2015,Brazil,United States,REF,37.0,47.0,10.0
+2015,Brazil,Papua New Guinea,REF,97.0,100.0,3.0
+2015,Brazil,South Africa,REF,42.0,59.0,17.0
+2015,Brazil,Argentina,REF,0.0,0.0,0.0
+2015,Brazil,Spain,REF,99.0,126.0,27.0
+2015,Brazil,Australia,REF,0.0,0.0,0.0
+2015,Brazil,Germany,REF,52.0,76.0,24.0
+2015,Brazil,Burundi,REF,274.0,311.0,37.0
+2015,Brazil,Libya,REF,34.0,33.0,-1.0
+2015,Brazil,Bangladesh,REF,20.0,19.0,-1.0
+2015,Brazil,Finland,REF,54.0,72.0,18.0
+2015,Brazil,United States,REF,44.0,48.0,4.0
+2015,Brazil,Brazil,REF,0.0,0.0,0.0
+2015,Brazil,Canada,REF,53.0,52.0,-1.0
+2015,Brazil,Democratic Republic of the Congo,REF,19.0,19.0,0.0
+2015,Brazil,United States,REF,10.0,9.0,-1.0
+2015,Brazil,United Kingdom,REF,0.0,0.0,0.0
+2015,Brazil,Central African Republic,REF,22.0,31.0,9.0
+2015,Brazil,Russia,REF,38.0,41.0,3.0
+2015,Brazil,Canada,REF,1219.0,1305.0,86.0
+2015,Brazil,United States,REF,53.0,49.0,-4.0
+2015,Brazil,United Kingdom,REF,360.0,386.0,26.0
+2015,Brazil,Congo-Brazzaville,REF,35.0,35.0,0.0
+2015,Brazil,Ukraine,REF,894.0,1008.0,114.0
+2015,Brazil,Canada,REF,35.0,36.0,1.0
+2015,Brazil,Costa Rica,REF,0.0,0.0,0.0
+2015,Brazil,Venezuela,REF,7.0,6.0,-1.0
+2015,Brazil,United States,REF,0.0,0.0,0.0
+2015,Brazil,Djibouti,REF,165.0,228.0,63.0
+2015,Brazil,Uganda,REF,0.0,0.0,0.0
+2015,Brazil,Eritrea,REF,222.0,700.0,478.0
+2015,Brazil,Ethiopia,REF,82.0,103.0,21.0
+2015,Brazil,Finland,REF,0.0,0.0,0.0
+2015,Brazil,United Kingdom,REF,0.0,0.0,0.0
+2015,Brazil,Canada,REF,7.0,14.0,7.0
+2015,Brazil,Germany,REF,5.0,10.0,5.0
+2015,Brazil,Gaza Strip,REF,79.0,90.0,11.0
+2015,Brazil,United States,REF,0.0,0.0,0.0
+2015,Brazil,Guyana,REF,51.0,51.0,0.0
+2015,Brazil,Ghana,REF,32.0,35.0,3.0
+2015,Brazil,Guinea-Bissau,REF,13.0,11.0,-2.0
+2015,Brazil,Greece,REF,0.0,0.0,0.0
+2015,Brazil,Mexico,REF,7.0,7.0,0.0
+2015,Brazil,Republic of Guinea,REF,2742.0,3150.0,408.0
+2015,Brazil,Croatia,REF,7.0,6.0,-1.0
+2015,Brazil,Taiwan,REF,62.0,54.0,-8.0
+2015,Brazil,Cocos Islands,REF,165.0,165.0,0.0
+2015,Brazil,Ireland,REF,22.0,22.0,0.0
+2015,Brazil,Iran,REF,766.0,934.0,168.0
+2015,Brazil,Iran,REF,1602.0,1943.0,341.0
+2015,Brazil,Israel,REF,13.0,15.0,2.0
+2015,Brazil,United States,REF,0.0,0.0,0.0
+2015,Brazil,Romania,REF,30.0,31.0,1.0
+2015,Brazil,Kazakhstan,REF,40.0,41.0,1.0
+2015,Brazil,United States,REF,25.0,32.0,7.0
+2015,Brazil,Kyrgyzstan,REF,68.0,70.0,2.0
+2015,Brazil,Democratic People's Republic of Korea,REF,53.0,0.0,-53.0
+2015,Brazil,Kazakhstan,REF,66.0,46.0,-20.0
+2015,Brazil,United States,REF,8.0,7.0,-1.0
+2015,Brazil,Lao Peoples Democratic Republic,REF,14.0,13.0,-1.0
+2015,Brazil,Germany,REF,20.0,18.0,-2.0
+2015,Brazil,Albania,REF,93.0,39.0,-54.0
+2015,Brazil,United States,REF,93.0,109.0,16.0
+2015,Brazil,Lao Peoples Democratic Republic,REF,340.0,387.0,47.0
+2015,Brazil,Germany,REF,8.0,7.0,-1.0
+2015,Brazil,Mauritius,REF,198.0,211.0,13.0
+2015,Brazil,United Kingdom,REF,80.0,101.0,21.0
+2015,Brazil,United States,REF,0.0,0.0,0.0
+2015,Brazil,Mali,REF,50.0,62.0,12.0
+2015,Brazil,United States,REF,0.0,0.0,0.0
+2015,Brazil,Mexico,REF,0.0,0.0,0.0
+2015,Brazil,Mongolia,REF,0.0,0.0,0.0
+2015,Brazil,Mexico,REF,42.0,61.0,19.0
+2015,Brazil,Iceland,REF,11.0,10.0,-1.0
+2015,Brazil,Nepal,REF,13.0,13.0,0.0
+2015,Brazil,Nigeria,REF,0.0,0.0,0.0
+2015,Brazil,Nigeria,REF,77.0,83.0,6.0
+2015,Brazil,Nigeria,REF,31.0,37.0,6.0
+2015,Brazil,United States,REF,121.0,188.0,67.0
+2015,Brazil,Sweden,REF,179.0,167.0,-12.0
+2015,Brazil,Dominican Republic,REF,39.0,41.0,2.0
+2015,Brazil,Germany,REF,2613.0,2733.0,120.0
+2015,Brazil,Rwanda,REF,915.0,897.0,-18.0
+2015,Brazil,El Salvador,REF,5.0,6.0,1.0
+2015,Brazil,United Kingdom,REF,341.0,404.0,63.0
+2015,Brazil,South Africa,REF,30.0,30.0,0.0
+2015,Brazil,Somali Republic,REF,454.0,648.0,194.0
+2015,Brazil,Serbia,REF,36.0,92.0,56.0
+2015,Brazil,Mexico,REF,43.0,42.0,-1.0
+2015,Brazil,United Kingdom,REF,0.0,0.0,0.0
+2015,Brazil,Sudan,REF,80.0,123.0,43.0
+2015,Brazil,Slovakia,REF,0.0,0.0,0.0
+2015,Brazil,Sweden,REF,0.0,0.0,0.0
+2015,Brazil,United States,REF,0.0,0.0,0.0
+2015,Brazil,Syrian Arab Republic,REF,1658.0,4239.0,2581.0
+2015,Brazil,Tanzania,REF,54.0,62.0,8.0
+2015,Brazil,Tajikistan,REF,0.0,13.0,13.0
+2015,Brazil,United States,REF,150.0,174.0,24.0
+2015,Brazil,Kiribati,REF,16.0,30.0,14.0
+2015,Brazil,Ecuador,REF,618.0,627.0,9.0
+2015,Brazil,Uganda,REF,25.0,27.0,2.0
+2015,Brazil,Ukraine,REF,79.0,122.0,43.0
+2015,Brazil,United States,REF,0.0,0.0,0.0
+2015,Brazil,Uzbekistan,REF,22.0,22.0,0.0
+2015,Brazil,Bulgaria,REF,8230.0,8345.0,115.0
+2015,Brazil,Yemem,REF,10.0,27.0,17.0
+2015,Libya,Central African Republic,REF,234.0,349.0,115.0
+2015,Libya,Cocos Islands,REF,155.0,157.0,2.0
+2015,Libya,Lao Peoples Democratic Republic,REF,5.0,5.0,0.0
+2015,Libya,Mali,REF,5.0,5.0,0.0
+2015,Libya,United States,REF,5.0,5.0,0.0
+2015,Libya,Syrian Arab Republic,REF,0.0,0.0,0.0
+2015,Bangladesh,Iran,REF,0.0,0.0,0.0
+2015,Bangladesh,Lao Peoples Democratic Republic,REF,0.0,0.0,0.0
+2015,Bangladesh,Iceland,REF-like,200000.0,200000.0,0.0
+2015,Bangladesh,Iceland,REF,32462.0,31948.0,-514.0
+2015,Bangladesh,Somali Republic,REF,6.0,6.0,0.0
+2015,Bahamas,Cuba,REF,12.0,7.0,-5.0
+2015,Bahamas,Cuba,REF-like,0.0,0.0,0.0
+2015,Bahamas,Iran,REF,0.0,0.0,0.0
+2015,Finland,Burundi,REF,28.0,31.0,3.0
+2015,Finland,Central African Republic,REF,40.0,153.0,113.0
+2015,Finland,Russia,REF,90.0,112.0,22.0
+2015,Finland,United Kingdom,REF,5.0,5.0,0.0
+2015,Finland,Congo-Brazzaville,REF,39.0,42.0,3.0
+2015,Finland,Ukraine,REF,26.0,25.0,-1.0
+2015,Finland,Ghana,REF,0.0,0.0,0.0
+2015,Finland,Republic of Guinea,REF,0.0,0.0,0.0
+2015,Finland,Mauritius,REF,0.0,0.0,0.0
+2015,Finland,Mali,REF,31604.0,33574.0,1970.0
+2015,Finland,Rwanda,REF,36.0,46.0,10.0
+2015,Finland,Mexico,REF,0.0,0.0,0.0
+2015,Finland,Sudan,REF,8.0,9.0,1.0
+2015,Finland,United States,REF,13.0,15.0,2.0
+2015,United States,Afghanistan,REF,399.0,403.0,4.0
+2015,United States,South Africa,REF,6.0,6.0,0.0
+2015,United States,Germany,REF,15.0,14.0,-1.0
+2015,United States,Ethiopia,REF,8.0,8.0,0.0
+2015,United States,Gaza Strip,REF,6.0,6.0,0.0
+2015,United States,Guyana,REF,87.0,81.0,-6.0
+2015,United States,Iran,REF,15.0,10.0,-5.0
+2015,United States,Iran,REF,9.0,9.0,0.0
+2015,United States,United States,REF,0.0,0.0,0.0
+2015,United States,Syrian Arab Republic,REF,72.0,138.0,66.0
+2015,United States,Tajikistan,REF,12.0,12.0,0.0
+2015,United States,Ukraine,REF,284.0,1089.0,805.0
+2015,Bolivia,Canada,REF,0.0,0.0,0.0
+2015,Bolivia,United States,REF,8.0,8.0,0.0
+2015,Bolivia,Canada,REF,184.0,193.0,9.0
+2015,Bolivia,Cuba,REF,9.0,9.0,0.0
+2015,Bolivia,Iran,REF,16.0,16.0,0.0
+2015,Bolivia,Pakistan,REF,513.0,514.0,1.0
+2015,Bolivia,Germany,REF,5.0,5.0,0.0
+2015,Bolivia,Syrian Arab Republic,REF,6.0,7.0,1.0
+2015,Botswana,Burundi,REF,73.0,44.0,-29.0
+2015,Botswana,Ukraine,REF,165.0,80.0,-85.0
+2015,Botswana,Ethiopia,REF,7.0,5.0,-2.0
+2015,Botswana,Canada,REF,978.0,914.0,-64.0
+2015,Botswana,Rwanda,REF,53.0,28.0,-25.0
+2015,Botswana,Somali Republic,REF,374.0,330.0,-44.0
+2015,Botswana,Sudan,REF,14.0,11.0,-3.0
+2015,Botswana,Uganda,REF,27.0,22.0,-5.0
+2015,Botswana,Zimbabwe,REF,946.0,678.0,-268.0
+2015,Brazil,Afghanistan,REF,52.0,76.0,24.0
+2015,Brazil,United States,REF,7.0,7.0,0.0
+2015,Brazil,Papua New Guinea,REF,1070.0,1083.0,13.0
+2015,Brazil,South Africa,REF,8.0,13.0,5.0
+2015,Brazil,Argentina,REF,11.0,11.0,0.0
+2015,Brazil,Burundi,REF,33.0,37.0,4.0
+2015,Brazil,India,REF,29.0,29.0,0.0
+2015,Brazil,Bolivia,REF,145.0,150.0,5.0
+2015,Brazil,United States,REF,21.0,21.0,0.0
+2015,Brazil,United Kingdom,REF,21.0,32.0,11.0
+2015,Brazil,Congo-Brazzaville,REF,10.0,17.0,7.0
+2015,Brazil,Ukraine,REF,791.0,1045.0,254.0
+2015,Brazil,Canada,REF,1200.0,1280.0,80.0
+2015,Brazil,Cuba,REF,135.0,143.0,8.0
+2015,Brazil,Ecuador,REF,57.0,57.0,0.0
+2015,Brazil,Eritrea,REF,25.0,25.0,0.0
+2015,Brazil,Ethiopia,REF,20.0,20.0,0.0
+2015,Brazil,Gaza Strip,REF,314.0,384.0,70.0
+2015,Brazil,Guyana,REF,10.0,10.0,0.0
+2015,Brazil,Ghana,REF,12.0,18.0,6.0
+2015,Brazil,Guinea-Bissau,REF,12.0,14.0,2.0
+2015,Brazil,Republic of Guinea,REF,33.0,53.0,20.0
+2015,Brazil,Croatia,REF,5.0,5.0,0.0
+2015,Brazil,Cocos Islands,REF,35.0,44.0,9.0
+2015,Brazil,Iran,REF,43.0,52.0,9.0
+2015,Brazil,Iran,REF,233.0,261.0,28.0
+2015,Brazil,Germany,REF,258.0,258.0,0.0
+2015,Brazil,United States,REF,394.0,399.0,5.0
+2015,Brazil,Lao Peoples Democratic Republic,REF,18.0,18.0,0.0
+2015,Brazil,United Kingdom,REF,6.0,6.0,0.0
+2015,Brazil,Mali,REF,65.0,67.0,2.0
+2015,Brazil,Mexico,REF,5.0,5.0,0.0
+2015,Brazil,Nigeria,REF,89.0,100.0,11.0
+2015,Brazil,United States,REF,68.0,133.0,65.0
+2015,Brazil,Australia,REF,7.0,7.0,0.0
+2015,Brazil,Pakistan,REF,45.0,45.0,0.0
+2015,Brazil,Germany,REF,9.0,9.0,0.0
+2015,Brazil,Rwanda,REF,18.0,18.0,0.0
+2015,Brazil,El Salvador,REF,6.0,7.0,1.0
+2015,Brazil,United Kingdom,REF,7.0,9.0,2.0
+2015,Brazil,South Africa,REF,137.0,139.0,2.0
+2015,Brazil,Somali Republic,REF,45.0,45.0,0.0
+2015,Brazil,Serbia,REF,92.0,92.0,0.0
+2015,Brazil,United Kingdom,REF,8.0,10.0,2.0
+2015,Brazil,Sudan,REF,48.0,58.0,10.0
+2015,Brazil,Syrian Arab Republic,REF,1739.0,2271.0,532.0
+2015,Brazil,Tanzania,REF,5.0,5.0,0.0
+2015,Brazil,United States,REF,8.0,17.0,9.0
+2015,Brazil,Venezuela,REF,14.0,17.0,3.0
+2015,Canada,Eritrea,REF,0.0,0.0,0.0
+2015,Canada,Gaza Strip,REF,5.0,5.0,0.0
+2015,Canada,Croatia,REF,6703.0,6679.0,-24.0
+2015,Canada,Serbia,REF,140.0,86.0,-54.0
+2015,Canada,Syrian Arab Republic,REF,25.0,14.0,-11.0
+2015,Democratic Republic of the Congo,Afghanistan,REF,212.0,197.0,-15.0
+2015,Democratic Republic of the Congo,South Africa,REF,14.0,8.0,-6.0
+2015,Democratic Republic of the Congo,Spain,REF,25.0,25.0,0.0
+2015,Democratic Republic of the Congo,Bangladesh,REF,8.0,7.0,-1.0
+2015,Democratic Republic of the Congo,Congo-Brazzaville,REF,7.0,7.0,0.0
+2015,Democratic Republic of the Congo,Eritrea,REF,5.0,5.0,0.0
+2015,Democratic Republic of the Congo,Ethiopia,REF,12.0,12.0,0.0
+2015,Democratic Republic of the Congo,Iran,REF,73.0,72.0,-1.0
+2015,Democratic Republic of the Congo,Iran,REF,1207.0,1339.0,132.0
+2015,Democratic Republic of the Congo,Romania,REF,6.0,7.0,1.0
+2015,Democratic Republic of the Congo,United States,REF,17.0,18.0,1.0
+2015,Democratic Republic of the Congo,United States,REF,6.0,7.0,1.0
+2015,Democratic Republic of the Congo,Somali Republic,REF,56.0,46.0,-10.0
+2015,Democratic Republic of the Congo,United Kingdom,REF,821.0,913.0,92.0
+2015,Democratic Republic of the Congo,Sudan,REF,20.0,20.0,0.0
+2015,Democratic Republic of the Congo,Syrian Arab Republic,REF,8501.0,13819.0,5318.0
+2015,Democratic Republic of the Congo,Ecuador,REF,16.0,11.0,-5.0
+2015,Belize,Cuba,REF,0.0,0.0,0.0
+2015,Belize,Nepal,REF,0.0,0.0,0.0
+2015,Belize,El Salvador,REF,10.0,34.0,24.0
+2015,United States,Lao Peoples Democratic Republic,REF,5.0,5.0,0.0
+2015,United States,Iceland,REF,21.0,19.0,-2.0
+2015,United States,Mexico,REF,33.0,45.0,12.0
+2015,United States,Thailand,REF,0.0,0.0,0.0
+2015,United Kingdom,Afghanistan,REF,2704.0,2890.0,186.0
+2015,United Kingdom,Mexico,REF,1530.0,1243.0,-287.0
+2015,United Kingdom,United States,REF,346.0,355.0,9.0
+2015,United Kingdom,Papua New Guinea,REF,445.0,226.0,-219.0
+2015,United Kingdom,Canada,REF,48.0,51.0,3.0
+2015,United Kingdom,South Africa,REF,684.0,352.0,-332.0
+2015,United Kingdom,Argentina,REF,191.0,85.0,-106.0
+2015,United Kingdom,Spain,REF,189.0,180.0,-9.0
+2015,United Kingdom,Russia,REF,6.0,6.0,0.0
+2015,United Kingdom,Germany,REF,455.0,291.0,-164.0
+2015,United Kingdom,Bahrain,REF,10.0,15.0,5.0
+2015,United Kingdom,Canada,REF,82.0,95.0,13.0
+2015,United Kingdom,Burundi,REF,2114.0,2074.0,-40.0
+2015,United Kingdom,Brazil,REF,16.0,16.0,0.0
+2015,United Kingdom,Libya,REF,50.0,46.0,-4.0
+2015,United Kingdom,Bangladesh,REF,1483.0,1112.0,-371.0
+2015,United Kingdom,Bahamas,REF,26.0,31.0,5.0
+2015,United Kingdom,India,REF,22.0,22.0,0.0
+2015,United Kingdom,Finland,REF,136.0,124.0,-12.0
+2015,United Kingdom,United States,REF,227.0,182.0,-45.0
+2015,United Kingdom,Bolivia,REF,126.0,105.0,-21.0
+2015,United Kingdom,Botswana,REF,218.0,284.0,66.0
+2015,United Kingdom,Brazil,REF,172.0,124.0,-48.0
+2015,United Kingdom,Canada,REF,83.0,64.0,-19.0
+2015,United Kingdom,Democratic Republic of the Congo,REF,668.0,432.0,-236.0
+2015,United Kingdom,Belize,REF,9.0,10.0,1.0
+2015,United Kingdom,United States,REF,162.0,153.0,-9.0
+2015,United Kingdom,Central African Republic,REF,67.0,53.0,-14.0
+2015,United Kingdom,Russia,REF,474.0,415.0,-59.0
+2015,United Kingdom,Canada,REF,13231.0,11415.0,-1816.0
+2015,United Kingdom,United States,REF,124.0,102.0,-22.0
+2015,United Kingdom,United Kingdom,REF,985.0,1103.0,118.0
+2015,United Kingdom,Congo-Brazzaville,REF,229.0,201.0,-28.0
+2015,United Kingdom,Ukraine,REF,3544.0,3316.0,-228.0
+2015,United Kingdom,Canada,REF,16428.0,13666.0,-2762.0
+2015,United Kingdom,Costa Rica,REF,229.0,190.0,-39.0
+2015,United Kingdom,Cuba,REF,1618.0,1512.0,-106.0
+2015,United Kingdom,Venezuela,REF,254.0,259.0,5.0
+2015,United Kingdom,United States,REF,6.0,6.0,0.0
+2015,United Kingdom,Djibouti,REF,310.0,350.0,40.0
+2015,United Kingdom,United States,REF,23.0,18.0,-5.0
+2015,United Kingdom,Dominican Republic,REF,169.0,172.0,3.0
+2015,United Kingdom,Ecuador,REF,208.0,176.0,-32.0
+2015,United Kingdom,Uganda,REF,11.0,8.0,-3.0
+2015,United Kingdom,Eritrea,REF,1750.0,1811.0,61.0
+2015,United Kingdom,Mexico,REF,15.0,10.0,-5.0
+2015,United Kingdom,Ethiopia,REF,2155.0,2047.0,-108.0
+2015,United Kingdom,Fiji,REF,157.0,127.0,-30.0
+2015,United Kingdom,United Kingdom,REF,36.0,42.0,6.0
+2015,United Kingdom,Canada,REF,56.0,47.0,-9.0
+2015,United Kingdom,Germany,REF,78.0,82.0,4.0
+2015,United Kingdom,Gaza Strip,REF,634.0,534.0,-100.0
+2015,United Kingdom,United States,REF,63.0,60.0,-3.0
+2015,United Kingdom,Guyana,REF,474.0,449.0,-25.0
+2015,United Kingdom,France,REF,87.0,81.0,-6.0
+2015,United Kingdom,Ghana,REF,352.0,301.0,-51.0
+2015,United Kingdom,Guinea-Bissau,REF,18.0,15.0,-3.0
+2015,United Kingdom,Greece,REF,24.0,24.0,0.0
+2015,United Kingdom,United States,REF,294.0,239.0,-55.0
+2015,United Kingdom,Mexico,REF,907.0,935.0,28.0
+2015,United Kingdom,Republic of Guinea,REF,700.0,648.0,-52.0
+2015,United Kingdom,French Guiana,REF,563.0,391.0,-172.0
+2015,United Kingdom,Canada,REF,8422.0,8807.0,385.0
+2015,United Kingdom,Hong Kong SAR of China,REF,20.0,28.0,8.0
+2015,United Kingdom,United States,REF,808.0,889.0,81.0
+2015,United Kingdom,Croatia,REF,88.0,96.0,8.0
+2015,United Kingdom,Taiwan,REF,828.0,973.0,145.0
+2015,United Kingdom,Cocos Islands,REF,431.0,398.0,-33.0
+2015,United Kingdom,Ireland,REF,4292.0,3712.0,-580.0
+2015,United Kingdom,United Kingdom,REF,336.0,308.0,-28.0
+2015,United Kingdom,Iran,REF,2834.0,2639.0,-195.0
+2015,United Kingdom,Iran,REF,1643.0,1892.0,249.0
+2015,United Kingdom,Israel,REF,628.0,494.0,-134.0
+2015,United Kingdom,United States,REF,16.0,18.0,2.0
+2015,United Kingdom,Kenya,REF,733.0,813.0,80.0
+2015,United Kingdom,Romania,REF,402.0,383.0,-19.0
+2015,United Kingdom,United Kingdom,REF,23.0,23.0,0.0
+2015,United Kingdom,Kazakhstan,REF,135.0,114.0,-21.0
+2015,United Kingdom,United States,REF,937.0,815.0,-122.0
+2015,United Kingdom,Kyrgyzstan,REF,96.0,82.0,-14.0
+2015,United Kingdom,Democratic People's Republic of Korea,REF,239.0,174.0,-65.0
+2015,United Kingdom,Kazakhstan,REF,126.0,300.0,174.0
+2015,United Kingdom,United States,REF,38.0,38.0,0.0
+2015,United Kingdom,Germany,REF,153.0,139.0,-14.0
+2015,United Kingdom,Albania,REF,243.0,230.0,-13.0
+2015,United Kingdom,United States,REF,906.0,992.0,86.0
+2015,United Kingdom,United States,REF,1024.0,867.0,-157.0
+2015,United Kingdom,Lesotho,REF,6.0,6.0,0.0
+2015,United Kingdom,Lao Peoples Democratic Republic,REF,10745.0,8807.0,-1938.0
+2015,United Kingdom,Germany,REF,91.0,62.0,-29.0
+2015,United Kingdom,France,REF,68.0,62.0,-6.0
+2015,United Kingdom,Canada,REF,16.0,16.0,0.0
+2015,United Kingdom,Mauritius,REF,265.0,287.0,22.0
+2015,United Kingdom,United Kingdom,REF,100.0,92.0,-8.0
+2015,United Kingdom,Taiwan,REF,195.0,179.0,-16.0
+2015,United Kingdom,United States,REF,6762.0,6414.0,-348.0
+2015,United Kingdom,Mali,REF,73.0,74.0,1.0
+2015,United Kingdom,United States,REF,149.0,91.0,-58.0
+2015,United Kingdom,Liberia,REF,31.0,29.0,-2.0
+2015,United Kingdom,Mexico,REF,19.0,21.0,2.0
+2015,United Kingdom,Mongolia,REF,130.0,131.0,1.0
+2015,United Kingdom,Mexico,REF,168.0,167.0,-1.0
+2015,United Kingdom,French Polynesia,REF,6.0,6.0,0.0
+2015,United Kingdom,Iceland,REF,264.0,223.0,-41.0
+2015,United Kingdom,Canada,REF,207.0,282.0,75.0
+2015,United Kingdom,Nepal,REF,1223.0,1304.0,81.0
+2015,United Kingdom,Nigeria,REF,38.0,44.0,6.0
+2015,United Kingdom,Nigeria,REF,84.0,85.0,1.0
+2015,United Kingdom,United States,REF,141.0,142.0,1.0
+2015,United Kingdom,Nigeria,REF,4683.0,4502.0,-181.0
+2015,United Kingdom,India,REF,14.0,13.0,-1.0
+2015,United Kingdom,United States,REF,8613.0,7207.0,-1406.0
+2015,United Kingdom,Thailand,REF,40.0,39.0,-1.0
+2015,United Kingdom,Australia,REF,43.0,42.0,-1.0
+2015,United Kingdom,Pakistan,REF,1505.0,1080.0,-425.0
+2015,United Kingdom,Netherlands,REF,301.0,277.0,-24.0
+2015,United Kingdom,Sweden,REF,259.0,175.0,-84.0
+2015,United Kingdom,Mexico,REF,10.0,9.0,-1.0
+2015,United Kingdom,Canada,REF,8.0,6.0,-2.0
+2015,United Kingdom,Dominican Republic,REF,460.0,334.0,-126.0
+2015,United Kingdom,Sudan,REF,51.0,52.0,1.0
+2015,United Kingdom,Germany,REF,1315.0,1178.0,-137.0
+2015,United Kingdom,Rwanda,REF,1647.0,1620.0,-27.0
+2015,United Kingdom,El Salvador,REF,1301.0,1403.0,102.0
+2015,United Kingdom,Spain,REF,119.0,101.0,-18.0
+2015,United Kingdom,United Kingdom,REF,216.0,241.0,25.0
+2015,United Kingdom,Seychelles,REF,10.0,9.0,-1.0
+2015,United Kingdom,Singapore,REF,29.0,27.0,-2.0
+2015,United Kingdom,South Africa,REF,158.0,121.0,-37.0
+2015,United Kingdom,Solomon Islands,REF,39.0,39.0,0.0
+2015,United Kingdom,Somali Republic,REF,2821.0,2531.0,-290.0
+2015,United Kingdom,United States,REF,22.0,25.0,3.0
+2015,United Kingdom,Serbia,REF,429.0,398.0,-31.0
+2015,United Kingdom,Mexico,REF,126.0,114.0,-12.0
+2015,United Kingdom,United Kingdom,REF,1583.0,1503.0,-80.0
+2015,United Kingdom,United States,REF,15.0,20.0,5.0
+2015,United Kingdom,Sudan,REF,671.0,509.0,-162.0
+2015,United Kingdom,Egypt,REF,8.0,8.0,0.0
+2015,United Kingdom,Slovakia,REF,39.0,63.0,24.0
+2015,United Kingdom,Angola,REF,9.0,9.0,0.0
+2015,United Kingdom,United States,REF,101.0,134.0,33.0
+2015,United Kingdom,United States,REF,11.0,11.0,0.0
+2015,United Kingdom,Syrian Arab Republic,REF,705.0,1513.0,808.0
+2015,United Kingdom,Tanzania,REF,320.0,257.0,-63.0
+2015,United Kingdom,Thailand,REF,36.0,33.0,-3.0
+2015,United Kingdom,Brazil,REF,58.0,58.0,0.0
+2015,United Kingdom,Tajikistan,REF,59.0,53.0,-6.0
+2015,United Kingdom,Guatemala,REF,22.0,18.0,-4.0
+2015,United Kingdom,United States,REF,224.0,188.0,-36.0
+2015,United Kingdom,Sudan,REF,264.0,243.0,-21.0
+2015,United Kingdom,Kiribati,REF,199.0,199.0,0.0
+2015,United Kingdom,Ecuador,REF,2863.0,1991.0,-872.0
+2015,United Kingdom,United Arab Emirates,REF,31.0,29.0,-2.0
+2015,United Kingdom,Uganda,REF,804.0,713.0,-91.0
+2015,United Kingdom,Ukraine,REF,1468.0,1314.0,-154.0
+2015,United Kingdom,Papua New Guinea,REF,106.0,73.0,-33.0
+2015,United Kingdom,United States,REF,4687.0,4576.0,-111.0
+2015,United Kingdom,Uzbekistan,REF,271.0,271.0,0.0
+2015,United Kingdom,Bulgaria,REF,59.0,272.0,213.0
+2015,United Kingdom,United States,REF,1723.0,1778.0,55.0
+2015,United Kingdom,Venezuela,REF,849.0,729.0,-120.0
+2015,United Kingdom,Yemem,REF,239.0,215.0,-24.0
+2015,United Kingdom,Zambia,REF,60.0,48.0,-12.0
+2015,United Kingdom,Zimbabwe,REF,2767.0,2368.0,-399.0
+2015,Central African Republic,Papua New Guinea,REF,15.0,15.0,0.0
+2015,Central African Republic,Burundi,REF,26.0,26.0,0.0
+2015,Central African Republic,Finland,REF,7.0,7.0,0.0
+2015,Central African Republic,Russia,REF,207.0,237.0,30.0
+2015,Central African Republic,Congo-Brazzaville,REF,10.0,10.0,0.0
+2015,Central African Republic,Ukraine,REF,5342.0,4798.0,-544.0
+2015,Central African Republic,Republic of Guinea,REF,0.0,5.0,5.0
+2015,Central African Republic,Cocos Islands,REF,14.0,14.0,0.0
+2015,Central African Republic,Germany,REF,9.0,10.0,1.0
+2015,Central African Republic,Nigeria,REF,0.0,0.0,0.0
+2015,Central African Republic,Rwanda,REF,177.0,173.0,-4.0
+2015,Central African Republic,South Africa,REF,0.0,0.0,0.0
+2015,Central African Republic,Sudan,REF,1880.0,1987.0,107.0
+2015,Russia,Central African Republic,REF,91783.0,63397.0,-28386.0
+2015,Russia,United Kingdom,REF,5.0,8.0,3.0
+2015,Russia,Congo-Brazzaville,REF,11.0,11.0,0.0
+2015,Russia,Ukraine,REF,337.0,185.0,-152.0
+2015,Russia,Eritrea,REF,38.0,39.0,1.0
+2015,Russia,Ethiopia,REF,6.0,5.0,-1.0
+2015,Russia,Ghana,REF,0.0,0.0,0.0
+2015,Russia,Cocos Islands,REF,7.0,7.0,0.0
+2015,Russia,Albania,REF,0.0,0.0,0.0
+2015,Russia,Nigeria,REF,2930.0,5689.0,2759.0
+2015,Russia,Rwanda,REF,22.0,13.0,-9.0
+2015,Russia,Somali Republic,REF,12.0,12.0,0.0
+2015,Russia,Sudan,REF,357711.0,299750.0,-57961.0
+2015,Russia,Syrian Arab Republic,REF,15.0,6.0,-9.0
+2015,Canada,Afghanistan,REF,7.0,7.0,0.0
+2015,Canada,Gaza Strip,REF,5.0,5.0,0.0
+2015,Canada,Iran,REF,0.0,0.0,0.0
+2015,Canada,Rwanda,REF,0.0,0.0,0.0
+2015,Canada,Somali Republic,REF,120.0,117.0,-3.0
+2015,Canada,Mexico,REF,300896.0,300896.0,0.0
+2015,Canada,Syrian Arab Republic,REF,5.0,14.0,9.0
+2015,United States,Afghanistan,REF,14.0,14.0,0.0
+2015,United States,Congo-Brazzaville,REF,8.0,8.0,0.0
+2015,United States,Ukraine,REF,5.0,9.0,4.0
+2015,United States,Canada,REF,996.0,1054.0,58.0
+2015,United States,Cuba,REF,18.0,19.0,1.0
+2015,United States,Ecuador,REF,18.0,18.0,0.0
+2015,United States,Gaza Strip,REF,119.0,119.0,0.0
+2015,United States,Lao Peoples Democratic Republic,REF,6.0,6.0,0.0
+2015,United States,Pakistan,REF,118.0,118.0,0.0
+2015,United States,Syrian Arab Republic,REF,6.0,13.0,7.0
+2015,United States,Bulgaria,REF,441.0,441.0,0.0
+2015,United Kingdom,Papua New Guinea,REF,12.0,12.0,0.0
+2015,United Kingdom,Burundi,REF,67.0,61.0,-6.0
+2015,United Kingdom,Central African Republic,REF-like,1254.0,0.0,-1254.0
+2015,United Kingdom,Central African Republic,REF,219448.0,267463.0,48015.0
+2015,United Kingdom,Russia,REF,1738.0,1798.0,60.0
+2015,United Kingdom,Congo-Brazzaville,REF,62.0,58.0,-4.0
+2015,United Kingdom,Ukraine,REF,472.0,512.0,40.0
+2015,United Kingdom,Uganda,REF,10.0,5.0,-5.0
+2015,United Kingdom,Republic of Guinea,REF,13.0,13.0,0.0
+2015,United Kingdom,Cocos Islands,REF,112.0,121.0,9.0
+2015,United Kingdom,Germany,REF,10.0,14.0,4.0
+2015,United Kingdom,Nigeria,REF-like,36383.0,15852.0,-20531.0
+2015,United Kingdom,Nigeria,REF,3585.0,55988.0,52403.0
+2015,United Kingdom,Rwanda,REF,825.0,858.0,33.0
+2015,United Kingdom,United Kingdom,REF,0.0,0.0,0.0
+2015,United Kingdom,Somali Republic,REF,0.0,0.0,0.0
+2015,United Kingdom,France,REF,9.0,17.0,8.0
+2015,United Kingdom,Sudan,REF,86.0,145.0,59.0
+2015,United Kingdom,United States,REF,11.0,13.0,2.0
+2015,Congo-Brazzaville,Papua New Guinea,REF,467.0,303.0,-164.0
+2015,Congo-Brazzaville,Burundi,REF,96.0,89.0,-7.0
+2015,Congo-Brazzaville,Central African Republic,REF,21695.0,23664.0,1969.0
+2015,Congo-Brazzaville,Russia,REF,45.0,36.0,-9.0
+2015,Congo-Brazzaville,Ukraine,REF,23376.0,12267.0,-11109.0
+2015,Congo-Brazzaville,Lao Peoples Democratic Republic,REF,0.0,0.0,0.0
+2015,Congo-Brazzaville,Rwanda,REF,9104.0,8549.0,-555.0
+2015,Congo-Brazzaville,Sudan,REF,31.0,24.0,-7.0
+2015,Ukraine,Papua New Guinea,REF,558.0,561.0,3.0
+2015,Ukraine,Burundi,REF,9259.0,23163.0,13904.0
+2015,Ukraine,Central African Republic,REF,68165.0,107929.0,39764.0
+2015,Ukraine,Congo-Brazzaville,REF,671.0,699.0,28.0
+2015,Ukraine,Eritrea,REF,0.0,0.0,0.0
+2015,Ukraine,Cocos Islands,REF,9.0,9.0,0.0
+2015,Ukraine,Germany,REF,8.0,8.0,0.0
+2015,Ukraine,Rwanda,REF,38028.0,245052.0,207024.0
+2015,Ukraine,Somali Republic,REF,31.0,34.0,3.0
+2015,Ukraine,France,REF,1790.0,5597.0,3807.0
+2015,Ukraine,Sudan,REF,0.0,0.0,0.0
+2015,Ukraine,Uganda,REF,1213.0,26.0,-1187.0
+2015,Canada,Ukraine,REF,0.0,0.0,0.0
+2015,Canada,Cuba,REF,62.0,62.0,0.0
+2015,Canada,Dominican Republic,REF,0.0,0.0,0.0
+2015,Canada,Ecuador,REF,9.0,9.0,0.0
+2015,Canada,Ethiopia,REF,16.0,17.0,1.0
+2015,Canada,Taiwan,REF,7.0,7.0,0.0
+2015,Canada,United States,REF,14.0,14.0,0.0
+2015,Canada,Dominican Republic,REF,7.0,7.0,0.0
+2015,Canada,Germany,REF,0.0,0.0,0.0
+2015,Canada,El Salvador,REF,7.0,7.0,0.0
+2015,Canada,Somali Republic,REF,11.0,11.0,0.0
+2015,Canada,Serbia,REF,7.0,7.0,0.0
+2015,Canada,Venezuela,REF,27.0,39.0,12.0
+2015,Costa Rica,Canada,REF,10367.0,2247.0,-8120.0
+2015,Costa Rica,Canada,REF-like,6256.0,0.0,-6256.0
+2015,Costa Rica,Cuba,REF,858.0,372.0,-486.0
+2015,Costa Rica,Dominican Republic,REF,6.0,0.0,-6.0
+2015,Costa Rica,Mexico,REF,49.0,22.0,-27.0
+2015,Costa Rica,Canada,REF,38.0,12.0,-26.0
+2015,Costa Rica,United States,REF,73.0,58.0,-15.0
+2015,Costa Rica,Israel,REF,16.0,0.0,-16.0
+2015,Costa Rica,United States,REF,605.0,452.0,-153.0
+2015,Costa Rica,Nigeria,REF,28.0,20.0,-8.0
+2015,Costa Rica,Pakistan,REF,228.0,15.0,-213.0
+2015,Costa Rica,Germany,REF,21.0,19.0,-2.0
+2015,Costa Rica,El Salvador,REF,222.0,203.0,-19.0
+2015,Costa Rica,Somali Republic,REF,15.0,7.0,-8.0
+2015,Costa Rica,Syrian Arab Republic,REF,5.0,8.0,3.0
+2015,Costa Rica,Ukraine,REF,21.0,12.0,-9.0
+2015,Costa Rica,Bulgaria,REF-like,1564.0,0.0,-1564.0
+2015,Costa Rica,Venezuela,REF,234.0,141.0,-93.0
+2015,Cuba,Afghanistan,REF,5.0,14.0,9.0
+2015,Cuba,Djibouti,REF,0.0,0.0,0.0
+2015,Cuba,Syrian Arab Republic,REF,20.0,41.0,21.0
+2015,Cuba,United States,REF,246.0,181.0,-65.0
+2015,United States,Canada,REF,27.0,34.0,7.0
+2015,United States,Kenya,REF,7.0,7.0,0.0
+2015,Cyprus,Afghanistan,REF,7.0,7.0,0.0
+2015,Cyprus,South Africa,REF,77.0,84.0,7.0
+2015,Cyprus,Spain,REF,23.0,26.0,3.0
+2015,Cyprus,Canada,REF,15.0,15.0,0.0
+2015,Cyprus,United Kingdom,REF,11.0,19.0,8.0
+2015,Cyprus,Ukraine,REF,13.0,17.0,4.0
+2015,Cyprus,Eritrea,REF,5.0,5.0,0.0
+2015,Cyprus,Gaza Strip,REF,1739.0,1786.0,47.0
+2015,Cyprus,Guyana,REF,85.0,85.0,0.0
+2015,Cyprus,Iran,REF,470.0,502.0,32.0
+2015,Cyprus,Iran,REF,682.0,760.0,78.0
+2015,Cyprus,Romania,REF,16.0,29.0,13.0
+2015,Cyprus,United States,REF,36.0,39.0,3.0
+2015,Cyprus,Lao Peoples Democratic Republic,REF,23.0,25.0,2.0
+2015,Cyprus,Taiwan,REF,18.0,18.0,0.0
+2015,Cyprus,Nigeria,REF,8.0,8.0,0.0
+2015,Cyprus,United States,REF,17.0,17.0,0.0
+2015,Cyprus,Netherlands,REF,8.0,8.0,0.0
+2015,Cyprus,Germany,REF,60.0,64.0,4.0
+2015,Cyprus,South Africa,REF,20.0,22.0,2.0
+2015,Cyprus,Somali Republic,REF,33.0,39.0,6.0
+2015,Cyprus,Serbia,REF,59.0,59.0,0.0
+2015,Cyprus,Sudan,REF,6.0,8.0,2.0
+2015,Cyprus,Syrian Arab Republic,REF,1451.0,3110.0,1659.0
+2015,Cyprus,Ecuador,REF,164.0,170.0,6.0
+2015,Cyprus,Ukraine,REF,29.0,29.0,0.0
+2015,Venezuela,Afghanistan,REF,228.0,234.0,6.0
+2015,Venezuela,Mexico,REF,11.0,6.0,-5.0
+2015,Venezuela,Papua New Guinea,REF,18.0,19.0,1.0
+2015,Venezuela,Spain,REF,67.0,69.0,2.0
+2015,Venezuela,Germany,REF,27.0,31.0,4.0
+2015,Venezuela,United States,REF,375.0,364.0,-11.0
+2015,Venezuela,Canada,REF,9.0,13.0,4.0
+2015,Venezuela,Democratic Republic of the Congo,REF,15.0,16.0,1.0
+2015,Venezuela,United States,REF,0.0,0.0,0.0
+2015,Venezuela,Canada,REF,14.0,13.0,-1.0
+2015,Venezuela,United Kingdom,REF,6.0,6.0,0.0
+2015,Venezuela,Ukraine,REF,26.0,21.0,-5.0
+2015,Venezuela,Cuba,REF,165.0,228.0,63.0
+2015,Venezuela,Eritrea,REF,11.0,17.0,6.0
+2015,Venezuela,Ethiopia,REF,9.0,10.0,1.0
+2015,Venezuela,Guyana,REF,38.0,34.0,-4.0
+2015,Venezuela,Ghana,REF,11.0,11.0,0.0
+2015,Venezuela,Republic of Guinea,REF,6.0,7.0,1.0
+2015,Venezuela,Iran,REF,25.0,26.0,1.0
+2015,Venezuela,Iran,REF,163.0,199.0,36.0
+2015,Venezuela,Kazakhstan,REF,198.0,234.0,36.0
+2015,Venezuela,Kyrgyzstan,REF,25.0,21.0,-4.0
+2015,Venezuela,Albania,REF,7.0,9.0,2.0
+2015,Venezuela,Lao Peoples Democratic Republic,REF,13.0,14.0,1.0
+2015,Venezuela,Taiwan,REF,18.0,25.0,7.0
+2015,Venezuela,Iceland,REF,159.0,160.0,1.0
+2015,Venezuela,Nigeria,REF,10.0,13.0,3.0
+2015,Venezuela,United States,REF,20.0,20.0,0.0
+2015,Venezuela,Dominican Republic,REF,43.0,81.0,38.0
+2015,Venezuela,Germany,REF,333.0,319.0,-14.0
+2015,Venezuela,South Africa,REF,5.0,5.0,0.0
+2015,Venezuela,Somali Republic,REF,22.0,22.0,0.0
+2015,Venezuela,Serbia,REF,52.0,9.0,-43.0
+2015,Venezuela,Mexico,REF,68.0,70.0,2.0
+2015,Venezuela,United Kingdom,REF,167.0,201.0,34.0
+2015,Venezuela,Sudan,REF,19.0,17.0,-2.0
+2015,Venezuela,Syrian Arab Republic,REF,236.0,365.0,129.0
+2015,Venezuela,Guatemala,REF,5.0,5.0,0.0
+2015,Venezuela,Ecuador,REF,6.0,8.0,2.0
+2015,Venezuela,Ukraine,REF,292.0,444.0,152.0
+2015,Venezuela,Uzbekistan,REF,93.0,99.0,6.0
+2015,Venezuela,Bulgaria,REF,64.0,109.0,45.0
+2015,United States,Afghanistan,REF,2130.0,2166.0,36.0
+2015,United States,Mexico,REF,20.0,20.0,0.0
+2015,United States,United States,REF,9.0,9.0,0.0
+2015,United States,South Africa,REF,0.0,6.0,6.0
+2015,United States,Spain,REF,74.0,73.0,-1.0
+2015,United States,Germany,REF,76.0,59.0,-17.0
+2015,United States,Burundi,REF,16.0,6.0,-10.0
+2015,United States,Bangladesh,REF,14.0,16.0,2.0
+2015,United States,Canada,REF,25.0,21.0,-4.0
+2015,United States,United Kingdom,REF,5.0,6.0,1.0
+2015,United States,Ukraine,REF,91.0,90.0,-1.0
+2015,United States,Eritrea,REF,319.0,3213.0,2894.0
+2015,United States,Ethiopia,REF,32.0,65.0,33.0
+2015,United States,Gaza Strip,REF,125.0,95.0,-30.0
+2015,United States,Cocos Islands,REF,12.0,12.0,0.0
+2015,United States,Ireland,REF,13.0,13.0,0.0
+2015,United States,Iran,REF,1912.0,2009.0,97.0
+2015,United States,Iran,REF,967.0,938.0,-29.0
+2015,United States,United States,REF,6.0,6.0,0.0
+2015,United States,Kyrgyzstan,REF,5.0,5.0,0.0
+2015,United States,Albania,REF,16.0,15.0,-1.0
+2015,United States,United States,REF,25.0,24.0,-1.0
+2015,United States,Lao Peoples Democratic Republic,REF,81.0,81.0,0.0
+2015,United States,Mexico,REF,8.0,8.0,0.0
+2015,United States,Iceland,REF,58.0,54.0,-4.0
+2015,United States,Nepal,REF,7.0,7.0,0.0
+2015,United States,Nigeria,REF,14.0,14.0,0.0
+2015,United States,United States,REF,51.0,60.0,9.0
+2015,United States,Germany,REF,1051.0,1026.0,-25.0
+2015,United States,Rwanda,REF,21.0,17.0,-4.0
+2015,United States,Somali Republic,REF,1134.0,1260.0,126.0
+2015,United States,Serbia,REF,468.0,313.0,-155.0
+2015,United States,United Kingdom,REF,1065.0,1958.0,893.0
+2015,United States,Sudan,REF,67.0,66.0,-1.0
+2015,United States,Syrian Arab Republic,REF,7253.0,12988.0,5735.0
+2015,United States,Tajikistan,REF,5.0,5.0,0.0
+2015,United States,Ecuador,REF,8.0,6.0,-2.0
+2015,United States,Uganda,REF,40.0,62.0,22.0
+2015,United States,Ukraine,REF,12.0,15.0,3.0
+2015,United States,Uzbekistan,REF,11.0,11.0,0.0
+2015,United States,Bulgaria,REF,389.0,375.0,-14.0
+2015,United States,Zimbabwe,REF,9.0,8.0,-1.0
+2015,Djibouti,Eritrea,REF,303.0,319.0,16.0
+2015,Djibouti,Ethiopia,REF,487.0,522.0,35.0
+2015,Djibouti,United States,REF,10.0,10.0,0.0
+2015,Djibouti,Somali Republic,REF,19720.0,12323.0,-7397.0
+2015,Dominican Republic,Canada,REF,603.0,600.0,-3.0
+2015,Ecuador,Afghanistan,REF,112.0,112.0,0.0
+2015,Ecuador,Mexico,REF,6.0,6.0,0.0
+2015,Ecuador,Canada,REF,12.0,12.0,0.0
+2015,Ecuador,United States,REF,5.0,5.0,0.0
+2015,Ecuador,Canada,REF-like,68344.0,68344.0,0.0
+2015,Ecuador,Canada,REF,52973.0,52341.0,-632.0
+2015,Ecuador,Cuba,REF,229.0,229.0,0.0
+2015,Ecuador,Eritrea,REF,11.0,11.0,0.0
+2015,Ecuador,Gaza Strip,REF,9.0,9.0,0.0
+2015,Ecuador,Republic of Guinea,REF,9.0,9.0,0.0
+2015,Ecuador,Canada,REF,22.0,22.0,0.0
+2015,Ecuador,Iran,REF,24.0,24.0,0.0
+2015,Ecuador,Iran,REF,36.0,36.0,0.0
+2015,Ecuador,Germany,REF,6.0,6.0,0.0
+2015,Ecuador,United States,REF,6.0,6.0,0.0
+2015,Ecuador,Lao Peoples Democratic Republic,REF,16.0,16.0,0.0
+2015,Ecuador,Nepal,REF,5.0,5.0,0.0
+2015,Ecuador,Nigeria,REF,25.0,25.0,0.0
+2015,Ecuador,United States,REF,29.0,29.0,0.0
+2015,Ecuador,Pakistan,REF,93.0,93.0,0.0
+2015,Ecuador,Germany,REF,29.0,29.0,0.0
+2015,Ecuador,El Salvador,REF,0.0,0.0,0.0
+2015,Ecuador,Somali Republic,REF,7.0,7.0,0.0
+2015,Ecuador,Serbia,REF,14.0,14.0,0.0
+2015,Ecuador,Sudan,REF,5.0,5.0,0.0
+2015,Ecuador,Syrian Arab Republic,REF,13.0,17.0,4.0
+2015,Ecuador,Ukraine,REF,0.0,0.0,0.0
+2015,Ecuador,United States,REF,6.0,6.0,0.0
+2015,Ecuador,Bulgaria,REF,16.0,16.0,0.0
+2015,Ecuador,Venezuela,REF,7.0,7.0,0.0
+2015,Ecuador,United States,REF,5.0,5.0,0.0
+2015,Ecuador,Zimbabwe,REF,5.0,5.0,0.0
+2015,Eritrea,Ethiopia,REF,26.0,26.0,0.0
+2015,Eritrea,Somali Republic,REF,2758.0,2485.0,-273.0
+2015,Eritrea,France,REF,15.0,10.0,-5.0
+2015,Eritrea,Sudan,REF,99.0,28.0,-71.0
+2015,Eritrea,Yemem,REF,0.0,0.0,0.0
+2015,Mexico,Afghanistan,REF,15.0,16.0,1.0
+2015,Mexico,United States,REF,7.0,7.0,0.0
+2015,Mexico,Lao Peoples Democratic Republic,REF,7.0,9.0,2.0
+2015,Mexico,Germany,REF,14.0,16.0,2.0
+2015,Mexico,Sudan,REF,8.0,20.0,12.0
+2015,Mexico,Syrian Arab Republic,REF,6.0,6.0,0.0
+2015,Ethiopia,Burundi,REF,62.0,52.0,-10.0
+2015,Ethiopia,Ukraine,REF,427.0,426.0,-1.0
+2015,Ethiopia,Djibouti,REF,76.0,76.0,0.0
+2015,Ethiopia,Eritrea,REF,123784.0,155231.0,31447.0
+2015,Ethiopia,United States,REF,2728.0,3193.0,465.0
+2015,Ethiopia,Rwanda,REF,11.0,11.0,0.0
+2015,Ethiopia,Somali Republic,REF,245097.0,251734.0,6637.0
+2015,Ethiopia,France,REF,251791.0,281508.0,29717.0
+2015,Ethiopia,Sudan,REF,35447.0,37785.0,2338.0
+2015,Ethiopia,Uganda,REF,22.0,23.0,1.0
+2015,Ethiopia,Yemem,REF,65.0,1088.0,1023.0
+2015,Ethiopia,Zimbabwe,REF,0.0,0.0,0.0
+2015,Fiji,Afghanistan,REF,7.0,7.0,0.0
+2015,Fiji,Ukraine,REF,0.0,0.0,0.0
+2015,Finland,Afghanistan,REF,1443.0,1406.0,-37.0
+2015,Finland,United States,REF,20.0,20.0,0.0
+2015,Finland,Papua New Guinea,REF,180.0,157.0,-23.0
+2015,Finland,South Africa,REF,6.0,8.0,2.0
+2015,Finland,Germany,REF,18.0,30.0,12.0
+2015,Finland,Bangladesh,REF,22.0,19.0,-3.0
+2015,Finland,United States,REF,13.0,13.0,0.0
+2015,Finland,Canada,REF,17.0,17.0,0.0
+2015,Finland,Canada,REF,90.0,93.0,3.0
+2015,Finland,United Kingdom,REF,69.0,72.0,3.0
+2015,Finland,Congo-Brazzaville,REF,7.0,7.0,0.0
+2015,Finland,Ukraine,REF,190.0,181.0,-9.0
+2015,Finland,Cuba,REF,6.0,6.0,0.0
+2015,Finland,Eritrea,REF,25.0,29.0,4.0
+2015,Finland,Ethiopia,REF,86.0,93.0,7.0
+2015,Finland,Germany,REF,33.0,34.0,1.0
+2015,Finland,Ghana,REF,52.0,52.0,0.0
+2015,Finland,Republic of Guinea,REF,26.0,26.0,0.0
+2015,Finland,Croatia,REF,10.0,10.0,0.0
+2015,Finland,Cocos Islands,REF,13.0,12.0,-1.0
+2015,Finland,Ireland,REF,11.0,10.0,-1.0
+2015,Finland,Iran,REF,581.0,606.0,25.0
+2015,Finland,Iran,REF,3607.0,4124.0,517.0
+2015,Finland,Romania,REF,6.0,7.0,1.0
+2015,Finland,Kazakhstan,REF,7.0,13.0,6.0
+2015,Finland,United States,REF,11.0,11.0,0.0
+2015,Finland,Kyrgyzstan,REF,26.0,20.0,-6.0
+2015,Finland,Albania,REF,9.0,17.0,8.0
+2015,Finland,United States,REF,12.0,11.0,-1.0
+2015,Finland,Lao Peoples Democratic Republic,REF,107.0,108.0,1.0
+2015,Finland,Mauritius,REF,5.0,6.0,1.0
+2015,Finland,Taiwan,REF,6.0,6.0,0.0
+2015,Finland,Mexico,REF,16.0,19.0,3.0
+2015,Finland,Iceland,REF,14.0,27.0,13.0
+2015,Finland,Nigeria,REF,168.0,165.0,-3.0
+2015,Finland,United States,REF,39.0,45.0,6.0
+2015,Finland,Germany,REF,729.0,772.0,43.0
+2015,Finland,Rwanda,REF,25.0,23.0,-2.0
+2015,Finland,El Salvador,REF,5.0,5.0,0.0
+2015,Finland,South Africa,REF,7.0,6.0,-1.0
+2015,Finland,Somali Republic,REF,2817.0,3062.0,245.0
+2015,Finland,Serbia,REF,215.0,167.0,-48.0
+2015,Finland,United Kingdom,REF,140.0,168.0,28.0
+2015,Finland,Sudan,REF,16.0,18.0,2.0
+2015,Finland,Syrian Arab Republic,REF,438.0,565.0,127.0
+2015,Finland,Tanzania,REF,5.0,5.0,0.0
+2015,Finland,Tajikistan,REF,7.0,7.0,0.0
+2015,Finland,United States,REF,5.0,5.0,0.0
+2015,Finland,Ecuador,REF,174.0,143.0,-31.0
+2015,Finland,Uganda,REF,9.0,12.0,3.0
+2015,Finland,Ukraine,REF,9.0,10.0,1.0
+2015,Finland,Uzbekistan,REF,15.0,17.0,2.0
+2015,Finland,Bulgaria,REF,129.0,130.0,1.0
+2015,Finland,Yemem,REF,5.0,10.0,5.0
+2015,United Kingdom,Afghanistan,REF,3838.0,4397.0,559.0
+2015,United Kingdom,Mexico,REF,2522.0,2911.0,389.0
+2015,United Kingdom,United States,REF,1353.0,1384.0,31.0
+2015,United Kingdom,Papua New Guinea,REF,3338.0,3349.0,11.0
+2015,United Kingdom,South Africa,REF,662.0,767.0,105.0
+2015,United Kingdom,Spain,REF,4063.0,4034.0,-29.0
+2015,United Kingdom,Germany,REF,2771.0,2816.0,45.0
+2015,United Kingdom,Burundi,REF,367.0,375.0,8.0
+2015,United Kingdom,Libya,REF,24.0,26.0,2.0
+2015,United Kingdom,Bangladesh,REF,3717.0,3960.0,243.0
+2015,United Kingdom,India,REF,109.0,113.0,4.0
+2015,United Kingdom,Finland,REF,107.0,114.0,7.0
+2015,United Kingdom,United States,REF,502.0,515.0,13.0
+2015,United Kingdom,Bolivia,REF,35.0,35.0,0.0
+2015,United Kingdom,Brazil,REF,11.0,11.0,0.0
+2015,United Kingdom,Canada,REF,4078.0,4055.0,-23.0
+2015,United Kingdom,Democratic Republic of the Congo,REF,78.0,73.0,-5.0
+2015,United Kingdom,United States,REF,12003.0,11824.0,-179.0
+2015,United Kingdom,Central African Republic,REF,1004.0,1607.0,603.0
+2015,United Kingdom,Russia,REF,1197.0,1232.0,35.0
+2015,United Kingdom,Canada,REF,2476.0,3260.0,784.0
+2015,United Kingdom,United States,REF,70.0,70.0,0.0
+2015,United Kingdom,United Kingdom,REF,796.0,816.0,20.0
+2015,United Kingdom,Congo-Brazzaville,REF,3252.0,3225.0,-27.0
+2015,United Kingdom,Ukraine,REF,13727.0,14182.0,455.0
+2015,United Kingdom,United States,REF,514.0,525.0,11.0
+2015,United Kingdom,Canada,REF,470.0,475.0,5.0
+2015,United Kingdom,Cuba,REF,140.0,150.0,10.0
+2015,United Kingdom,Venezuela,REF,30.0,29.0,-1.0
+2015,United Kingdom,Djibouti,REF,136.0,149.0,13.0
+2015,United Kingdom,Dominican Republic,REF,19.0,30.0,11.0
+2015,United Kingdom,Ecuador,REF,29.0,28.0,-1.0
+2015,United Kingdom,Uganda,REF,31.0,30.0,-1.0
+2015,United Kingdom,Eritrea,REF,1671.0,2208.0,537.0
+2015,United Kingdom,Mexico,REF,8.0,8.0,0.0
+2015,United Kingdom,Ethiopia,REF,601.0,653.0,52.0
+2015,United Kingdom,Canada,REF,31.0,33.0,2.0
+2015,United Kingdom,Germany,REF,164.0,184.0,20.0
+2015,United Kingdom,Gaza Strip,REF,414.0,565.0,151.0
+2015,United Kingdom,Guyana,REF,2714.0,2826.0,112.0
+2015,United Kingdom,France,REF,8.0,7.0,-1.0
+2015,United Kingdom,Ghana,REF,526.0,521.0,-5.0
+2015,United Kingdom,Guinea-Bissau,REF,929.0,931.0,2.0
+2015,United Kingdom,Mexico,REF,15.0,17.0,2.0
+2015,United Kingdom,Republic of Guinea,REF,5201.0,6005.0,804.0
+2015,United Kingdom,French Guiana,REF,8.0,13.0,5.0
+2015,United Kingdom,Canada,REF,3523.0,3445.0,-78.0
+2015,United Kingdom,Croatia,REF,71.0,66.0,-5.0
+2015,United Kingdom,Taiwan,REF,65.0,66.0,1.0
+2015,United Kingdom,Cocos Islands,REF,2516.0,2654.0,138.0
+2015,United Kingdom,Ireland,REF,199.0,202.0,3.0
+2015,United Kingdom,United Kingdom,REF,6.0,6.0,0.0
+2015,United Kingdom,Iran,REF,2359.0,2417.0,58.0
+2015,United Kingdom,Iran,REF,2991.0,4787.0,1796.0
+2015,United Kingdom,Israel,REF,5.0,5.0,0.0
+2015,United Kingdom,Kenya,REF,10.0,13.0,3.0
+2015,United Kingdom,Romania,REF,12.0,18.0,6.0
+2015,United Kingdom,Kazakhstan,REF,475.0,499.0,24.0
+2015,United Kingdom,United States,REF,72.0,75.0,3.0
+2015,United Kingdom,Kyrgyzstan,REF,282.0,283.0,1.0
+2015,United Kingdom,United States,REF,9.0,9.0,0.0
+2015,United Kingdom,Lao Peoples Democratic Republic,REF,7036.0,6944.0,-92.0
+2015,United Kingdom,Germany,REF,221.0,218.0,-3.0
+2015,United Kingdom,Albania,REF,67.0,143.0,76.0
+2015,United Kingdom,United States,REF,108.0,117.0,9.0
+2015,United Kingdom,Lao Peoples Democratic Republic,REF,23966.0,24220.0,254.0
+2015,United Kingdom,Germany,REF,12.0,12.0,0.0
+2015,United Kingdom,France,REF,41.0,39.0,-2.0
+2015,United Kingdom,Canada,REF,214.0,216.0,2.0
+2015,United Kingdom,Mauritius,REF,5058.0,5066.0,8.0
+2015,United Kingdom,United Kingdom,REF,316.0,323.0,7.0
+2015,United Kingdom,Taiwan,REF,356.0,347.0,-9.0
+2015,United Kingdom,United States,REF,11.0,16.0,5.0
+2015,United Kingdom,Mali,REF,3934.0,4050.0,116.0
+2015,United Kingdom,United States,REF,7.0,7.0,0.0
+2015,United Kingdom,Mexico,REF,77.0,79.0,2.0
+2015,United Kingdom,Mongolia,REF,359.0,384.0,25.0
+2015,United Kingdom,Mexico,REF,225.0,254.0,29.0
+2015,United Kingdom,French Polynesia,REF,10.0,10.0,0.0
+2015,United Kingdom,Indonesia,REF,10.0,10.0,0.0
+2015,United Kingdom,Iceland,REF,299.0,311.0,12.0
+2015,United Kingdom,Nepal,REF,108.0,119.0,11.0
+2015,United Kingdom,Nigeria,REF,51.0,52.0,1.0
+2015,United Kingdom,Nigeria,REF,1102.0,1250.0,148.0
+2015,United Kingdom,United States,REF,836.0,961.0,125.0
+2015,United Kingdom,Australia,REF,5.0,5.0,0.0
+2015,United Kingdom,Pakistan,REF,285.0,290.0,5.0
+2015,United Kingdom,Sweden,REF,154.0,144.0,-10.0
+2015,United Kingdom,Dominican Republic,REF,159.0,156.0,-3.0
+2015,United Kingdom,Sudan,REF,24.0,30.0,6.0
+2015,United Kingdom,Germany,REF,13644.0,14195.0,551.0
+2015,United Kingdom,Rwanda,REF,2833.0,2795.0,-38.0
+2015,United Kingdom,El Salvador,REF,18.0,18.0,0.0
+2015,United Kingdom,Spain,REF,5.0,5.0,0.0
+2015,United Kingdom,United Kingdom,REF,706.0,798.0,92.0
+2015,United Kingdom,South Africa,REF,462.0,478.0,16.0
+2015,United Kingdom,Somali Republic,REF,1896.0,2007.0,111.0
+2015,United Kingdom,Serbia,REF,12119.0,12500.0,381.0
+2015,United Kingdom,Mexico,REF,8281.0,8132.0,-149.0
+2015,United Kingdom,Sudan,REF,2746.0,4146.0,1400.0
+2015,United Kingdom,Slovakia,REF,120.0,114.0,-6.0
+2015,United Kingdom,Syrian Arab Republic,REF,2882.0,5179.0,2297.0
+2015,United Kingdom,Tajikistan,REF,31.0,35.0,4.0
+2015,United Kingdom,Guatemala,REF,14.0,14.0,0.0
+2015,United Kingdom,United States,REF,699.0,693.0,-6.0
+2015,United Kingdom,Kiribati,REF,220.0,247.0,27.0
+2015,United Kingdom,Ecuador,REF,10699.0,10652.0,-47.0
+2015,United Kingdom,Uganda,REF,80.0,100.0,20.0
+2015,United Kingdom,Ukraine,REF,737.0,1038.0,301.0
+2015,United Kingdom,Uzbekistan,REF,221.0,216.0,-5.0
+2015,United Kingdom,Bulgaria,REF,60000.0,68443.0,8443.0
+2015,United Kingdom,Venezuela,REF,12.0,32.0,20.0
+2015,United Kingdom,United States,REF,185.0,297.0,112.0
+2015,United Kingdom,Yemem,REF,30.0,63.0,33.0
+2015,United Kingdom,Zimbabwe,REF,37.0,34.0,-3.0
+2015,Canada,Central African Republic,REF,18.0,26.0,8.0
+2015,Canada,Russia,REF,661.0,647.0,-14.0
+2015,Canada,Congo-Brazzaville,REF,189.0,112.0,-77.0
+2015,Canada,Ukraine,REF,38.0,43.0,5.0
+2015,Canada,Argentina,REF,0.0,0.0,0.0
+2015,Canada,Mauritius,REF,8.0,8.0,0.0
+2015,Canada,Rwanda,REF,31.0,33.0,2.0
+2015,Canada,South Africa,REF,10.0,10.0,0.0
+2015,Canada,Mexico,REF,0.0,0.0,0.0
+2015,Canada,United States,REF,19.0,19.0,0.0
+2015,Canada,United States,REF,13.0,13.0,0.0
+2015,Germany,Congo-Brazzaville,REF,7.0,8.0,1.0
+2015,Germany,Ukraine,REF,64.0,40.0,-24.0
+2015,Germany,Guinea-Bissau,REF,9.0,9.0,0.0
+2015,Germany,Cocos Islands,REF,243.0,192.0,-51.0
+2015,Germany,Germany,REF,76.0,67.0,-9.0
+2015,Germany,United Kingdom,REF,11036.0,7392.0,-3644.0
+2015,Germany,South Africa,REF,134.0,119.0,-15.0
+2015,Germany,United States,REF,32.0,24.0,-8.0
+2015,United States,Afghanistan,REF,9054.0,9354.0,300.0
+2015,United States,Mexico,REF,1371.0,1823.0,452.0
+2015,United States,United States,REF,378.0,334.0,-44.0
+2015,United States,Papua New Guinea,REF,375.0,294.0,-81.0
+2015,United States,South Africa,REF,351.0,473.0,122.0
+2015,United States,Spain,REF,34.0,38.0,4.0
+2015,United States,Germany,REF,86.0,83.0,-3.0
+2015,United States,Bahrain,REF,124.0,146.0,22.0
+2015,United States,Burundi,REF,163.0,76.0,-87.0
+2015,United States,Libya,REF,10.0,12.0,2.0
+2015,United States,Bangladesh,REF,930.0,940.0,10.0
+2015,United States,India,REF,91.0,91.0,0.0
+2015,United States,Finland,REF,6.0,5.0,-1.0
+2015,United States,United States,REF,175.0,178.0,3.0
+2015,United States,Bolivia,REF,18.0,16.0,-2.0
+2015,United States,Botswana,REF,11.0,17.0,6.0
+2015,United States,Brazil,REF,13.0,14.0,1.0
+2015,United States,Canada,REF,49.0,37.0,-12.0
+2015,United States,United Kingdom,REF,6.0,8.0,2.0
+2015,United States,Central African Republic,REF,9.0,9.0,0.0
+2015,United States,Russia,REF,39.0,43.0,4.0
+2015,United States,Canada,REF,1847.0,1837.0,-10.0
+2015,United States,United Kingdom,REF,454.0,383.0,-71.0
+2015,United States,Congo-Brazzaville,REF,187.0,155.0,-32.0
+2015,United States,Ukraine,REF,1868.0,1473.0,-395.0
+2015,United States,Canada,REF,105.0,60.0,-45.0
+2015,United States,Cuba,REF,17.0,16.0,-1.0
+2015,United States,Ecuador,REF,25.0,19.0,-6.0
+2015,United States,Eritrea,REF,11579.0,12383.0,804.0
+2015,United States,Ethiopia,REF,833.0,1006.0,173.0
+2015,United States,Fiji,REF,8.0,8.0,0.0
+2015,United States,Germany,REF,1105.0,1235.0,130.0
+2015,United States,Gaza Strip,REF,321.0,408.0,87.0
+2015,United States,Guyana,REF,39.0,41.0,2.0
+2015,United States,Ghana,REF,206.0,216.0,10.0
+2015,United States,Guinea-Bissau,REF,7.0,10.0,3.0
+2015,United States,United States,REF,7.0,8.0,1.0
+2015,United States,Republic of Guinea,REF,365.0,326.0,-39.0
+2015,United States,French Guiana,REF,13.0,14.0,1.0
+2015,United States,United States,REF,23.0,31.0,8.0
+2015,United States,Croatia,REF,11.0,5.0,-6.0
+2015,United States,Cocos Islands,REF,359.0,298.0,-61.0
+2015,United States,Ireland,REF,282.0,296.0,14.0
+2015,United States,United Kingdom,REF,9.0,10.0,1.0
+2015,United States,Iran,REF,11516.0,12667.0,1151.0
+2015,United States,Iran,REF,2952.0,3014.0,62.0
+2015,United States,Israel,REF,11.0,11.0,0.0
+2015,United States,Kenya,REF,373.0,354.0,-19.0
+2015,United States,Romania,REF,34.0,46.0,12.0
+2015,United States,Kazakhstan,REF,5.0,11.0,6.0
+2015,United States,United States,REF,303.0,288.0,-15.0
+2015,United States,Democratic People's Republic of Korea,REF,7.0,9.0,2.0
+2015,United States,Kazakhstan,REF,622.0,608.0,-14.0
+2015,United States,United States,REF,661.0,749.0,88.0
+2015,United States,Germany,REF,44.0,7.0,-37.0
+2015,United States,Albania,REF,930.0,1138.0,208.0
+2015,United States,United States,REF,6.0,10.0,4.0
+2015,United States,United States,REF,114.0,129.0,15.0
+2015,United States,Lao Peoples Democratic Republic,REF,4696.0,5279.0,583.0
+2015,United States,Mauritius,REF,7.0,7.0,0.0
+2015,United States,United Kingdom,REF,18.0,19.0,1.0
+2015,United States,Taiwan,REF,39.0,21.0,-18.0
+2015,United States,Moldova,REF,12.0,18.0,6.0
+2015,United States,United States,REF,6.0,6.0,0.0
+2015,United States,Mali,REF,18.0,18.0,0.0
+2015,United States,United States,REF,69.0,88.0,19.0
+2015,United States,Liberia,REF,233.0,286.0,53.0
+2015,United States,Mongolia,REF,75.0,77.0,2.0
+2015,United States,Mexico,REF,121.0,134.0,13.0
+2015,United States,Indonesia,REF,35.0,35.0,0.0
+2015,United States,Iceland,REF,891.0,942.0,51.0
+2015,United States,Canada,REF,7.0,14.0,7.0
+2015,United States,Nepal,REF,110.0,110.0,0.0
+2015,United States,Nigeria,REF,6.0,7.0,1.0
+2015,United States,Nigeria,REF,1471.0,1679.0,208.0
+2015,United States,India,REF,6.0,8.0,2.0
+2015,United States,United States,REF,5667.0,6319.0,652.0
+2015,United States,Dominican Republic,REF,64.0,12.0,-52.0
+2015,United States,Sudan,REF,134.0,150.0,16.0
+2015,United States,Germany,REF,576.0,541.0,-35.0
+2015,United States,Rwanda,REF,133.0,117.0,-16.0
+2015,United States,El Salvador,REF,6.0,14.0,8.0
+2015,United States,Spain,REF,53.0,71.0,18.0
+2015,United States,United Kingdom,REF,55.0,68.0,13.0
+2015,United States,South Africa,REF,367.0,346.0,-21.0
+2015,United States,Somali Republic,REF,8512.0,6977.0,-1535.0
+2015,United States,Serbia,REF,410.0,196.0,-214.0
+2015,United States,Mexico,REF,546.0,533.0,-13.0
+2015,United States,France,REF,9.0,23.0,14.0
+2015,United States,United Kingdom,REF,1101.0,1407.0,306.0
+2015,United States,Sudan,REF,4089.0,6076.0,1987.0
+2015,United States,United States,REF,27.0,50.0,23.0
+2015,United States,Syrian Arab Republic,REF,4573.0,6496.0,1923.0
+2015,United States,Tanzania,REF,57.0,65.0,8.0
+2015,United States,Thailand,REF,24.0,25.0,1.0
+2015,United States,Guatemala,REF,28.0,22.0,-6.0
+2015,United States,United States,REF,29.0,25.0,-4.0
+2015,United States,Sudan,REF,29.0,42.0,13.0
+2015,United States,Kiribati,REF,34.0,31.0,-3.0
+2015,United States,Ecuador,REF,1398.0,984.0,-414.0
+2015,United States,United Arab Emirates,REF,10.0,15.0,5.0
+2015,United States,Uganda,REF,878.0,966.0,88.0
+2015,United States,Ukraine,REF,85.0,85.0,0.0
+2015,United States,United States,REF,22.0,35.0,13.0
+2015,United States,Uzbekistan,REF,58.0,64.0,6.0
+2015,United States,Bulgaria,REF,20021.0,19731.0,-290.0
+2015,United States,United States,REF,8.0,14.0,6.0
+2015,United States,Venezuela,REF,23.0,27.0,4.0
+2015,United States,United States,REF,11.0,11.0,0.0
+2015,United States,Yemem,REF,218.0,292.0,74.0
+2015,United States,Zambia,REF,54.0,64.0,10.0
+2015,United States,Zimbabwe,REF,9466.0,9045.0,-421.0
+2015,Guyana,Cuba,REF,0.0,0.0,0.0
+2015,Guyana,Cocos Islands,REF,0.0,0.0,0.0
+2015,Guyana,Iran,REF,127.0,553.0,426.0
+2015,Guyana,Germany,REF,245.0,255.0,10.0
+2015,Guyana,Syrian Arab Republic,REF-like,415.0,393.0,-22.0
+2015,Guyana,Syrian Arab Republic,REF,56.0,82.0,26.0
+2015,France,Afghanistan,REF,27814.0,30026.0,2212.0
+2015,France,Mexico,REF,366.0,472.0,106.0
+2015,France,United States,REF,301.0,289.0,-12.0
+2015,France,Papua New Guinea,REF,800.0,796.0,-4.0
+2015,France,Canada,REF,0.0,0.0,0.0
+2015,France,South Africa,REF,355.0,636.0,281.0
+2015,France,Argentina,REF,14.0,12.0,-2.0
+2015,France,Spain,REF,1127.0,1191.0,64.0
+2015,France,Russia,REF,11.0,5.0,-6.0
+2015,France,Germany,REF,2167.0,2171.0,4.0
+2015,France,Bahrain,REF,23.0,55.0,32.0
+2015,France,Burundi,REF,71.0,71.0,0.0
+2015,France,Libya,REF,30.0,34.0,4.0
+2015,France,Bangladesh,REF,153.0,186.0,33.0
+2015,France,India,REF,28.0,27.0,-1.0
+2015,France,Finland,REF,37.0,36.0,-1.0
+2015,France,United States,REF,155.0,154.0,-1.0
+2015,France,Bolivia,REF,7.0,7.0,0.0
+2015,France,Brazil,REF,58.0,35.0,-23.0
+2015,France,Canada,REF,1381.0,1412.0,31.0
+2015,France,Democratic Republic of the Congo,REF,91.0,85.0,-6.0
+2015,France,Belize,REF,0.0,0.0,0.0
+2015,France,United States,REF,26.0,26.0,0.0
+2015,France,United Kingdom,REF,34.0,20.0,-14.0
+2015,France,Russia,REF,16.0,24.0,8.0
+2015,France,Canada,REF,1530.0,1406.0,-124.0
+2015,France,United States,REF,194.0,184.0,-10.0
+2015,France,United Kingdom,REF,538.0,515.0,-23.0
+2015,France,Congo-Brazzaville,REF,194.0,178.0,-16.0
+2015,France,Ukraine,REF,1646.0,1537.0,-109.0
+2015,France,Canada,REF,63.0,61.0,-2.0
+2015,France,Cuba,REF,113.0,102.0,-11.0
+2015,France,Cyprus,REF,0.0,0.0,0.0
+2015,France,Venezuela,REF,859.0,837.0,-22.0
+2015,France,Dominican Republic,REF,21.0,15.0,-6.0
+2015,France,Ecuador,REF,22.0,18.0,-4.0
+2015,France,Uganda,REF,14.0,15.0,1.0
+2015,France,Eritrea,REF,4716.0,10980.0,6264.0
+2015,France,Ethiopia,REF,2695.0,2657.0,-38.0
+2015,France,United Kingdom,REF,14.0,14.0,0.0
+2015,France,Germany,REF,144.0,172.0,28.0
+2015,France,Gaza Strip,REF,250.0,0.0,-250.0
+2015,France,United States,REF,11.0,12.0,1.0
+2015,France,Guyana,REF,343.0,360.0,17.0
+2015,France,Ghana,REF,256.0,274.0,18.0
+2015,France,Guinea-Bissau,REF,18.0,24.0,6.0
+2015,France,Greece,REF,48.0,47.0,-1.0
+2015,France,Republic of Guinea,REF,569.0,641.0,72.0
+2015,France,French Guiana,REF,0.0,0.0,0.0
+2015,France,Canada,REF,15.0,16.0,1.0
+2015,France,United States,REF,22.0,27.0,5.0
+2015,France,Croatia,REF,345.0,328.0,-17.0
+2015,France,Taiwan,REF,295.0,291.0,-4.0
+2015,France,Iceland,REF,0.0,0.0,0.0
+2015,France,Cocos Islands,REF,171.0,181.0,10.0
+2015,France,Ireland,REF,417.0,299.0,-118.0
+2015,France,United Kingdom,REF,31.0,20.0,-11.0
+2015,France,Iran,REF,18814.0,19763.0,949.0
+2015,France,Iran,REF,41167.0,51396.0,10229.0
+2015,France,Israel,REF,39.0,26.0,-13.0
+2015,France,United States,REF,11.0,13.0,2.0
+2015,France,Kenya,REF,6.0,6.0,0.0
+2015,France,Romania,REF,107.0,138.0,31.0
+2015,France,United Kingdom,REF,216.0,101.0,-115.0
+2015,France,Kazakhstan,REF,89.0,87.0,-2.0
+2015,France,United States,REF,182.0,180.0,-2.0
+2015,France,Kyrgyzstan,REF,95.0,104.0,9.0
+2015,France,Democratic People's Republic of Korea,REF,141.0,82.0,-59.0
+2015,France,Kazakhstan,REF,104.0,101.0,-3.0
+2015,France,United States,REF,13.0,5.0,-8.0
+2015,France,Lao Peoples Democratic Republic,REF,52.0,50.0,-2.0
+2015,France,Germany,REF,64.0,61.0,-3.0
+2015,France,Albania,REF,267.0,334.0,67.0
+2015,France,United States,REF,489.0,521.0,32.0
+2015,France,Lesotho,REF,0.0,0.0,0.0
+2015,France,Lao Peoples Democratic Republic,REF,4046.0,3920.0,-126.0
+2015,France,Germany,REF,6.0,5.0,-1.0
+2015,France,France,REF,10.0,11.0,1.0
+2015,France,Mauritius,REF,14.0,15.0,1.0
+2015,France,United Kingdom,REF,390.0,459.0,69.0
+2015,France,Mexico,REF,0.0,0.0,0.0
+2015,France,Taiwan,REF,40.0,44.0,4.0
+2015,France,Moldova,REF,0.0,0.0,0.0
+2015,France,United States,REF,26.0,20.0,-6.0
+2015,France,Mali,REF,34.0,49.0,15.0
+2015,France,United States,REF,7.0,6.0,-1.0
+2015,France,Mexico,REF,220.0,237.0,17.0
+2015,France,Mongolia,REF,35.0,36.0,1.0
+2015,France,Mexico,REF,154.0,161.0,7.0
+2015,France,French Polynesia,REF,12.0,12.0,0.0
+2015,France,Iceland,REF,769.0,708.0,-61.0
+2015,France,Nepal,REF,51.0,45.0,-6.0
+2015,France,Nigeria,REF,10.0,12.0,2.0
+2015,France,Nigeria,REF,41.0,45.0,4.0
+2015,France,United States,REF,0.0,0.0,0.0
+2015,France,Nigeria,REF,867.0,981.0,114.0
+2015,France,New Zealand,REF,9.0,8.0,-1.0
+2015,France,United States,REF,4331.0,4702.0,371.0
+2015,France,Pakistan,REF,46.0,42.0,-4.0
+2015,France,Netherlands,REF,31.0,28.0,-3.0
+2015,France,Indonesia,REF,0.0,0.0,0.0
+2015,France,Sweden,REF,718.0,703.0,-15.0
+2015,France,Dominican Republic,REF,177.0,170.0,-7.0
+2015,France,Sudan,REF,30.0,24.0,-6.0
+2015,France,Germany,REF,4608.0,4856.0,248.0
+2015,France,Rwanda,REF,173.0,188.0,15.0
+2015,France,El Salvador,REF,6.0,8.0,2.0
+2015,France,Spain,REF,15.0,15.0,0.0
+2015,France,United Kingdom,REF,36.0,41.0,5.0
+2015,France,Singapore,REF,7.0,6.0,-1.0
+2015,France,South Africa,REF,324.0,341.0,17.0
+2015,France,Somali Republic,REF,4205.0,4860.0,655.0
+2015,France,United States,REF,15.0,14.0,-1.0
+2015,France,Serbia,REF,9294.0,9157.0,-137.0
+2015,France,Mexico,REF,1449.0,1357.0,-92.0
+2015,France,France,REF,11.0,19.0,8.0
+2015,France,United Kingdom,REF,1559.0,2935.0,1376.0
+2015,France,Sudan,REF,330.0,457.0,127.0
+2015,France,Egypt,REF,0.0,0.0,0.0
+2015,France,Slovakia,REF,99.0,95.0,-4.0
+2015,France,Angola,REF,9.0,7.0,-2.0
+2015,France,Syrian Arab Republic,REF,40994.0,115604.0,74610.0
+2015,France,Tanzania,REF,12.0,13.0,1.0
+2015,France,Thailand,REF,67.0,46.0,-21.0
+2015,France,Tajikistan,REF,95.0,103.0,8.0
+2015,France,Guatemala,REF,26.0,29.0,3.0
+2015,France,United States,REF,1293.0,1188.0,-105.0
+2015,France,Sudan,REF,0.0,0.0,0.0
+2015,France,Kiribati,REF,90.0,90.0,0.0
+2015,France,Ecuador,REF,22242.0,20281.0,-1961.0
+2015,France,United Arab Emirates,REF,0.0,0.0,0.0
+2015,France,Uganda,REF,120.0,112.0,-8.0
+2015,France,Ukraine,REF,299.0,320.0,21.0
+2015,France,United States,REF,216.0,159.0,-57.0
+2015,France,Uzbekistan,REF,85.0,78.0,-7.0
+2015,France,Bulgaria,REF,4526.0,9089.0,4563.0
+2015,France,United States,REF,0.0,0.0,0.0
+2015,France,Venezuela,REF,5.0,6.0,1.0
+2015,France,Yemem,REF,109.0,140.0,31.0
+2015,France,Zambia,REF,6.0,6.0,0.0
+2015,France,Zimbabwe,REF,47.0,46.0,-1.0
+2015,Ghana,Central African Republic,REF,28.0,102.0,74.0
+2015,Ghana,Russia,REF,6.0,8.0,2.0
+2015,Ghana,United Kingdom,REF,5.0,5.0,0.0
+2015,Ghana,Ukraine,REF,34.0,45.0,11.0
+2015,Ghana,Eritrea,REF,7.0,12.0,5.0
+2015,Ghana,Cocos Islands,REF,9779.0,10807.0,1028.0
+2015,Ghana,Iran,REF,11.0,11.0,0.0
+2015,Ghana,Germany,REF,5262.0,2788.0,-2474.0
+2015,Ghana,United States,REF,7.0,7.0,0.0
+2015,Ghana,Nigeria,REF,9.0,9.0,0.0
+2015,Ghana,United States,REF,8.0,13.0,5.0
+2015,Ghana,Rwanda,REF,28.0,36.0,8.0
+2015,Ghana,South Africa,REF,52.0,118.0,66.0
+2015,Ghana,Somali Republic,REF,38.0,59.0,21.0
+2015,Ghana,Sudan,REF,233.0,279.0,46.0
+2015,Ghana,Syrian Arab Republic,REF,5.0,47.0,42.0
+2015,Ghana,United States,REF,2926.0,3041.0,115.0
+2015,Guinea-Bissau,Burundi,REF,13.0,13.0,0.0
+2015,Guinea-Bissau,Ukraine,REF,7.0,7.0,0.0
+2015,Guinea-Bissau,Germany,REF,5.0,5.0,0.0
+2015,Guinea-Bissau,Republic of Guinea,REF,10.0,10.0,0.0
+2015,Guinea-Bissau,Cocos Islands,REF,17.0,17.0,0.0
+2015,Guinea-Bissau,Germany,REF,5.0,5.0,0.0
+2015,Guinea-Bissau,United Kingdom,REF,8601.0,8601.0,0.0
+2015,Guinea-Bissau,South Africa,REF,22.0,22.0,0.0
+2015,Greece,Afghanistan,REF,1451.0,1923.0,472.0
+2015,Greece,Mexico,REF,139.0,143.0,4.0
+2015,Greece,United States,REF,31.0,33.0,2.0
+2015,Greece,South Africa,REF,92.0,140.0,48.0
+2015,Greece,Spain,REF,13.0,11.0,-2.0
+2015,Greece,Germany,REF,10.0,10.0,0.0
+2015,Greece,Bangladesh,REF,167.0,200.0,33.0
+2015,Greece,Finland,REF,12.0,14.0,2.0
+2015,Greece,Central African Republic,REF,7.0,7.0,0.0
+2015,Greece,Canada,REF,32.0,38.0,6.0
+2015,Greece,United Kingdom,REF,31.0,73.0,42.0
+2015,Greece,Congo-Brazzaville,REF,34.0,37.0,3.0
+2015,Greece,Ukraine,REF,88.0,129.0,41.0
+2015,Greece,Eritrea,REF-like,0.0,20.0,20.0
+2015,Greece,Eritrea,REF,201.0,284.0,83.0
+2015,Greece,Ethiopia,REF,151.0,179.0,28.0
+2015,Greece,Germany,REF,11.0,12.0,1.0
+2015,Greece,Gaza Strip,REF,42.0,103.0,61.0
+2015,Greece,Guyana,REF,264.0,266.0,2.0
+2015,Greece,Ghana,REF,42.0,44.0,2.0
+2015,Greece,Guinea-Bissau,REF,0.0,0.0,0.0
+2015,Greece,Republic of Guinea,REF,38.0,46.0,8.0
+2015,Greece,Cocos Islands,REF,47.0,57.0,10.0
+2015,Greece,Ireland,REF,21.0,25.0,4.0
+2015,Greece,United Kingdom,REF,11.0,12.0,1.0
+2015,Greece,Iran,REF,479.0,543.0,64.0
+2015,Greece,Iran,REF,1242.0,1348.0,106.0
+2015,Greece,United States,REF,18.0,26.0,8.0
+2015,Greece,Albania,REF,13.0,26.0,13.0
+2015,Greece,United States,REF,9.0,9.0,0.0
+2015,Greece,Lao Peoples Democratic Republic,REF,36.0,38.0,2.0
+2015,Greece,Mauritius,REF,30.0,39.0,9.0
+2015,Greece,Taiwan,REF,11.0,11.0,0.0
+2015,Greece,Mali,REF,5.0,11.0,6.0
+2015,Greece,Mexico,REF,35.0,42.0,7.0
+2015,Greece,Iceland,REF,10.0,13.0,3.0
+2015,Greece,Nigeria,REF,185.0,231.0,46.0
+2015,Greece,United States,REF,441.0,522.0,81.0
+2015,Greece,Netherlands,REF,6.0,7.0,1.0
+2015,Greece,Germany,REF,19.0,12.0,-7.0
+2015,Greece,Rwanda,REF,11.0,9.0,-2.0
+2015,Greece,El Salvador,REF,5.0,6.0,1.0
+2015,Greece,United Kingdom,REF,44.0,46.0,2.0
+2015,Greece,South Africa,REF,20.0,23.0,3.0
+2015,Greece,Somali Republic,REF-like,0.0,30.0,30.0
+2015,Greece,Somali Republic,REF,163.0,210.0,47.0
+2015,Greece,Serbia,REF,24.0,26.0,2.0
+2015,Greece,Mexico,REF,7.0,7.0,0.0
+2015,Greece,United Kingdom,REF,13.0,172.0,159.0
+2015,Greece,Sudan,REF,274.0,362.0,88.0
+2015,Greece,Syrian Arab Republic,REF-like,3000.0,5400.0,2400.0
+2015,Greece,Syrian Arab Republic,REF,913.0,3701.0,2788.0
+2015,Greece,Tanzania,REF,6.0,5411.0,5405.0
+2015,Greece,Ecuador,REF,125.0,138.0,13.0
+2015,Greece,Uganda,REF,8.0,13.0,5.0
+2015,Greece,Ukraine,REF,10.0,85.0,75.0
+2015,Greece,Uzbekistan,REF,23.0,13.0,-10.0
+2015,Greece,Bulgaria,REF,136.0,1539.0,1403.0
+2015,Mexico,United States,REF,0.0,0.0,0.0
+2015,Mexico,Canada,REF,0.0,0.0,0.0
+2015,Mexico,Canada,REF,6.0,6.0,0.0
+2015,Mexico,United States,REF,17.0,29.0,12.0
+2015,Mexico,United States,REF,100.0,99.0,-1.0
+2015,Mexico,El Salvador,REF,37.0,88.0,51.0
+2015,Republic of Guinea,Burundi,REF,7.0,7.0,0.0
+2015,Republic of Guinea,Central African Republic,REF,43.0,57.0,14.0
+2015,Republic of Guinea,Congo-Brazzaville,REF,12.0,12.0,0.0
+2015,Republic of Guinea,Ukraine,REF,51.0,51.0,0.0
+2015,Republic of Guinea,Cocos Islands,REF,6580.0,6668.0,88.0
+2015,Republic of Guinea,Germany,REF,1787.0,1768.0,-19.0
+2015,Republic of Guinea,Lao Peoples Democratic Republic,REF,13.0,13.0,0.0
+2015,Republic of Guinea,Mali,REF,15.0,15.0,0.0
+2015,Republic of Guinea,Rwanda,REF,10.0,10.0,0.0
+2015,Republic of Guinea,South Africa,REF,216.0,202.0,-14.0
+2015,Republic of Guinea,Somali Republic,REF,5.0,5.0,0.0
+2015,Republic of Guinea,United States,REF,9.0,9.0,0.0
+2015,French Guiana,Ukraine,REF,7.0,7.0,0.0
+2015,Hong Kong SAR of China,Ukraine,REF,0.0,0.0,0.0
+2015,Hong Kong SAR of China,Canada,REF,0.0,0.0,0.0
+2015,Hong Kong SAR of China,Iran,REF,0.0,0.0,0.0
+2015,Hong Kong SAR of China,Lao Peoples Democratic Republic,REF,26.0,26.0,0.0
+2015,Hong Kong SAR of China,Iceland,REF,0.0,0.0,0.0
+2015,Hong Kong SAR of China,United States,REF,16.0,13.0,-3.0
+2015,Hong Kong SAR of China,Rwanda,REF,17.0,17.0,0.0
+2015,Hong Kong SAR of China,Somali Republic,REF,42.0,43.0,1.0
+2015,Hong Kong SAR of China,Guatemala,REF,0.0,0.0,0.0
+2015,Hong Kong SAR of China,United States,REF,0.0,0.0,0.0
+2015,Hong Kong SAR of China,Uganda,REF,5.0,5.0,0.0
+2015,United States,Canada,REF,6.0,6.0,0.0
+2015,United States,United States,REF,7.0,11.0,4.0
+2015,Croatia,Afghanistan,REF,21.0,22.0,1.0
+2015,Croatia,Canada,REF-like,41.0,15.0,-26.0
+2015,Croatia,Canada,REF,355.0,140.0,-215.0
+2015,Croatia,Iran,REF,6.0,9.0,3.0
+2015,Croatia,Nigeria,REF,5.0,10.0,5.0
+2015,Croatia,Germany,REF,10.0,13.0,3.0
+2015,Croatia,Somali Republic,REF,12.0,15.0,3.0
+2015,Croatia,Serbia,REF-like,6.0,199.0,193.0
+2015,Croatia,Syrian Arab Republic,REF,22.0,23.0,1.0
+2015,Croatia,Ecuador,REF,6.0,11.0,5.0
+2015,Croatia,Ukraine,REF,5.0,5.0,0.0
+2015,Taiwan,Russia,REF,0.0,0.0,0.0
+2015,Taiwan,Afghanistan,REF,819.0,942.0,123.0
+2015,Taiwan,United States,REF,10.0,16.0,6.0
+2015,Taiwan,Papua New Guinea,REF,5.0,5.0,0.0
+2015,Taiwan,South Africa,REF,10.0,12.0,2.0
+2015,Taiwan,Spain,REF,30.0,45.0,15.0
+2015,Taiwan,Germany,REF,12.0,13.0,1.0
+2015,Taiwan,Bangladesh,REF,6.0,7.0,1.0
+2015,Taiwan,Canada,REF,6.0,6.0,0.0
+2015,Taiwan,United Kingdom,REF,0.0,30.0,30.0
+2015,Taiwan,Congo-Brazzaville,REF,7.0,10.0,3.0
+2015,Taiwan,Ukraine,REF,13.0,16.0,3.0
+2015,Taiwan,Cuba,REF,48.0,68.0,20.0
+2015,Taiwan,Eritrea,REF,40.0,47.0,7.0
+2015,Taiwan,Ethiopia,REF,26.0,28.0,2.0
+2015,Taiwan,Gaza Strip,REF,62.0,78.0,16.0
+2015,Taiwan,Guyana,REF,45.0,56.0,11.0
+2015,Taiwan,Croatia,REF,7.0,5.0,-2.0
+2015,Taiwan,Cocos Islands,REF,11.0,21.0,10.0
+2015,Taiwan,Iran,REF,68.0,104.0,36.0
+2015,Taiwan,Iran,REF,220.0,396.0,176.0
+2015,Taiwan,United States,REF,13.0,13.0,0.0
+2015,Taiwan,Lao Peoples Democratic Republic,REF,11.0,12.0,1.0
+2015,Taiwan,Nepal,REF,7.0,9.0,2.0
+2015,Taiwan,Nigeria,REF,27.0,39.0,12.0
+2015,Taiwan,United States,REF,35.0,47.0,12.0
+2015,Taiwan,Dominican Republic,REF,26.0,34.0,8.0
+2015,Taiwan,Germany,REF,25.0,36.0,11.0
+2015,Taiwan,Somali Republic,REF,496.0,611.0,115.0
+2015,Taiwan,Serbia,REF,65.0,45.0,-20.0
+2015,Taiwan,Mexico,REF,0.0,8.0,8.0
+2015,Taiwan,United Kingdom,REF,51.0,78.0,27.0
+2015,Taiwan,Sudan,REF,35.0,66.0,31.0
+2015,Taiwan,Syrian Arab Republic,REF,334.0,476.0,142.0
+2015,Taiwan,Kiribati,REF,7.0,7.0,0.0
+2015,Taiwan,Ecuador,REF,27.0,37.0,10.0
+2015,Taiwan,Uganda,REF,5.0,6.0,1.0
+2015,Taiwan,Ukraine,REF,10.0,17.0,7.0
+2015,Taiwan,Uzbekistan,REF,7.0,7.0,0.0
+2015,Taiwan,Bulgaria,REF,165.0,865.0,700.0
+2015,Taiwan,Zambia,REF,0.0,0.0,0.0
+2015,Iceland,Afghanistan,REF,11.0,12.0,1.0
+2015,Iceland,Eritrea,REF,5.0,9.0,4.0
+2015,Iceland,Iran,REF,19.0,25.0,6.0
+2015,Iceland,Somali Republic,REF,5.0,7.0,2.0
+2015,Iceland,United Kingdom,REF,5.0,8.0,3.0
+2015,Iceland,Syrian Arab Republic,REF,7.0,37.0,30.0
+2015,Iceland,Ukraine,REF,6.0,12.0,6.0
+2015,Cocos Islands,Papua New Guinea,REF,5.0,5.0,0.0
+2015,Cocos Islands,Burundi,REF,34.0,36.0,2.0
+2015,Cocos Islands,United States,REF,28.0,28.0,0.0
+2015,Cocos Islands,Central African Republic,REF,240.0,319.0,79.0
+2015,Cocos Islands,Russia,REF,17.0,17.0,0.0
+2015,Cocos Islands,Congo-Brazzaville,REF,166.0,169.0,3.0
+2015,Cocos Islands,Ukraine,REF,168.0,157.0,-11.0
+2015,Cocos Islands,Iran,REF,6.0,6.0,0.0
+2015,Cocos Islands,Germany,REF,1086.0,1040.0,-46.0
+2015,Cocos Islands,Nigeria,REF,19.0,19.0,0.0
+2015,Cocos Islands,Rwanda,REF,82.0,82.0,0.0
+2015,Cocos Islands,Mexico,REF,9.0,9.0,0.0
+2015,Cocos Islands,Sudan,REF,8.0,10.0,2.0
+2015,Cocos Islands,United States,REF,30.0,30.0,0.0
+2015,Ireland,Afghanistan,REF,10395.0,10196.0,-199.0
+2015,Ireland,Canada,REF,109018.0,110098.0,1080.0
+2015,Ireland,Ukraine,REF,45.0,43.0,-2.0
+2015,Ireland,Eritrea,REF,47.0,42.0,-5.0
+2015,Ireland,Ethiopia,REF,11.0,14.0,3.0
+2015,Ireland,Gaza Strip,REF,73.0,79.0,6.0
+2015,Ireland,Cocos Islands,REF,11.0,9.0,-2.0
+2015,Ireland,Iran,REF,107.0,72.0,-35.0
+2015,Ireland,Iran,REF,115.0,287.0,172.0
+2015,Ireland,Lao Peoples Democratic Republic,REF,65057.0,64208.0,-849.0
+2015,Ireland,Iceland,REF,14301.0,15735.0,1434.0
+2015,Ireland,Dominican Republic,REF,0.0,0.0,0.0
+2015,Ireland,Rwanda,REF,5.0,5.0,0.0
+2015,Ireland,Somali Republic,REF,654.0,465.0,-189.0
+2015,Ireland,Sudan,REF,49.0,65.0,16.0
+2015,Ireland,Syrian Arab Republic,REF,27.0,41.0,14.0
+2015,United Kingdom,Afghanistan,REF,1681.0,2890.0,1209.0
+2015,United Kingdom,South Africa,REF,13.0,13.0,0.0
+2015,United Kingdom,Canada,REF,27.0,20.0,-7.0
+2015,United Kingdom,Congo-Brazzaville,REF,0.0,0.0,0.0
+2015,United Kingdom,Ukraine,REF,10.0,7.0,-3.0
+2015,United Kingdom,Eritrea,REF,14.0,19.0,5.0
+2015,United Kingdom,Ethiopia,REF,27.0,51.0,24.0
+2015,United Kingdom,Gaza Strip,REF,288.0,366.0,78.0
+2015,United Kingdom,Iran,REF,281.0,316.0,35.0
+2015,United Kingdom,Iran,REF,173.0,217.0,44.0
+2015,United Kingdom,United States,REF,7.0,20.0,13.0
+2015,United Kingdom,Lao Peoples Democratic Republic,REF,272.0,319.0,47.0
+2015,United Kingdom,Mongolia,REF,0.0,0.0,0.0
+2015,United Kingdom,Iceland,REF,760.0,686.0,-74.0
+2015,United Kingdom,United States,REF,226.0,344.0,118.0
+2015,United Kingdom,Netherlands,REF,0.0,0.0,0.0
+2015,United Kingdom,Somali Republic,REF,322.0,448.0,126.0
+2015,United Kingdom,Sudan,REF,118.0,171.0,53.0
+2015,United Kingdom,Syrian Arab Republic,REF,43.0,61.0,18.0
+2015,United Kingdom,Thailand,REF,0.0,0.0,0.0
+2015,Iran,Afghanistan,REF,158.0,182.0,24.0
+2015,Iran,Mexico,REF,68.0,75.0,7.0
+2015,Iran,United States,REF,184.0,188.0,4.0
+2015,Iran,Papua New Guinea,REF,244.0,249.0,5.0
+2015,Iran,South Africa,REF,41.0,36.0,-5.0
+2015,Iran,Spain,REF,10.0,10.0,0.0
+2015,Iran,Germany,REF,12.0,14.0,2.0
+2015,Iran,Burundi,REF,20.0,22.0,2.0
+2015,Iran,Brazil,REF,0.0,0.0,0.0
+2015,Iran,Bangladesh,REF,7.0,13.0,6.0
+2015,Iran,United States,REF,49.0,51.0,2.0
+2015,Iran,Bolivia,REF,6.0,6.0,0.0
+2015,Iran,Canada,REF,14.0,14.0,0.0
+2015,Iran,Democratic Republic of the Congo,REF,35.0,35.0,0.0
+2015,Iran,United States,REF,0.0,0.0,0.0
+2015,Iran,Central African Republic,REF,10.0,10.0,0.0
+2015,Iran,Canada,REF,45.0,53.0,8.0
+2015,Iran,United Kingdom,REF,66.0,79.0,13.0
+2015,Iran,Congo-Brazzaville,REF,201.0,204.0,3.0
+2015,Iran,Ukraine,REF,345.0,351.0,6.0
+2015,Iran,Canada,REF,0.0,0.0,0.0
+2015,Iran,Cuba,REF,22.0,22.0,0.0
+2015,Iran,Venezuela,REF,100.0,100.0,0.0
+2015,Iran,Eritrea,REF,42.0,45.0,3.0
+2015,Iran,Mexico,REF,7.0,7.0,0.0
+2015,Iran,Ethiopia,REF,41.0,38.0,-3.0
+2015,Iran,Gaza Strip,REF,84.0,89.0,5.0
+2015,Iran,United States,REF,0.0,0.0,0.0
+2015,Iran,Guyana,REF,70.0,75.0,5.0
+2015,Iran,Ghana,REF,18.0,20.0,2.0
+2015,Iran,Guinea-Bissau,REF,0.0,0.0,0.0
+2015,Iran,Mexico,REF,0.0,0.0,0.0
+2015,Iran,Republic of Guinea,REF,20.0,22.0,2.0
+2015,Iran,Croatia,REF,69.0,69.0,0.0
+2015,Iran,Cocos Islands,REF,21.0,21.0,0.0
+2015,Iran,Iran,REF,118.0,144.0,26.0
+2015,Iran,Iran,REF,379.0,409.0,30.0
+2015,Iran,Israel,REF,0.0,0.0,0.0
+2015,Iran,Romania,REF,6.0,6.0,0.0
+2015,Iran,Kazakhstan,REF,37.0,37.0,0.0
+2015,Iran,United States,REF,51.0,59.0,8.0
+2015,Iran,United States,REF,30.0,40.0,10.0
+2015,Iran,Germany,REF,29.0,25.0,-4.0
+2015,Iran,Albania,REF,161.0,174.0,13.0
+2015,Iran,United States,REF,13.0,13.0,0.0
+2015,Iran,Lao Peoples Democratic Republic,REF,18.0,20.0,2.0
+2015,Iran,Germany,REF,14.0,14.0,0.0
+2015,Iran,France,REF,6.0,6.0,0.0
+2015,Iran,Taiwan,REF,106.0,106.0,0.0
+2015,Iran,Mali,REF,7.0,9.0,2.0
+2015,Iran,Liberia,REF,28.0,38.0,10.0
+2015,Iran,Mexico,REF,6.0,6.0,0.0
+2015,Iran,Mexico,REF,10.0,10.0,0.0
+2015,Iran,French Polynesia,REF,7.0,7.0,0.0
+2015,Iran,Indonesia,REF,6.0,6.0,0.0
+2015,Iran,Iceland,REF,8.0,13.0,5.0
+2015,Iran,United States,REF,0.0,0.0,0.0
+2015,Iran,Nigeria,REF,426.0,438.0,12.0
+2015,Iran,United States,REF,117.0,167.0,50.0
+2015,Iran,Pakistan,REF,0.0,0.0,0.0
+2015,Iran,Sweden,REF,50.0,50.0,0.0
+2015,Iran,Dominican Republic,REF,323.0,323.0,0.0
+2015,Iran,Sudan,REF,41.0,47.0,6.0
+2015,Iran,Germany,REF,167.0,170.0,3.0
+2015,Iran,Rwanda,REF,59.0,62.0,3.0
+2015,Iran,Spain,REF,7.0,7.0,0.0
+2015,Iran,South Africa,REF,52.0,54.0,2.0
+2015,Iran,Somali Republic,REF,503.0,501.0,-2.0
+2015,Iran,Serbia,REF,191.0,200.0,9.0
+2015,Iran,Mexico,REF,5.0,7.0,2.0
+2015,Iran,United Kingdom,REF,7.0,7.0,0.0
+2015,Iran,Sudan,REF,201.0,201.0,0.0
+2015,Iran,Slovakia,REF,23.0,23.0,0.0
+2015,Iran,United States,REF,11.0,11.0,0.0
+2015,Iran,Syrian Arab Republic,REF,176.0,109.0,-67.0
+2015,Iran,Tanzania,REF,9.0,9.0,0.0
+2015,Iran,Tajikistan,REF,12.0,12.0,0.0
+2015,Iran,Guatemala,REF,0.0,0.0,0.0
+2015,Iran,United States,REF,34.0,36.0,2.0
+2015,Iran,Ecuador,REF,13.0,13.0,0.0
+2015,Iran,Uganda,REF,29.0,41.0,12.0
+2015,Iran,Ukraine,REF,97.0,103.0,6.0
+2015,Iran,Uzbekistan,REF,23.0,23.0,0.0
+2015,Iran,Zambia,REF,5.0,5.0,0.0
+2015,Iran,Zimbabwe,REF,157.0,191.0,34.0
+2015,Iran,Afghanistan,REF,950000.0,951142.0,1142.0
+2015,Iran,Ethiopia,REF,0.0,0.0,0.0
+2015,Iran,Iran,REF,32000.0,28268.0,-3732.0
+2015,Iran,United States,REF,8.0,8.0,0.0
+2015,Iran,United States,REF,10.0,10.0,0.0
+2015,Iran,Uzbekistan,REF,7.0,7.0,0.0
+2015,Iran,Afghanistan,REF,5.0,9.0,4.0
+2015,Iran,Gaza Strip,REF,9246.0,9250.0,4.0
+2015,Iran,Iran,REF,11053.0,8231.0,-2822.0
+2015,Iran,Albania,REF,0.0,0.0,0.0
+2015,Iran,United States,REF,0.0,0.0,0.0
+2015,Iran,Syrian Arab Republic,REF,234196.0,244642.0,10446.0
+2015,Iran,Ecuador,REF,16637.0,15557.0,-1080.0
+2015,Israel,Ukraine,REF-like,208.0,208.0,0.0
+2015,Israel,Eritrea,REF-like,32551.0,31556.0,-995.0
+2015,Israel,Eritrea,REF,117.0,152.0,35.0
+2015,Israel,Ethiopia,REF,86.0,86.0,0.0
+2015,Israel,Cocos Islands,REF-like,0.0,0.0,0.0
+2015,Israel,Iran,REF,6.0,6.0,0.0
+2015,Israel,Iran,REF,9.0,9.0,0.0
+2015,Israel,Albania,REF,0.0,0.0,0.0
+2015,Israel,Somali Republic,REF,0.0,0.0,0.0
+2015,Israel,France,REF,38.0,38.0,0.0
+2015,Israel,France,REF-like,68.0,68.0,0.0
+2015,Israel,Sudan,REF-like,6559.0,6307.0,-252.0
+2015,Israel,Sudan,REF,29.0,26.0,-3.0
+2015,Israel,Bulgaria,REF,7.0,7.0,0.0
+2015,United States,Afghanistan,REF,8991.0,12203.0,3212.0
+2015,United States,Mexico,REF,256.0,356.0,100.0
+2015,United States,United States,REF,113.0,146.0,33.0
+2015,United States,Papua New Guinea,REF,36.0,40.0,4.0
+2015,United States,South Africa,REF,1145.0,1379.0,234.0
+2015,United States,Spain,REF,225.0,274.0,49.0
+2015,United States,Germany,REF,69.0,61.0,-8.0
+2015,United States,Burundi,REF,12.0,14.0,2.0
+2015,United States,Libya,REF,70.0,119.0,49.0
+2015,United States,Bangladesh,REF,1357.0,2545.0,1188.0
+2015,United States,Finland,REF,599.0,764.0,165.0
+2015,United States,United States,REF,31.0,36.0,5.0
+2015,United States,Bolivia,REF,9.0,9.0,0.0
+2015,United States,Brazil,REF,31.0,43.0,12.0
+2015,United States,Canada,REF,375.0,478.0,103.0
+2015,United States,Central African Republic,REF,32.0,63.0,31.0
+2015,United States,Russia,REF,335.0,383.0,48.0
+2015,United States,Canada,REF,98.0,129.0,31.0
+2015,United States,United States,REF,5.0,7.0,2.0
+2015,United States,United Kingdom,REF,628.0,708.0,80.0
+2015,United States,Congo-Brazzaville,REF,486.0,499.0,13.0
+2015,United States,Ukraine,REF,427.0,469.0,42.0
+2015,United States,Canada,REF,475.0,506.0,31.0
+2015,United States,Cuba,REF,142.0,152.0,10.0
+2015,United States,Argentina,REF,17.0,17.0,0.0
+2015,United States,Ecuador,REF,14.0,15.0,1.0
+2015,United States,Uganda,REF,8.0,14.0,6.0
+2015,United States,Eritrea,REF,13357.0,11951.0,-1406.0
+2015,United States,Ethiopia,REF,2354.0,1894.0,-460.0
+2015,United States,Canada,REF,14.0,20.0,6.0
+2015,United States,Germany,REF,1923.0,4919.0,2996.0
+2015,United States,Gaza Strip,REF,611.0,702.0,91.0
+2015,United States,Guyana,REF,130.0,188.0,58.0
+2015,United States,Ghana,REF,1733.0,2502.0,769.0
+2015,United States,Guinea-Bissau,REF,166.0,320.0,154.0
+2015,United States,Republic of Guinea,REF,1026.0,1626.0,600.0
+2015,United States,Canada,REF,8.0,9.0,1.0
+2015,United States,United States,REF,7.0,9.0,2.0
+2015,United States,Croatia,REF,18.0,18.0,0.0
+2015,United States,Cocos Islands,REF,4603.0,5079.0,476.0
+2015,United States,Ireland,REF,113.0,123.0,10.0
+2015,United States,Iran,REF,1412.0,1573.0,161.0
+2015,United States,Iran,REF,2913.0,3428.0,515.0
+2015,United States,Romania,REF,12.0,20.0,8.0
+2015,United States,Kazakhstan,REF,5.0,6.0,1.0
+2015,United States,United States,REF,102.0,118.0,16.0
+2015,United States,Germany,REF,765.0,702.0,-63.0
+2015,United States,Albania,REF,227.0,392.0,165.0
+2015,United States,United States,REF,310.0,378.0,68.0
+2015,United States,Lao Peoples Democratic Republic,REF,673.0,707.0,34.0
+2015,United States,Canada,REF,10.0,15.0,5.0
+2015,United States,Mauritius,REF,230.0,282.0,52.0
+2015,United States,United Kingdom,REF,200.0,191.0,-9.0
+2015,United States,Taiwan,REF,111.0,106.0,-5.0
+2015,United States,Mali,REF,5552.0,8334.0,2782.0
+2015,United States,Mexico,REF,51.0,61.0,10.0
+2015,United States,Mongolia,REF,6.0,6.0,0.0
+2015,United States,Mexico,REF,253.0,346.0,93.0
+2015,United States,Iceland,REF,23.0,31.0,8.0
+2015,United States,Nepal,REF,28.0,56.0,28.0
+2015,United States,Nigeria,REF,263.0,326.0,63.0
+2015,United States,Nigeria,REF,6293.0,9931.0,3638.0
+2015,United States,Pakistan,REF,35.0,44.0,9.0
+2015,United States,Netherlands,REF,5.0,6.0,1.0
+2015,United States,Dominican Republic,REF,22.0,5.0,-17.0
+2015,United States,Germany,REF,174.0,200.0,26.0
+2015,United States,Rwanda,REF,11.0,15.0,4.0
+2015,United States,El Salvador,REF,120.0,165.0,45.0
+2015,United States,Spain,REF,6.0,6.0,0.0
+2015,United States,United Kingdom,REF,1477.0,3037.0,1560.0
+2015,United States,South Africa,REF,327.0,403.0,76.0
+2015,United States,Somali Republic,REF,12213.0,13068.0,855.0
+2015,United States,Serbia,REF,2686.0,2620.0,-66.0
+2015,United States,Mexico,REF,8.0,8.0,0.0
+2015,United States,France,REF,57.0,60.0,3.0
+2015,United States,United Kingdom,REF,21.0,20.0,-1.0
+2015,United States,Sudan,REF,2530.0,2161.0,-369.0
+2015,United States,Syrian Arab Republic,REF,1144.0,1460.0,316.0
+2015,United States,Tanzania,REF,10.0,19.0,9.0
+2015,United States,United States,REF,1535.0,1430.0,-105.0
+2015,United States,Kiribati,REF,400.0,479.0,79.0
+2015,United States,Ecuador,REF,2281.0,2482.0,201.0
+2015,United States,Uganda,REF,34.0,52.0,18.0
+2015,United States,Ukraine,REF,236.0,1870.0,1634.0
+2015,United States,Uzbekistan,REF,7.0,7.0,0.0
+2015,United States,Venezuela,REF,17.0,33.0,16.0
+2015,United States,Yemem,REF,45.0,58.0,13.0
+2015,Kenya,Cuba,REF,0.0,0.0,0.0
+2015,Kenya,Canada,REF,18.0,8.0,-10.0
+2015,Romania,Afghanistan,REF,8.0,8.0,0.0
+2015,Romania,South Africa,REF,44.0,56.0,12.0
+2015,Romania,Canada,REF,9.0,9.0,0.0
+2015,Romania,Djibouti,REF,0.0,0.0,0.0
+2015,Romania,Eritrea,REF,12.0,20.0,8.0
+2015,Romania,Iran,REF,29263.0,33256.0,3993.0
+2015,Romania,United States,REF,0.0,0.0,0.0
+2015,Romania,Germany,REF,18.0,25.0,7.0
+2015,Romania,Somali Republic,REF,598.0,601.0,3.0
+2015,Romania,France,REF,6.0,6.0,0.0
+2015,Romania,United Kingdom,REF,12.0,12.0,0.0
+2015,Romania,Sudan,REF,1013.0,1815.0,802.0
+2015,Romania,Syrian Arab Republic,REF,623112.0,628223.0,5111.0
+2015,Romania,Kiribati,REF,5.0,6.0,1.0
+2015,Romania,Ecuador,REF,0.0,0.0,0.0
+2015,Romania,Yemem,REF,16.0,47.0,31.0
+2015,United Kingdom,Afghanistan,REF,34.0,40.0,6.0
+2015,United Kingdom,Burundi,REF,7.0,7.0,0.0
+2015,United Kingdom,Bangladesh,REF,15.0,22.0,7.0
+2015,United Kingdom,Canada,REF,79.0,78.0,-1.0
+2015,United Kingdom,United Kingdom,REF,31.0,15.0,-16.0
+2015,United Kingdom,Ethiopia,REF,14.0,17.0,3.0
+2015,United Kingdom,Iran,REF,23.0,24.0,1.0
+2015,United Kingdom,Lao Peoples Democratic Republic,REF,43.0,51.0,8.0
+2015,United Kingdom,Iceland,REF,1889.0,1826.0,-63.0
+2015,United Kingdom,United States,REF,18.0,24.0,6.0
+2015,United Kingdom,Mexico,REF,68.0,19.0,-49.0
+2015,United Kingdom,United Kingdom,REF,8.0,8.0,0.0
+2015,United Kingdom,Sudan,REF,14.0,15.0,1.0
+2015,United Kingdom,Syrian Arab Republic,REF,41.0,59.0,18.0
+2015,United Kingdom,Ecuador,REF,19.0,29.0,10.0
+2015,United Kingdom,Bulgaria,REF,249.0,230.0,-19.0
+2015,Kazakhstan,Afghanistan,REF,578.0,644.0,66.0
+2015,Kazakhstan,Canada,REF,9.0,8.0,-1.0
+2015,Kazakhstan,Syrian Arab Republic,REF,14.0,23.0,9.0
+2015,Kazakhstan,Uzbekistan,REF,27.0,26.0,-1.0
+2015,United States,South Africa,REF,5.0,6.0,1.0
+2015,United States,Burundi,REF,657.0,848.0,191.0
+2015,United States,Central African Republic,REF,0.0,0.0,0.0
+2015,United States,Congo-Brazzaville,REF,13.0,24.0,11.0
+2015,United States,Ukraine,REF,9324.0,12046.0,2722.0
+2015,United States,Eritrea,REF,1333.0,1229.0,-104.0
+2015,United States,Ethiopia,REF,21250.0,21229.0,-21.0
+2015,United States,Ghana,REF,0.0,0.0,0.0
+2015,United States,Iran,REF,7.0,8.0,1.0
+2015,United States,Germany,REF,0.0,0.0,0.0
+2015,United States,Lao Peoples Democratic Republic,REF,14.0,14.0,0.0
+2015,United States,United States,REF,6.0,6.0,0.0
+2015,United States,Sudan,REF,0.0,0.0,0.0
+2015,United States,Rwanda,REF,825.0,813.0,-12.0
+2015,United States,Somali Republic,REF,424691.0,417920.0,-6771.0
+2015,United States,France,REF,89226.0,95671.0,6445.0
+2015,United States,Sudan,REF,3381.0,3419.0,38.0
+2015,United States,Tanzania,REF,8.0,8.0,0.0
+2015,United States,Uganda,REF,591.0,637.0,46.0
+2015,Kyrgyzstan,Afghanistan,REF,386.0,258.0,-128.0
+2015,Kyrgyzstan,Syrian Arab Republic,REF,56.0,55.0,-1.0
+2015,Kyrgyzstan,Uzbekistan,REF,37.0,26.0,-11.0
+2015,Democratic People's Republic of Korea,Afghanistan,REF,16.0,32.0,16.0
+2015,Democratic People's Republic of Korea,United States,REF,5.0,5.0,0.0
+2015,Democratic People's Republic of Korea,South Africa,REF,5.0,10.0,5.0
+2015,Democratic People's Republic of Korea,Bangladesh,REF,73.0,83.0,10.0
+2015,Democratic People's Republic of Korea,Canada,REF,27.0,35.0,8.0
+2015,Democratic People's Republic of Korea,United Kingdom,REF,13.0,15.0,2.0
+2015,Democratic People's Republic of Korea,Ukraine,REF,48.0,49.0,1.0
+2015,Democratic People's Republic of Korea,Ethiopia,REF,78.0,89.0,11.0
+2015,Democratic People's Republic of Korea,Ghana,REF,5.0,5.0,0.0
+2015,Democratic People's Republic of Korea,Cocos Islands,REF,27.0,27.0,0.0
+2015,Democratic People's Republic of Korea,Iran,REF,27.0,35.0,8.0
+2015,Democratic People's Republic of Korea,Iran,REF,7.0,17.0,10.0
+2015,Democratic People's Republic of Korea,United States,REF,5.0,5.0,0.0
+2015,Democratic People's Republic of Korea,Germany,REF,7.0,7.0,0.0
+2015,Democratic People's Republic of Korea,Lao Peoples Democratic Republic,REF,8.0,8.0,0.0
+2015,Democratic People's Republic of Korea,Mali,REF,5.0,6.0,1.0
+2015,Democratic People's Republic of Korea,Iceland,REF,180.0,213.0,33.0
+2015,Democratic People's Republic of Korea,Nepal,REF,5.0,5.0,0.0
+2015,Democratic People's Republic of Korea,Nigeria,REF,8.0,8.0,0.0
+2015,Democratic People's Republic of Korea,United States,REF,43.0,69.0,26.0
+2015,Democratic People's Republic of Korea,Germany,REF,10.0,10.0,0.0
+2015,Democratic People's Republic of Korea,Sudan,REF,8.0,9.0,1.0
+2015,Democratic People's Republic of Korea,Syrian Arab Republic,REF,503.0,646.0,143.0
+2015,Democratic People's Republic of Korea,Uganda,REF,23.0,24.0,1.0
+2015,Democratic People's Republic of Korea,Uzbekistan,REF,8.0,8.0,0.0
+2015,Democratic People's Republic of Korea,Yemem,REF,5.0,5.0,0.0
+2015,Serbia,Croatia,REF,36.0,34.0,-2.0
+2015,Serbia,Iran,REF,0.0,0.0,0.0
+2015,United States,Eritrea,REF,5.0,0.0,-5.0
+2015,United States,Gaza Strip,REF,7.0,6.0,-1.0
+2015,United States,Iran,REF,17.0,9.0,-8.0
+2015,United States,Iran,REF,438.0,391.0,-47.0
+2015,United States,United States,REF,5.0,5.0,0.0
+2015,United States,Somali Republic,REF,94.0,286.0,192.0
+2015,United States,Syrian Arab Republic,REF,15.0,14.0,-1.0
+2015,United States,Bulgaria,REF,20.0,20.0,0.0
+2015,Germany,Ukraine,REF,14.0,10.0,-4.0
+2015,Germany,Republic of Guinea,REF,25.0,24.0,-1.0
+2015,Germany,Cocos Islands,REF,38109.0,36041.0,-2068.0
+2015,Germany,Mali,REF,19.0,19.0,0.0
+2015,Germany,South Africa,REF,375.0,380.0,5.0
+2015,Germany,Sudan,REF,14.0,5.0,-9.0
+2015,Germany,Syrian Arab Republic,REF,6.0,6.0,0.0
+2015,Germany,United States,REF,9.0,5.0,-4.0
+2015,Albania,Russia,REF,20.0,20.0,0.0
+2015,Albania,Ukraine,REF,17.0,14.0,-3.0
+2015,Albania,Eritrea,REF,485.0,443.0,-42.0
+2015,Albania,Ethiopia,REF,23.0,23.0,0.0
+2015,Albania,Gaza Strip,REF,5391.0,5380.0,-11.0
+2015,Albania,Iran,REF,2520.0,2507.0,-13.0
+2015,Albania,Germany,REF,23.0,23.0,0.0
+2015,Albania,Rwanda,REF,0.0,0.0,0.0
+2015,Albania,Somali Republic,REF,164.0,164.0,0.0
+2015,Albania,Sudan,REF,658.0,624.0,-34.0
+2015,Albania,Syrian Arab Republic,REF,18653.0,97.0,-18556.0
+2015,United States,Afghanistan,REF,19.0,20.0,1.0
+2015,United States,South Africa,REF,26.0,45.0,19.0
+2015,United States,Bahrain,REF,9.0,19.0,10.0
+2015,United States,Eritrea,REF,10.0,20.0,10.0
+2015,United States,Ethiopia,REF,5.0,13.0,8.0
+2015,United States,Gaza Strip,REF,9.0,7.0,-2.0
+2015,United States,Iran,REF,12.0,20.0,8.0
+2015,United States,Iran,REF,5986.0,7234.0,1248.0
+2015,United States,Romania,REF,17.0,22.0,5.0
+2015,United States,Albania,REF,6.0,6.0,0.0
+2015,United States,Mexico,REF,0.0,0.0,0.0
+2015,United States,Somali Republic,REF,31.0,23.0,-8.0
+2015,United States,France,REF,24.0,49.0,25.0
+2015,United States,Sudan,REF,357.0,646.0,289.0
+2015,United States,Sweden,REF,0.0,0.0,0.0
+2015,United States,Syrian Arab Republic,REF,1147494.0,1062690.0,-84804.0
+2015,United States,Kiribati,REF,9.0,11.0,2.0
+2015,United States,Ecuador,REF,10.0,7.0,-3.0
+2015,Lesotho,Ukraine,REF,24.0,20.0,-4.0
+2015,Lesotho,Rwanda,REF,0.0,0.0,0.0
+2015,Lesotho,Kiribati,REF,0.0,0.0,0.0
+2015,Lesotho,Zimbabwe,REF,7.0,6.0,-1.0
+2015,Nigeria,Spain,REF,8.0,8.0,0.0
+2015,Nigeria,Canada,REF,6.0,11.0,5.0
+2015,Nigeria,Eritrea,REF,14.0,18.0,4.0
+2015,Nigeria,Somali Republic,REF,28.0,45.0,17.0
+2015,Nigeria,Serbia,REF,36.0,36.0,0.0
+2015,Nigeria,Syrian Arab Republic,REF,5.0,23.0,18.0
+2015,Lao Peoples Democratic Republic,Afghanistan,REF,34.0,124.0,90.0
+2015,Lao Peoples Democratic Republic,Gaza Strip,REF,15.0,15.0,0.0
+2015,Lao Peoples Democratic Republic,Iceland,REF,77.0,0.0,-77.0
+2015,Lao Peoples Democratic Republic,United States,REF,372.0,631.0,259.0
+2015,Germany,Afghanistan,REF,186.0,199.0,13.0
+2015,Germany,United States,REF,31.0,33.0,2.0
+2015,Germany,United Kingdom,REF,5.0,5.0,0.0
+2015,Germany,Eritrea,REF,10.0,11.0,1.0
+2015,Germany,Iran,REF,6.0,6.0,0.0
+2015,Germany,Iran,REF,18.0,38.0,20.0
+2015,Germany,Lao Peoples Democratic Republic,REF,7.0,9.0,2.0
+2015,Germany,Germany,REF,610.0,624.0,14.0
+2015,Germany,Somali Republic,REF,22.0,22.0,0.0
+2015,Germany,United Kingdom,REF,8.0,9.0,1.0
+2015,Germany,Syrian Arab Republic,REF,20.0,23.0,3.0
+2015,Germany,Ukraine,REF,34.0,60.0,26.0
+2015,Germany,Uzbekistan,REF,15.0,15.0,0.0
+2015,Luxembourg,Afghanistan,REF,35.0,37.0,2.0
+2015,Luxembourg,Mexico,REF,58.0,75.0,17.0
+2015,Luxembourg,Papua New Guinea,REF,13.0,15.0,2.0
+2015,Luxembourg,Germany,REF,14.0,14.0,0.0
+2015,Luxembourg,United States,REF,6.0,7.0,1.0
+2015,Luxembourg,Canada,REF,7.0,7.0,0.0
+2015,Luxembourg,United Kingdom,REF,5.0,9.0,4.0
+2015,Luxembourg,Congo-Brazzaville,REF,6.0,5.0,-1.0
+2015,Luxembourg,Ukraine,REF,27.0,32.0,5.0
+2015,Luxembourg,Eritrea,REF,22.0,51.0,29.0
+2015,Luxembourg,Ethiopia,REF,32.0,38.0,6.0
+2015,Luxembourg,Republic of Guinea,REF,15.0,15.0,0.0
+2015,Luxembourg,Cocos Islands,REF,7.0,6.0,-1.0
+2015,Luxembourg,Iran,REF,142.0,136.0,-6.0
+2015,Luxembourg,Iran,REF,204.0,214.0,10.0
+2015,Luxembourg,Kazakhstan,REF,6.0,6.0,0.0
+2015,Luxembourg,Mexico,REF,14.0,14.0,0.0
+2015,Luxembourg,Nigeria,REF,5.0,6.0,1.0
+2015,Luxembourg,Germany,REF,34.0,34.0,0.0
+2015,Luxembourg,Rwanda,REF,20.0,20.0,0.0
+2015,Luxembourg,Somali Republic,REF,33.0,38.0,5.0
+2015,Luxembourg,Serbia,REF,270.0,270.0,0.0
+2015,Luxembourg,United Kingdom,REF,0.0,16.0,16.0
+2015,Luxembourg,Syrian Arab Republic,REF,59.0,177.0,118.0
+2015,Luxembourg,Ecuador,REF,7.0,10.0,3.0
+2015,Luxembourg,Ukraine,REF,5.0,6.0,1.0
+2015,France,Afghanistan,REF,28.0,36.0,8.0
+2015,France,South Africa,REF,5.0,5.0,0.0
+2015,France,Germany,REF,5.0,5.0,0.0
+2015,France,United States,REF,7.0,7.0,0.0
+2015,France,Gaza Strip,REF,5.0,5.0,0.0
+2015,France,Iran,REF,19.0,19.0,0.0
+2015,France,Iran,REF,5.0,6.0,1.0
+2015,France,Kyrgyzstan,REF,5.0,7.0,2.0
+2015,France,Germany,REF,14.0,14.0,0.0
+2015,France,Somali Republic,REF,7.0,7.0,0.0
+2015,France,Syrian Arab Republic,REF,52.0,65.0,13.0
+2015,France,Uzbekistan,REF,11.0,12.0,1.0
+2015,Canada,United States,REF,6.0,6.0,0.0
+2015,Canada,Rwanda,REF,0.0,0.0,0.0
+2015,Mauritius,Central African Republic,REF,217.0,410.0,193.0
+2015,Mauritius,Congo-Brazzaville,REF,9.0,9.0,0.0
+2015,Mauritius,Ukraine,REF,56.0,58.0,2.0
+2015,Mauritius,Ethiopia,REF,6.0,6.0,0.0
+2015,Mauritius,Gaza Strip,REF,11.0,28.0,17.0
+2015,Mauritius,Republic of Guinea,REF,5.0,7.0,2.0
+2015,Mauritius,Cocos Islands,REF,268.0,267.0,-1.0
+2015,Mauritius,Iran,REF,28.0,31.0,3.0
+2015,Mauritius,Mali,REF,48912.0,50233.0,1321.0
+2015,Mauritius,United Kingdom,REF,27.0,48.0,21.0
+2015,Mauritius,Sudan,REF,8.0,7.0,-1.0
+2015,Mauritius,Syrian Arab Republic,REF,41.0,215.0,174.0
+2015,Mauritius,United States,REF,30.0,31.0,1.0
+2015,Mauritius,Kiribati,REF,0.0,0.0,0.0
+2015,Mauritius,United States,REF-like,26000.0,26000.0,0.0
+2015,United Kingdom,Canada,REF-like,6.0,6.0,0.0
+2015,United Kingdom,Serbia,REF-like,263.0,165.0,-98.0
+2015,United Kingdom,Serbia,REF,600.0,513.0,-87.0
+2015,United Kingdom,Syrian Arab Republic,REF,11.0,13.0,2.0
+2015,Mexico,Bulgaria,REF,33.0,32.0,-1.0
+2015,Taiwan,Afghanistan,REF,18.0,17.0,-1.0
+2015,Taiwan,Spain,REF,24.0,20.0,-4.0
+2015,Taiwan,Germany,REF,9.0,6.0,-3.0
+2015,Taiwan,Gaza Strip,REF,5.0,5.0,0.0
+2015,Taiwan,Iran,REF,9.0,23.0,14.0
+2015,Taiwan,Germany,REF,8.0,8.0,0.0
+2015,Taiwan,Somali Republic,REF,0.0,0.0,0.0
+2015,Taiwan,Sudan,REF,8.0,8.0,0.0
+2015,Taiwan,Syrian Arab Republic,REF,186.0,206.0,20.0
+2015,Taiwan,Ukraine,REF,17.0,102.0,85.0
+2015,Taiwan,Uzbekistan,REF,9.0,9.0,0.0
+2015,United States,Canada,REF,5.0,5.0,0.0
+2015,United States,United Kingdom,REF,13.0,15.0,2.0
+2015,United States,Congo-Brazzaville,REF,17.0,17.0,0.0
+2015,United States,Ukraine,REF,63.0,69.0,6.0
+2015,United States,Canada,REF,255.0,264.0,9.0
+2015,United States,Cuba,REF,43.0,44.0,1.0
+2015,United States,Dominican Republic,REF,8.0,8.0,0.0
+2015,United States,Eritrea,REF,7.0,7.0,0.0
+2015,United States,Ethiopia,REF,7.0,7.0,0.0
+2015,United States,Mexico,REF,324.0,358.0,34.0
+2015,United States,Canada,REF,175.0,175.0,0.0
+2015,United States,United States,REF,288.0,727.0,439.0
+2015,United States,Ireland,REF,9.0,10.0,1.0
+2015,United States,Iran,REF,25.0,27.0,2.0
+2015,United States,Iran,REF,31.0,34.0,3.0
+2015,United States,Lao Peoples Democratic Republic,REF,19.0,19.0,0.0
+2015,United States,United States,REF,14.0,17.0,3.0
+2015,United States,Nigeria,REF,18.0,22.0,4.0
+2015,United States,Pakistan,REF,10.0,10.0,0.0
+2015,United States,Dominican Republic,REF,7.0,7.0,0.0
+2015,United States,Germany,REF,6.0,11.0,5.0
+2015,United States,El Salvador,REF,418.0,946.0,528.0
+2015,United States,Syrian Arab Republic,REF,13.0,18.0,5.0
+2015,United States,Venezuela,REF,10.0,37.0,27.0
+2015,Mali,Burundi,REF,25.0,14.0,-11.0
+2015,Mali,Central African Republic,REF,874.0,979.0,105.0
+2015,Mali,Congo-Brazzaville,REF,29.0,25.0,-4.0
+2015,Mali,Ukraine,REF,213.0,242.0,29.0
+2015,Mali,Cocos Islands,REF,1088.0,975.0,-113.0
+2015,Mali,Germany,REF,0.0,0.0,0.0
+2015,Mali,Mauritius,REF,12898.0,13539.0,641.0
+2015,Mali,United States,REF,5.0,21.0,16.0
+2015,Mali,Rwanda,REF,33.0,10.0,-23.0
+2015,Mali,Syrian Arab Republic,REF,16.0,82.0,66.0
+2015,Mali,United States,REF,7.0,14.0,7.0
+2015,United States,Afghanistan,REF,184.0,173.0,-11.0
+2015,United States,Bangladesh,REF,13.0,15.0,2.0
+2015,United States,United States,REF,43.0,52.0,9.0
+2015,United States,Russia,REF,0.0,0.0,0.0
+2015,United States,Canada,REF,51.0,40.0,-11.0
+2015,United States,Congo-Brazzaville,REF,0.0,0.0,0.0
+2015,United States,Ukraine,REF,10.0,9.0,-1.0
+2015,United States,Eritrea,REF,5.0,5.0,0.0
+2015,United States,Gaza Strip,REF,287.0,307.0,20.0
+2015,United States,United Kingdom,REF-like,265.0,114.0,-151.0
+2015,United States,United Kingdom,REF,493.0,668.0,175.0
+2015,United States,Iran,REF,260.0,247.0,-13.0
+2015,United States,Iran,REF,563.0,591.0,28.0
+2015,United States,United States,REF,0.0,0.0,0.0
+2015,United States,Lao Peoples Democratic Republic,REF-like,0.0,0.0,0.0
+2015,United States,Germany,REF,8.0,10.0,2.0
+2015,United States,Lao Peoples Democratic Republic,REF-like,0.0,0.0,0.0
+2015,United States,Lao Peoples Democratic Republic,REF,1587.0,1545.0,-42.0
+2015,United States,Iceland,REF-like,9.0,6.0,-3.0
+2015,United States,Iceland,REF,93857.0,88631.0,-5226.0
+2015,United States,United States,REF,235.0,231.0,-4.0
+2015,United States,United States,REF-like,0.0,6.0,6.0
+2015,United States,Germany,REF-like,0.0,0.0,0.0
+2015,United States,Somali Republic,REF,850.0,835.0,-15.0
+2015,United States,Sudan,REF,80.0,54.0,-26.0
+2015,United States,Syrian Arab Republic,REF,447.0,473.0,26.0
+2015,United States,Thailand,REF,9.0,16.0,7.0
+2015,United States,United States,REF,0.0,0.0,0.0
+2015,United States,Yemem,REF,45.0,55.0,10.0
+2015,Liberia,Burundi,REF,1335.0,1479.0,144.0
+2015,Liberia,Ukraine,REF,2511.0,5361.0,2850.0
+2015,Liberia,Rwanda,REF,1980.0,2116.0,136.0
+2015,Liberia,Somali Republic,REF,45.0,57.0,12.0
+2015,Liberia,Zimbabwe,REF,0.0,0.0,0.0
+2015,Mexico,Canada,REF,608.0,113.0,-495.0
+2015,Mexico,Croatia,REF,214.0,36.0,-178.0
+2015,Mexico,Serbia,REF,5633.0,1613.0,-4020.0
+2015,Mexico,Central African Republic,REF,5.0,71.0,66.0
+2015,Mexico,United Kingdom,REF,15.0,55.0,40.0
+2015,Mexico,Congo-Brazzaville,REF,6.0,11.0,5.0
+2015,Mexico,Ukraine,REF,123.0,143.0,20.0
+2015,Mexico,Gaza Strip,REF,30.0,41.0,11.0
+2015,Mexico,Ghana,REF,0.0,0.0,0.0
+2015,Mexico,Republic of Guinea,REF,6.0,16.0,10.0
+2015,Mexico,Cocos Islands,REF,254.0,276.0,22.0
+2015,Mexico,Iran,REF,0.0,0.0,0.0
+2015,Mexico,Iran,REF,96.0,132.0,36.0
+2015,Mexico,Lao Peoples Democratic Republic,REF,0.0,0.0,0.0
+2015,Mexico,Nigeria,REF,9.0,8.0,-1.0
+2015,Mexico,United States,REF,0.0,0.0,0.0
+2015,Mexico,Rwanda,REF,0.0,0.0,0.0
+2015,Mexico,United Kingdom,REF,9.0,36.0,27.0
+2015,Mexico,Somali Republic,REF,0.0,0.0,0.0
+2015,Mexico,Syrian Arab Republic,REF,647.0,2619.0,1972.0
+2015,Mexico,Uganda,REF,0.0,0.0,0.0
+2015,French Polynesia,Burundi,REF,971.0,1119.0,148.0
+2015,French Polynesia,Congo-Brazzaville,REF,12.0,12.0,0.0
+2015,French Polynesia,Ukraine,REF,2651.0,3415.0,764.0
+2015,French Polynesia,Canada,REF,0.0,0.0,0.0
+2015,French Polynesia,Rwanda,REF,796.0,849.0,53.0
+2015,French Polynesia,Somali Republic,REF,89.0,208.0,119.0
+2015,French Polynesia,Sudan,REF,5.0,6.0,1.0
+2015,United States,South Africa,REF,30.0,43.0,13.0
+2015,United States,Bangladesh,REF,6.0,8.0,2.0
+2015,United States,United States,REF,9.0,9.0,0.0
+2015,United States,Canada,REF,12.0,12.0,0.0
+2015,United States,United Kingdom,REF,9.0,9.0,0.0
+2015,United States,Eritrea,REF,950.0,915.0,-35.0
+2015,United States,Ethiopia,REF,112.0,127.0,15.0
+2015,United States,Gaza Strip,REF,43.0,49.0,6.0
+2015,United States,Iran,REF,13.0,20.0,7.0
+2015,United States,Iran,REF,26.0,29.0,3.0
+2015,United States,Albania,REF,539.0,1544.0,1005.0
+2015,United States,Lao Peoples Democratic Republic,REF,7.0,7.0,0.0
+2015,United States,Mali,REF,12.0,16.0,4.0
+2015,United States,Mexico,REF,12.0,21.0,9.0
+2015,United States,Nigeria,REF,36.0,47.0,11.0
+2015,United States,United States,REF,46.0,48.0,2.0
+2015,United States,Germany,REF,12.0,12.0,0.0
+2015,United States,Somali Republic,REF,2270.0,1865.0,-405.0
+2015,United States,France,REF,22.0,22.0,0.0
+2015,United States,Sudan,REF,195.0,177.0,-18.0
+2015,United States,Syrian Arab Republic,REF,1047.0,1328.0,281.0
+2015,United States,Kiribati,REF,5.0,9.0,4.0
+2015,United States,Ukraine,REF,27.0,78.0,51.0
+2015,United States,Bulgaria,REF,615.0,615.0,0.0
+2015,Canada,Burundi,REF,209.0,216.0,7.0
+2015,Canada,Central African Republic,REF,0.0,0.0,0.0
+2015,Canada,Russia,REF,0.0,0.0,0.0
+2015,Canada,United Kingdom,REF,6.0,6.0,0.0
+2015,Canada,Ukraine,REF,1384.0,1313.0,-71.0
+2015,Canada,Mali,REF,0.0,0.0,0.0
+2015,Canada,Rwanda,REF,110.0,132.0,22.0
+2015,Canada,Somali Republic,REF,9.0,10.0,1.0
+2015,Canada,Zimbabwe,REF,32.0,42.0,10.0
+2015,Nepal,Afghanistan,REF,16.0,69.0,53.0
+2015,Nepal,India,REF,23059.0,17134.0,-5925.0
+2015,Nepal,Iran,REF,6.0,6.0,0.0
+2015,Nepal,Lao Peoples Democratic Republic,REF,16.0,22.0,6.0
+2015,Nepal,Iceland,REF,101.0,156.0,55.0
+2015,Nepal,United States,REF,262.0,261.0,-1.0
+2015,Nepal,Somali Republic,REF,20.0,11.0,-9.0
+2015,Nepal,Syrian Arab Republic,REF,0.0,0.0,0.0
+2015,Nepal,Brazil,REF,15000.0,15000.0,0.0
+2015,Nigeria,Afghanistan,REF,6244.0,5803.0,-441.0
+2015,Nigeria,Mexico,REF,15.0,13.0,-2.0
+2015,Nigeria,United States,REF,35.0,26.0,-9.0
+2015,Nigeria,Papua New Guinea,REF,359.0,183.0,-176.0
+2015,Nigeria,South Africa,REF,189.0,198.0,9.0
+2015,Nigeria,Spain,REF,811.0,562.0,-249.0
+2015,Nigeria,Germany,REF,1136.0,621.0,-515.0
+2015,Nigeria,Burundi,REF,1131.0,1135.0,4.0
+2015,Nigeria,Libya,REF,7.0,7.0,0.0
+2015,Nigeria,Bangladesh,REF,43.0,42.0,-1.0
+2015,Nigeria,India,REF,209.0,199.0,-10.0
+2015,Nigeria,Finland,REF,13.0,13.0,0.0
+2015,Nigeria,United States,REF,105.0,87.0,-18.0
+2015,Nigeria,Canada,REF,151.0,69.0,-82.0
+2015,Nigeria,United States,REF,31.0,31.0,0.0
+2015,Nigeria,Central African Republic,REF,8.0,10.0,2.0
+2015,Nigeria,Russia,REF,13.0,5.0,-8.0
+2015,Nigeria,Canada,REF,1259.0,1236.0,-23.0
+2015,Nigeria,United Kingdom,REF,154.0,120.0,-34.0
+2015,Nigeria,Congo-Brazzaville,REF,692.0,587.0,-105.0
+2015,Nigeria,Ukraine,REF,711.0,532.0,-179.0
+2015,Nigeria,Canada,REF,273.0,135.0,-138.0
+2015,Nigeria,Cuba,REF,16.0,16.0,0.0
+2015,Nigeria,Ecuador,REF,10.0,8.0,-2.0
+2015,Nigeria,Eritrea,REF,6294.0,10870.0,4576.0
+2015,Nigeria,Ethiopia,REF,741.0,727.0,-14.0
+2015,Nigeria,Germany,REF,34.0,40.0,6.0
+2015,Nigeria,Gaza Strip,REF,142.0,151.0,9.0
+2015,Nigeria,Guyana,REF,89.0,62.0,-27.0
+2015,Nigeria,Republic of Guinea,REF,805.0,771.0,-34.0
+2015,Nigeria,United States,REF,5.0,6.0,1.0
+2015,Nigeria,Croatia,REF,19.0,14.0,-5.0
+2015,Nigeria,Cocos Islands,REF,644.0,612.0,-32.0
+2015,Nigeria,Ireland,REF,6.0,6.0,0.0
+2015,Nigeria,United Kingdom,REF,23.0,22.0,-1.0
+2015,Nigeria,Iran,REF,4207.0,4125.0,-82.0
+2015,Nigeria,Iran,REF,14396.0,12397.0,-1999.0
+2015,Nigeria,Kenya,REF,99.0,145.0,46.0
+2015,Nigeria,Romania,REF,12.0,14.0,2.0
+2015,Nigeria,Kazakhstan,REF,98.0,69.0,-29.0
+2015,Nigeria,United States,REF,39.0,38.0,-1.0
+2015,Nigeria,Kyrgyzstan,REF,61.0,36.0,-25.0
+2015,Nigeria,Kazakhstan,REF,59.0,56.0,-3.0
+2015,Nigeria,United States,REF,8.0,8.0,0.0
+2015,Nigeria,Lao Peoples Democratic Republic,REF,33.0,33.0,0.0
+2015,Nigeria,Germany,REF,373.0,222.0,-151.0
+2015,Nigeria,Albania,REF,336.0,339.0,3.0
+2015,Nigeria,United States,REF,37.0,37.0,0.0
+2015,Nigeria,Lao Peoples Democratic Republic,REF,735.0,733.0,-2.0
+2015,Nigeria,Mauritius,REF,10.0,8.0,-2.0
+2015,Nigeria,Taiwan,REF,5.0,5.0,0.0
+2015,Nigeria,Mali,REF,19.0,19.0,0.0
+2015,Nigeria,United States,REF,7.0,7.0,0.0
+2015,Nigeria,Mongolia,REF,49.0,46.0,-3.0
+2015,Nigeria,Mexico,REF,20.0,22.0,2.0
+2015,Nigeria,Iceland,REF,861.0,878.0,17.0
+2015,Nigeria,Nepal,REF,441.0,416.0,-25.0
+2015,Nigeria,Nigeria,REF,23.0,16.0,-7.0
+2015,Nigeria,Nigeria,REF,265.0,299.0,34.0
+2015,Nigeria,United States,REF,355.0,390.0,35.0
+2015,Nigeria,Pakistan,REF,10.0,10.0,0.0
+2015,Nigeria,Netherlands,REF,15.0,9.0,-6.0
+2015,Nigeria,Germany,REF,698.0,465.0,-233.0
+2015,Nigeria,Rwanda,REF,252.0,132.0,-120.0
+2015,Nigeria,Spain,REF,21.0,13.0,-8.0
+2015,Nigeria,United Kingdom,REF,29.0,30.0,1.0
+2015,Nigeria,South Africa,REF,821.0,700.0,-121.0
+2015,Nigeria,Somali Republic,REF,18687.0,17444.0,-1243.0
+2015,Nigeria,Serbia,REF,277.0,158.0,-119.0
+2015,Nigeria,Mexico,REF,24.0,15.0,-9.0
+2015,Nigeria,United Kingdom,REF,2079.0,3714.0,1635.0
+2015,Nigeria,Sudan,REF,1062.0,833.0,-229.0
+2015,Nigeria,Syrian Arab Republic,REF,8692.0,16184.0,7492.0
+2015,Nigeria,Tanzania,REF,6.0,6.0,0.0
+2015,Nigeria,Tajikistan,REF,47.0,45.0,-2.0
+2015,Nigeria,Guatemala,REF,20.0,20.0,0.0
+2015,Nigeria,United States,REF,110.0,76.0,-34.0
+2015,Nigeria,Sudan,REF,16.0,22.0,6.0
+2015,Nigeria,Kiribati,REF,29.0,16.0,-13.0
+2015,Nigeria,Ecuador,REF,423.0,301.0,-122.0
+2015,Nigeria,Uganda,REF,453.0,492.0,39.0
+2015,Nigeria,Ukraine,REF,52.0,39.0,-13.0
+2015,Nigeria,Uzbekistan,REF,170.0,135.0,-35.0
+2015,Nigeria,Bulgaria,REF,3339.0,2219.0,-1120.0
+2015,Nigeria,Yemem,REF,66.0,74.0,8.0
+2015,Nigeria,Zambia,REF,7.0,8.0,1.0
+2015,Nigeria,Zimbabwe,REF,45.0,43.0,-2.0
+2015,Nigeria,Central African Republic,REF,11.0,29.0,18.0
+2015,Nigeria,Russia,REF,158.0,164.0,6.0
+2015,Nigeria,United Kingdom,REF,6.0,6.0,0.0
+2015,Nigeria,Ukraine,REF,69.0,69.0,0.0
+2015,Nigeria,Cocos Islands,REF,55.0,55.0,0.0
+2015,Nigeria,Iran,REF,6.0,6.0,0.0
+2015,Nigeria,Mali,REF,47466.0,56012.0,8546.0
+2015,Nigeria,Nigeria,REF,30000.0,68321.0,38321.0
+2015,Nigeria,Rwanda,REF,26.0,26.0,0.0
+2015,Nigeria,Somali Republic,REF,9.0,9.0,0.0
+2015,Nigeria,Sudan,REF,9.0,9.0,0.0
+2015,Nigeria,Syrian Arab Republic,REF,6.0,6.0,0.0
+2015,United States,Congo-Brazzaville,REF,0.0,0.0,0.0
+2015,United States,Canada,REF,10.0,6.0,-4.0
+2015,United States,Cuba,REF,16.0,15.0,-1.0
+2015,United States,Ghana,REF,0.0,0.0,0.0
+2015,United States,Mexico,REF,12.0,10.0,-2.0
+2015,United States,United States,REF,58.0,74.0,16.0
+2015,United States,Nigeria,REF,0.0,0.0,0.0
+2015,United States,El Salvador,REF,177.0,220.0,43.0
+2015,United States,Somali Republic,REF,0.0,0.0,0.0
+2015,Nigeria,Afghanistan,REF,5.0,5.0,0.0
+2015,Nigeria,Papua New Guinea,REF,0.0,0.0,0.0
+2015,Nigeria,South Africa,REF,0.0,0.0,0.0
+2015,Nigeria,Burundi,REF,0.0,8.0,8.0
+2015,Nigeria,Central African Republic,REF,77.0,149.0,72.0
+2015,Nigeria,Russia,REF,79.0,74.0,-5.0
+2015,Nigeria,United Kingdom,REF,162.0,161.0,-1.0
+2015,Nigeria,Ukraine,REF,531.0,561.0,30.0
+2015,Nigeria,Guinea-Bissau,REF,5.0,5.0,0.0
+2015,Nigeria,Republic of Guinea,REF,17.0,17.0,0.0
+2015,Nigeria,Cocos Islands,REF,108.0,117.0,9.0
+2015,Nigeria,Germany,REF,22.0,9.0,-13.0
+2015,Nigeria,Mali,REF,117.0,136.0,19.0
+2015,Nigeria,Nigeria,REF,0.0,0.0,0.0
+2015,Nigeria,South Africa,REF,21.0,23.0,2.0
+2015,Nigeria,Sudan,REF,49.0,48.0,-1.0
+2015,Nigeria,Syrian Arab Republic,REF,11.0,32.0,21.0
+2015,Nigeria,United States,REF,13.0,13.0,0.0
+2015,Nigeria,Uganda,REF,0.0,0.0,0.0
+2015,Norway,Afghanistan,REF,5454.0,5684.0,230.0
+2015,Norway,Mexico,REF,30.0,15.0,-15.0
+2015,Norway,United States,REF,22.0,20.0,-2.0
+2015,Norway,Papua New Guinea,REF,76.0,58.0,-18.0
+2015,Norway,South Africa,REF,26.0,27.0,1.0
+2015,Norway,Spain,REF,14.0,13.0,-1.0
+2015,Norway,Germany,REF,46.0,32.0,-14.0
+2015,Norway,Burundi,REF,278.0,120.0,-158.0
+2015,Norway,Bangladesh,REF,13.0,11.0,-2.0
+2015,Norway,India,REF,5.0,5.0,0.0
+2015,Norway,United States,REF,22.0,21.0,-1.0
+2015,Norway,Canada,REF,19.0,14.0,-5.0
+2015,Norway,Democratic Republic of the Congo,REF,11.0,11.0,0.0
+2015,Norway,Central African Republic,REF,7.0,7.0,0.0
+2015,Norway,Canada,REF,666.0,651.0,-15.0
+2015,Norway,United Kingdom,REF,24.0,18.0,-6.0
+2015,Norway,Congo-Brazzaville,REF,10.0,8.0,-2.0
+2015,Norway,Ukraine,REF,318.0,250.0,-68.0
+2015,Norway,Canada,REF,16.0,11.0,-5.0
+2015,Norway,Cuba,REF,7.0,7.0,0.0
+2015,Norway,Eritrea,REF,11202.0,13490.0,2288.0
+2015,Norway,Ethiopia,REF,1884.0,2012.0,128.0
+2015,Norway,Germany,REF,14.0,14.0,0.0
+2015,Norway,Guyana,REF,9.0,7.0,-2.0
+2015,Norway,Mexico,REF,8.0,7.0,-1.0
+2015,Norway,Republic of Guinea,REF,59.0,57.0,-2.0
+2015,Norway,Cocos Islands,REF,37.0,29.0,-8.0
+2015,Norway,Iran,REF,5190.0,1487.0,-3703.0
+2015,Norway,Israel,REF,14.0,4916.0,4902.0
+2015,Norway,Romania,REF,10.0,14.0,4.0
+2015,Norway,Kazakhstan,REF,21.0,11.0,-10.0
+2015,Norway,United States,REF,13.0,18.0,5.0
+2015,Norway,Kyrgyzstan,REF,28.0,8.0,-20.0
+2015,Norway,Kazakhstan,REF,14.0,13.0,-1.0
+2015,Norway,United States,REF,8.0,15.0,7.0
+2015,Norway,Germany,REF,40.0,30.0,-10.0
+2015,Norway,Albania,REF,26.0,22.0,-4.0
+2015,Norway,United States,REF,38.0,27.0,-11.0
+2015,Norway,Lao Peoples Democratic Republic,REF,314.0,275.0,-39.0
+2015,Norway,Germany,REF,0.0,37.0,37.0
+2015,Norway,Mali,REF,7.0,8.0,1.0
+2015,Norway,Mexico,REF,28.0,31.0,3.0
+2015,Norway,Iceland,REF,155.0,148.0,-7.0
+2015,Norway,Nepal,REF,11.0,13.0,2.0
+2015,Norway,Nigeria,REF,181.0,180.0,-1.0
+2015,Norway,United States,REF,101.0,90.0,-11.0
+2015,Norway,Netherlands,REF,8.0,8.0,0.0
+2015,Norway,Dominican Republic,REF,7.0,7.0,0.0
+2015,Norway,Germany,REF,2328.0,1851.0,-477.0
+2015,Norway,Rwanda,REF,133.0,99.0,-34.0
+2015,Norway,South Africa,REF,18.0,309.0,291.0
+2015,Norway,Somali Republic,REF,8901.0,8600.0,-301.0
+2015,Norway,Mexico,REF,14.0,14.0,0.0
+2015,Norway,United Kingdom,REF,2655.0,3005.0,350.0
+2015,Norway,Sudan,REF,1254.0,1619.0,365.0
+2015,Norway,Syrian Arab Republic,REF,2568.0,4121.0,1553.0
+2015,Norway,Thailand,REF,31.0,31.0,0.0
+2015,Norway,Tajikistan,REF,17.0,15.0,-2.0
+2015,Norway,Guatemala,REF,7.0,7.0,0.0
+2015,Norway,United States,REF,10.0,8.0,-2.0
+2015,Norway,Ecuador,REF,97.0,99.0,2.0
+2015,Norway,Uganda,REF,101.0,114.0,13.0
+2015,Norway,Uzbekistan,REF,158.0,200.0,42.0
+2015,Norway,Bulgaria,REF,58.0,51.0,-7.0
+2015,Norway,Yemem,REF,133.0,181.0,48.0
+2015,Norway,Zimbabwe,REF,23.0,19.0,-4.0
+2015,Nauru,Afghanistan,REF,29.0,41.0,12.0
+2015,Nauru,Iran,REF,168.0,191.0,23.0
+2015,Nauru,Iran,REF,9.0,19.0,10.0
+2015,Nauru,United States,REF,10.0,10.0,0.0
+2015,Nauru,United States,REF,62.0,71.0,9.0
+2015,Nauru,Somali Republic,REF,43.0,60.0,17.0
+2015,Nauru,United Kingdom,REF,49.0,78.0,29.0
+2015,Nauru,Sudan,REF,11.0,13.0,2.0
+2015,New Zealand,Afghanistan,REF,36.0,38.0,2.0
+2015,New Zealand,United States,REF,9.0,6.0,-3.0
+2015,New Zealand,Bahrain,REF,22.0,22.0,0.0
+2015,New Zealand,Bangladesh,REF,6.0,6.0,0.0
+2015,New Zealand,Democratic Republic of the Congo,REF,7.0,6.0,-1.0
+2015,New Zealand,Canada,REF,134.0,137.0,3.0
+2015,New Zealand,Canada,REF,10.0,21.0,11.0
+2015,New Zealand,Venezuela,REF,47.0,23.0,-24.0
+2015,New Zealand,Dominican Republic,REF,0.0,22.0,22.0
+2015,New Zealand,Eritrea,REF,7.0,9.0,2.0
+2015,New Zealand,Ethiopia,REF,9.0,8.0,-1.0
+2015,New Zealand,Fiji,REF,16.0,24.0,8.0
+2015,New Zealand,Gaza Strip,REF,18.0,14.0,-4.0
+2015,New Zealand,Ireland,REF,5.0,5.0,0.0
+2015,New Zealand,Iran,REF,202.0,169.0,-33.0
+2015,New Zealand,Iran,REF,178.0,166.0,-12.0
+2015,New Zealand,Kyrgyzstan,REF,8.0,5.0,-3.0
+2015,New Zealand,United States,REF,5.0,7.0,2.0
+2015,New Zealand,Lao Peoples Democratic Republic,REF,92.0,85.0,-7.0
+2015,New Zealand,Iceland,REF,29.0,22.0,-7.0
+2015,New Zealand,Nepal,REF,14.0,12.0,-2.0
+2015,New Zealand,United States,REF,41.0,49.0,8.0
+2015,New Zealand,Spain,REF,42.0,44.0,2.0
+2015,New Zealand,Somali Republic,REF,30.0,21.0,-9.0
+2015,New Zealand,Sudan,REF,11.0,11.0,0.0
+2015,New Zealand,Slovakia,REF,5.0,5.0,0.0
+2015,New Zealand,Syrian Arab Republic,REF,48.0,52.0,4.0
+2015,New Zealand,Ecuador,REF,29.0,30.0,1.0
+2015,New Zealand,Bulgaria,REF,120.0,185.0,65.0
+2015,New Zealand,Zimbabwe,REF,47.0,40.0,-7.0
+2015,India,Iran,REF,143.0,237.0,94.0
+2015,India,Syrian Arab Republic,REF,7.0,7.0,0.0
+2015,United States,Afghanistan,REF,1504912.0,1560592.0,55680.0
+2015,United States,United States,REF,17.0,22.0,5.0
+2015,United States,Gaza Strip,REF,16.0,29.0,13.0
+2015,United States,Iran,REF,56.0,42.0,-14.0
+2015,United States,Iran,REF,43.0,27.0,-16.0
+2015,United States,Iceland,REF,23.0,24.0,1.0
+2015,United States,Germany,REF,7.0,7.0,0.0
+2015,United States,Somali Republic,REF,412.0,375.0,-37.0
+2015,United States,Syrian Arab Republic,REF,16.0,16.0,0.0
+2015,United States,Ecuador,REF,7.0,6.0,-1.0
+2015,United States,Uzbekistan,REF,7.0,7.0,0.0
+2015,Thailand,United States,REF,7.0,7.0,0.0
+2015,Thailand,United Kingdom,REF,8.0,8.0,0.0
+2015,Thailand,Ukraine,REF,5.0,5.0,0.0
+2015,Thailand,Canada,REF-like,14000.0,14000.0,0.0
+2015,Thailand,Canada,REF,1551.0,1593.0,42.0
+2015,Thailand,Cuba,REF,118.0,118.0,0.0
+2015,Thailand,Cuba,REF-like,1000.0,1000.0,0.0
+2015,Thailand,Mexico,REF,12.0,12.0,0.0
+2015,Thailand,Canada,REF,16.0,16.0,0.0
+2015,Thailand,United States,REF,173.0,173.0,0.0
+2015,Thailand,Nigeria,REF,10.0,10.0,0.0
+2015,Thailand,Pakistan,REF,23.0,23.0,0.0
+2015,Thailand,El Salvador,REF,271.0,271.0,0.0
+2015,Thailand,Venezuela,REF,27.0,28.0,1.0
+2015,Australia,Bolivia,REF,17.0,17.0,0.0
+2015,Australia,Canada,REF,39.0,34.0,-5.0
+2015,Australia,Cuba,REF,66.0,66.0,0.0
+2015,Australia,Iran,REF,6.0,6.0,0.0
+2015,Australia,Germany,REF,8.0,8.0,0.0
+2015,Australia,Mexico,REF,6.0,6.0,0.0
+2015,Australia,Syrian Arab Republic,REF,7.0,30.0,23.0
+2015,Pakistan,Bangladesh,REF,12.0,16.0,4.0
+2015,Pakistan,Bolivia,REF,7.0,7.0,0.0
+2015,Pakistan,Canada,REF,5.0,5.0,0.0
+2015,Pakistan,United Kingdom,REF,0.0,0.0,0.0
+2015,Pakistan,Canada,REF,507.0,559.0,52.0
+2015,Pakistan,Cuba,REF,501.0,523.0,22.0
+2015,Pakistan,Dominican Republic,REF,5.0,10.0,5.0
+2015,Pakistan,Gaza Strip,REF,27.0,31.0,4.0
+2015,Pakistan,Canada,REF,24.0,27.0,3.0
+2015,Pakistan,Taiwan,REF,6.0,6.0,0.0
+2015,Pakistan,Iran,REF,10.0,10.0,0.0
+2015,Pakistan,Iran,REF,17.0,17.0,0.0
+2015,Pakistan,Nigeria,REF,12.0,15.0,3.0
+2015,Pakistan,Germany,REF,16.0,16.0,0.0
+2015,Pakistan,Serbia,REF,64.0,64.0,0.0
+2015,Pakistan,Syrian Arab Republic,REF,20.0,29.0,9.0
+2015,Pakistan,Venezuela,REF,17.0,83.0,66.0
+2015,Netherlands,Afghanistan,REF,5.0,5.0,0.0
+2015,Netherlands,United States,REF,0.0,0.0,0.0
+2015,Netherlands,Ukraine,REF,5.0,5.0,0.0
+2015,Netherlands,Gaza Strip,REF,34.0,33.0,-1.0
+2015,Netherlands,Cocos Islands,REF,8.0,8.0,0.0
+2015,Netherlands,Iran,REF,47.0,48.0,1.0
+2015,Netherlands,Iran,REF,21.0,25.0,4.0
+2015,Netherlands,Lao Peoples Democratic Republic,REF,17.0,17.0,0.0
+2015,Netherlands,Iceland,REF,6.0,6.0,0.0
+2015,Netherlands,United States,REF,13.0,24.0,11.0
+2015,Netherlands,Rwanda,REF,7.0,12.0,5.0
+2015,Netherlands,Somali Republic,REF,6.0,12.0,6.0
+2015,Netherlands,Syrian Arab Republic,REF,19.0,36.0,17.0
+2015,Netherlands,Uganda,REF,5.0,0.0,-5.0
+2015,Indonesia,Ethiopia,REF,0.0,0.0,0.0
+2015,United States,Afghanistan,REF,27.0,27.0,0.0
+2015,United States,United Kingdom,REF-like,4581.0,4581.0,0.0
+2015,United States,United Kingdom,REF,4787.0,4787.0,0.0
+2015,United States,Iran,REF,35.0,35.0,0.0
+2015,United States,Iran,REF,8.0,8.0,0.0
+2015,United States,Lao Peoples Democratic Republic,REF,0.0,0.0,0.0
+2015,United States,United States,REF,26.0,26.0,0.0
+2015,United States,Somali Republic,REF,6.0,6.0,0.0
+2015,United States,United Kingdom,REF,15.0,15.0,0.0
+2015,United States,Sudan,REF,18.0,18.0,0.0
+2015,Sweden,Afghanistan,REF,93.0,93.0,0.0
+2015,Sweden,South Africa,REF,31.0,46.0,15.0
+2015,Sweden,Spain,REF,80.0,78.0,-2.0
+2015,Sweden,Germany,REF,11.0,8.0,-3.0
+2015,Sweden,Bangladesh,REF,6.0,7.0,1.0
+2015,Sweden,United States,REF,205.0,206.0,1.0
+2015,Sweden,Canada,REF,0.0,0.0,0.0
+2015,Sweden,Canada,REF,14.0,14.0,0.0
+2015,Sweden,United Kingdom,REF,8.0,6.0,-2.0
+2015,Sweden,Congo-Brazzaville,REF,9.0,6.0,-3.0
+2015,Sweden,Cuba,REF,9.0,17.0,8.0
+2015,Sweden,Eritrea,REF,19.0,28.0,9.0
+2015,Sweden,Gaza Strip,REF,13.0,14.0,1.0
+2015,Sweden,Guyana,REF,70.0,69.0,-1.0
+2015,Sweden,Iran,REF,18.0,20.0,2.0
+2015,Sweden,Iran,REF,154.0,200.0,46.0
+2015,Sweden,Kazakhstan,REF,49.0,51.0,2.0
+2015,Sweden,United States,REF,5.0,5.0,0.0
+2015,Sweden,Kyrgyzstan,REF,34.0,39.0,5.0
+2015,Sweden,Albania,REF,8.0,11.0,3.0
+2015,Sweden,Lao Peoples Democratic Republic,REF,54.0,51.0,-3.0
+2015,Sweden,Mongolia,REF,19.0,19.0,0.0
+2015,Sweden,Nepal,REF,9.0,7.0,-2.0
+2015,Sweden,Nigeria,REF,11.0,9.0,-2.0
+2015,Sweden,United States,REF,18.0,14.0,-4.0
+2015,Sweden,Germany,REF,14277.0,12304.0,-1973.0
+2015,Sweden,Somali Republic,REF,59.0,48.0,-11.0
+2015,Sweden,Mexico,REF,15.0,15.0,0.0
+2015,Sweden,United Kingdom,REF,60.0,79.0,19.0
+2015,Sweden,Syrian Arab Republic,REF,240.0,445.0,205.0
+2015,Sweden,Guatemala,REF,10.0,22.0,12.0
+2015,Sweden,Ecuador,REF,29.0,23.0,-6.0
+2015,Sweden,Ukraine,REF,35.0,41.0,6.0
+2015,Sweden,Uzbekistan,REF,12.0,12.0,0.0
+2015,Mexico,Afghanistan,REF,10.0,10.0,0.0
+2015,Mexico,United States,REF,19.0,19.0,0.0
+2015,Mexico,Canada,REF,11.0,11.0,0.0
+2015,Mexico,United Kingdom,REF,8.0,8.0,0.0
+2015,Mexico,Ukraine,REF,57.0,57.0,0.0
+2015,Mexico,United States,REF,18.0,18.0,0.0
+2015,Mexico,Canada,REF,77.0,77.0,0.0
+2015,Mexico,Cuba,REF,9.0,9.0,0.0
+2015,Mexico,Eritrea,REF,29.0,29.0,0.0
+2015,Mexico,Gaza Strip,REF,5.0,5.0,0.0
+2015,Mexico,Guinea-Bissau,REF,13.0,13.0,0.0
+2015,Mexico,Republic of Guinea,REF,86.0,86.0,0.0
+2015,Mexico,Cocos Islands,REF,27.0,27.0,0.0
+2015,Mexico,Iran,REF,19.0,19.0,0.0
+2015,Mexico,Iran,REF,7.0,7.0,0.0
+2015,Mexico,United States,REF,6.0,6.0,0.0
+2015,Mexico,Albania,REF,6.0,6.0,0.0
+2015,Mexico,Lao Peoples Democratic Republic,REF,31.0,31.0,0.0
+2015,Mexico,Mali,REF,6.0,6.0,0.0
+2015,Mexico,Nigeria,REF,22.0,22.0,0.0
+2015,Mexico,United States,REF,26.0,26.0,0.0
+2015,Mexico,Germany,REF,22.0,22.0,0.0
+2015,Mexico,United Kingdom,REF,7.0,7.0,0.0
+2015,Mexico,South Africa,REF,12.0,12.0,0.0
+2015,Mexico,Somali Republic,REF,46.0,46.0,0.0
+2015,Mexico,Syrian Arab Republic,REF,15.0,15.0,0.0
+2015,Mexico,Ukraine,REF,16.0,16.0,0.0
+2015,Mexico,Bulgaria,REF,24.0,24.0,0.0
+2015,Canada,Iran,REF,110.0,95.0,-15.0
+2015,Canada,Somali Republic,REF,8.0,8.0,0.0
+2015,Canada,Syrian Arab Republic,REF,14.0,14.0,0.0
+2015,Dominican Republic,Afghanistan,REF,120.0,141.0,21.0
+2015,Dominican Republic,United States,REF,5.0,5.0,0.0
+2015,Dominican Republic,South Africa,REF,17.0,21.0,4.0
+2015,Dominican Republic,Central African Republic,REF,6.0,8.0,2.0
+2015,Dominican Republic,United Kingdom,REF,25.0,25.0,0.0
+2015,Dominican Republic,Congo-Brazzaville,REF,11.0,11.0,0.0
+2015,Dominican Republic,Ukraine,REF,16.0,15.0,-1.0
+2015,Dominican Republic,Gaza Strip,REF,35.0,35.0,0.0
+2015,Dominican Republic,Republic of Guinea,REF,6.0,6.0,0.0
+2015,Dominican Republic,Iran,REF,65.0,69.0,4.0
+2015,Dominican Republic,Iran,REF,323.0,345.0,22.0
+2015,Dominican Republic,Romania,REF,5.0,8.0,3.0
+2015,Dominican Republic,Iceland,REF,44.0,43.0,-1.0
+2015,Dominican Republic,Nigeria,REF,5.0,6.0,1.0
+2015,Dominican Republic,United States,REF,25.0,34.0,9.0
+2015,Dominican Republic,Rwanda,REF,7.0,8.0,1.0
+2015,Dominican Republic,Somali Republic,REF,21.0,20.0,-1.0
+2015,Dominican Republic,United Kingdom,REF,55.0,63.0,8.0
+2015,Dominican Republic,Sudan,REF,18.0,18.0,0.0
+2015,Dominican Republic,Syrian Arab Republic,REF,1278.0,1591.0,313.0
+2015,Dominican Republic,Ecuador,REF,21.0,22.0,1.0
+2015,Dominican Republic,Ukraine,REF,13.0,37.0,24.0
+2015,Dominican Republic,Zimbabwe,REF,5.0,5.0,0.0
+2015,Sudan,Afghanistan,REF,10.0,10.0,0.0
+2015,Sudan,Papua New Guinea,REF,3031.0,3042.0,11.0
+2015,Sudan,Burundi,REF,3653.0,3819.0,166.0
+2015,Sudan,Bangladesh,REF,849.0,861.0,12.0
+2015,Sudan,Democratic Republic of the Congo,REF,5.0,5.0,0.0
+2015,Sudan,Central African Republic,REF,8.0,8.0,0.0
+2015,Sudan,Russia,REF,6.0,5.0,-1.0
+2015,Sudan,Canada,REF,7.0,6.0,-1.0
+2015,Sudan,United Kingdom,REF,525.0,540.0,15.0
+2015,Sudan,Congo-Brazzaville,REF,6035.0,6566.0,531.0
+2015,Sudan,Ukraine,REF,30125.0,32582.0,2457.0
+2015,Sudan,United States,REF,5.0,5.0,0.0
+2015,Sudan,Eritrea,REF,2219.0,2338.0,119.0
+2015,Sudan,Mexico,REF,6.0,6.0,0.0
+2015,Sudan,Ethiopia,REF,18830.0,20324.0,1494.0
+2015,Sudan,Gaza Strip,REF,32.0,45.0,13.0
+2015,Sudan,Ghana,REF,16.0,16.0,0.0
+2015,Sudan,Cocos Islands,REF,48.0,48.0,0.0
+2015,Sudan,Ireland,REF,12.0,11.0,-1.0
+2015,Sudan,Iran,REF,26.0,26.0,0.0
+2015,Sudan,United States,REF,199.0,206.0,7.0
+2015,Sudan,Kyrgyzstan,REF,6.0,6.0,0.0
+2015,Sudan,Germany,REF,85.0,86.0,1.0
+2015,Sudan,Lao Peoples Democratic Republic,REF,15.0,15.0,0.0
+2015,Sudan,Mali,REF,6.0,6.0,0.0
+2015,Sudan,Liberia,REF,23.0,23.0,0.0
+2015,Sudan,Mexico,REF,6.0,6.0,0.0
+2015,Sudan,Nigeria,REF,5.0,5.0,0.0
+2015,Sudan,Nigeria,REF,17.0,9.0,-8.0
+2015,Sudan,United States,REF,37.0,37.0,0.0
+2015,Sudan,Germany,REF,13.0,13.0,0.0
+2015,Sudan,Rwanda,REF,1814.0,1881.0,67.0
+2015,Sudan,South Africa,REF,31.0,32.0,1.0
+2015,Sudan,Solomon Islands,REF,12.0,10.0,-2.0
+2015,Sudan,Somali Republic,REF,40133.0,41458.0,1325.0
+2015,Sudan,Sudan,REF,183.0,192.0,9.0
+2015,Sudan,United States,REF,12.0,10.0,-2.0
+2015,Sudan,Syrian Arab Republic,REF,28.0,31.0,3.0
+2015,Sudan,Tanzania,REF,50.0,50.0,0.0
+2015,Sudan,United States,REF,8.0,12.0,4.0
+2015,Sudan,Uganda,REF,696.0,729.0,33.0
+2015,Sudan,Ukraine,REF,8.0,8.0,0.0
+2015,Sudan,Bulgaria,REF,6.0,26.0,20.0
+2015,Sudan,Zambia,REF,85.0,90.0,5.0
+2015,Sudan,Zimbabwe,REF,6217.0,6358.0,141.0
+2015,Germany,Afghanistan,REF,1104.0,945.0,-159.0
+2015,Germany,Papua New Guinea,REF,0.0,9.0,9.0
+2015,Germany,South Africa,REF,23.0,11.0,-12.0
+2015,Germany,Germany,REF,11.0,18.0,7.0
+2015,Germany,Bangladesh,REF,9.0,13.0,4.0
+2015,Germany,Canada,REF,5.0,5.0,0.0
+2015,Germany,Cuba,REF,0.0,0.0,0.0
+2015,Germany,Mexico,REF,0.0,0.0,0.0
+2015,Germany,Gaza Strip,REF,9.0,12.0,3.0
+2015,Germany,Guyana,REF,537.0,344.0,-193.0
+2015,Germany,Iran,REF,7.0,9.0,2.0
+2015,Germany,Iran,REF,13.0,13.0,0.0
+2015,Germany,Kazakhstan,REF,5.0,5.0,0.0
+2015,Germany,Kyrgyzstan,REF,38.0,51.0,13.0
+2015,Germany,Kazakhstan,REF,56.0,72.0,16.0
+2015,Germany,United States,REF,0.0,0.0,0.0
+2015,Germany,United States,REF,8.0,8.0,0.0
+2015,Germany,Taiwan,REF,11.0,24.0,13.0
+2015,Germany,French Polynesia,REF,0.0,0.0,0.0
+2015,Germany,Rwanda,REF,0.0,0.0,0.0
+2015,Germany,Somali Republic,REF,0.0,0.0,0.0
+2015,Germany,Sudan,REF,5.0,5.0,0.0
+2015,Germany,Syrian Arab Republic,REF,1927.0,1304.0,-623.0
+2015,Germany,Tanzania,REF,0.0,0.0,0.0
+2015,Germany,Tajikistan,REF,22.0,24.0,2.0
+2015,Germany,Guatemala,REF,10.0,12.0,2.0
+2015,Germany,Uganda,REF,0.0,0.0,0.0
+2015,Germany,Ukraine,REF,231787.0,311407.0,79620.0
+2015,Germany,United States,REF,6.0,5.0,-1.0
+2015,Germany,Uzbekistan,REF,110.0,98.0,-12.0
+2015,Germany,Bulgaria,REF,5.0,11.0,6.0
+2015,Rwanda,Papua New Guinea,REF,6.0,5.0,-1.0
+2015,Rwanda,Burundi,REF,388.0,70848.0,70460.0
+2015,Rwanda,Russia,REF,7.0,7.0,0.0
+2015,Rwanda,Ukraine,REF,73400.0,73864.0,464.0
+2015,El Salvador,United States,REF,14.0,17.0,3.0
+2015,El Salvador,United States,REF,9.0,9.0,0.0
+2015,Spain,Canada,REF,14.0,14.0,0.0
+2015,Spain,Eritrea,REF,376.0,31.0,-345.0
+2015,Spain,Gaza Strip,REF,22.0,5.0,-17.0
+2015,Spain,Iran,REF,32.0,29.0,-3.0
+2015,Spain,Germany,REF-like,27.0,7.0,-20.0
+2015,Spain,United States,REF,0.0,0.0,0.0
+2015,Spain,Somali Republic,REF,21.0,16.0,-5.0
+2015,Spain,Sudan,REF,31.0,0.0,-31.0
+2015,Spain,Syrian Arab Republic,REF,18.0,9.0,-9.0
+2015,Spain,Kiribati,REF,6.0,6.0,0.0
+2015,United Kingdom,United States,REF,9.0,9.0,0.0
+2015,United Kingdom,Burundi,REF,50.0,50.0,0.0
+2015,United Kingdom,Russia,REF,16.0,17.0,1.0
+2015,United Kingdom,United Kingdom,REF,12.0,12.0,0.0
+2015,United Kingdom,Congo-Brazzaville,REF,19.0,19.0,0.0
+2015,United Kingdom,Ukraine,REF,22.0,22.0,0.0
+2015,United Kingdom,Germany,REF,36.0,69.0,33.0
+2015,United Kingdom,Republic of Guinea,REF,14.0,14.0,0.0
+2015,United Kingdom,Cocos Islands,REF,48.0,45.0,-3.0
+2015,United Kingdom,Germany,REF,61.0,61.0,0.0
+2015,United Kingdom,Mauritius,REF,13699.0,13687.0,-12.0
+2015,United Kingdom,Nigeria,REF,7.0,7.0,0.0
+2015,United Kingdom,Rwanda,REF,274.0,274.0,0.0
+2015,Singapore,Canada,REF,0.0,0.0,0.0
+2015,Singapore,Syrian Arab Republic,REF,0.0,0.0,0.0
+2015,South Africa,Cocos Islands,REF,38.0,22.0,-16.0
+2015,South Africa,Germany,REF,1326.0,730.0,-596.0
+2015,South Africa,Sudan,REF,7.0,8.0,1.0
+2015,Somali Republic,Bangladesh,REF,5.0,5.0,0.0
+2015,Somali Republic,Eritrea,REF,33.0,33.0,0.0
+2015,Somali Republic,Ethiopia,REF,2606.0,2756.0,150.0
+2015,Somali Republic,Tanzania,REF,68.0,70.0,2.0
+2015,Somali Republic,Yemem,REF,5.0,5183.0,5178.0
+2015,United States,Afghanistan,REF,144.0,144.0,0.0
+2015,United States,Mexico,REF,15.0,15.0,0.0
+2015,United States,United States,REF,38.0,38.0,0.0
+2015,United States,Papua New Guinea,REF,12.0,12.0,0.0
+2015,United States,South Africa,REF,16.0,16.0,0.0
+2015,United States,Spain,REF,22.0,22.0,0.0
+2015,United States,Germany,REF,38.0,38.0,0.0
+2015,United States,Bangladesh,REF,15.0,15.0,0.0
+2015,United States,United States,REF,14.0,14.0,0.0
+2015,United States,Bolivia,REF,7.0,7.0,0.0
+2015,United States,Canada,REF,16.0,16.0,0.0
+2015,United States,United Kingdom,REF,25.0,25.0,0.0
+2015,United States,Congo-Brazzaville,REF,10.0,10.0,0.0
+2015,United States,Ukraine,REF,86.0,86.0,0.0
+2015,United States,Canada,REF,364.0,364.0,0.0
+2015,United States,Cuba,REF,946.0,946.0,0.0
+2015,United States,Uganda,REF,78.0,78.0,0.0
+2015,United States,Eritrea,REF,48.0,48.0,0.0
+2015,United States,Ethiopia,REF,71.0,71.0,0.0
+2015,United States,Germany,REF,8.0,8.0,0.0
+2015,United States,Gaza Strip,REF,458.0,458.0,0.0
+2015,United States,Guyana,REF,13.0,13.0,0.0
+2015,United States,Mexico,REF,12.0,12.0,0.0
+2015,United States,Republic of Guinea,REF,5.0,5.0,0.0
+2015,United States,Canada,REF,21.0,21.0,0.0
+2015,United States,United States,REF,25.0,25.0,0.0
+2015,United States,Cocos Islands,REF,262.0,262.0,0.0
+2015,United States,Iran,REF,70.0,70.0,0.0
+2015,United States,Iran,REF,190.0,190.0,0.0
+2015,United States,Romania,REF,23.0,23.0,0.0
+2015,United States,Kazakhstan,REF,11.0,11.0,0.0
+2015,United States,Germany,REF,7.0,7.0,0.0
+2015,United States,Lao Peoples Democratic Republic,REF,91.0,91.0,0.0
+2015,United States,United States,REF,11.0,11.0,0.0
+2015,United States,Mexico,REF,40.0,40.0,0.0
+2015,United States,Nepal,REF,6.0,6.0,0.0
+2015,United States,United States,REF,11.0,11.0,0.0
+2015,United States,Nigeria,REF,15.0,15.0,0.0
+2015,United States,United States,REF,228.0,228.0,0.0
+2015,United States,Germany,REF,177.0,177.0,0.0
+2015,United States,Rwanda,REF,13.0,13.0,0.0
+2015,United States,United Kingdom,REF,5.0,5.0,0.0
+2015,United States,South Africa,REF,18.0,18.0,0.0
+2015,United States,Somali Republic,REF,374.0,374.0,0.0
+2015,United States,Serbia,REF,12.0,12.0,0.0
+2015,United States,United Kingdom,REF,105.0,105.0,0.0
+2015,United States,Sudan,REF,49.0,49.0,0.0
+2015,United States,Syrian Arab Republic,REF,1336.0,1336.0,0.0
+2015,United States,United States,REF,15.0,15.0,0.0
+2015,United States,Ecuador,REF,6.0,6.0,0.0
+2015,United States,Uzbekistan,REF,9.0,9.0,0.0
+2015,United States,Bulgaria,REF,86.0,86.0,0.0
+2015,United States,Venezuela,REF,45.0,45.0,0.0
+2015,United States,United States,REF,10.0,10.0,0.0
+2015,United States,Yemem,REF,5.0,5.0,0.0
+2015,Serbia,South Africa,REF,0.0,0.0,0.0
+2015,Serbia,Canada,REF,11323.0,9287.0,-2036.0
+2015,Serbia,United Kingdom,REF,0.0,0.0,0.0
+2015,Serbia,Congo-Brazzaville,REF,0.0,0.0,0.0
+2015,Serbia,Croatia,REF,32372.0,25962.0,-6410.0
+2015,Serbia,Syrian Arab Republic,REF,5.0,11.0,6.0
+2015,Serbia,Ecuador,REF,0.0,0.0,0.0
+2015,France,South Africa,REF,0.0,0.0,0.0
+2015,France,Burundi,REF,0.0,0.0,0.0
+2015,France,Central African Republic,REF,2040.0,1882.0,-158.0
+2015,France,Ukraine,REF,15485.0,15916.0,431.0
+2015,France,Eritrea,REF,0.0,12.0,12.0
+2015,France,Ethiopia,REF,4900.0,4200.0,-700.0
+2015,France,United States,REF,0.0,0.0,0.0
+2015,France,Rwanda,REF,0.0,0.0,0.0
+2015,France,Sudan,REF,225727.0,241002.0,15275.0
+2015,France,Uganda,REF,0.0,0.0,0.0
+2015,Sudan,South Africa,REF,10.0,24.0,14.0
+2015,Sudan,Spain,REF,5.0,5.0,0.0
+2015,Sudan,Central African Republic,REF,4113.0,1439.0,-2674.0
+2015,Sudan,Central African Republic,REF-like,0.0,0.0,0.0
+2015,Sudan,Russia,REF-like,33403.0,0.0,-33403.0
+2015,Sudan,Russia,REF,8931.0,8894.0,-37.0
+2015,Sudan,Congo-Brazzaville,REF,0.0,0.0,0.0
+2015,Sudan,Ukraine,REF,61.0,64.0,3.0
+2015,Sudan,Eritrea,REF,109196.0,98676.0,-10520.0
+2015,Sudan,Ethiopia,REF,5495.0,3194.0,-2301.0
+2015,Sudan,Gaza Strip,REF,43.0,59.0,16.0
+2015,Sudan,Iran,REF,16.0,16.0,0.0
+2015,Sudan,Germany,REF,0.0,0.0,0.0
+2015,Sudan,Somali Republic,REF,181.0,147.0,-34.0
+2015,Sudan,France,REF,115451.0,194404.0,78953.0
+2015,Sudan,Syrian Arab Republic,REF,797.0,2692.0,1895.0
+2015,Sudan,Bulgaria,REF,116.0,0.0,-116.0
+2015,Slovakia,Afghanistan,REF,278.0,280.0,2.0
+2015,Slovakia,Spain,REF,10.0,10.0,0.0
+2015,Slovakia,Canada,REF,5.0,5.0,0.0
+2015,Slovakia,United Kingdom,REF,6.0,6.0,0.0
+2015,Slovakia,Ukraine,REF,9.0,8.0,-1.0
+2015,Slovakia,Cuba,REF,32.0,33.0,1.0
+2015,Slovakia,Eritrea,REF,22.0,6.0,-16.0
+2015,Slovakia,Gaza Strip,REF,9.0,9.0,0.0
+2015,Slovakia,Iran,REF,36.0,36.0,0.0
+2015,Slovakia,Iran,REF,101.0,110.0,9.0
+2015,Slovakia,Albania,REF,6.0,7.0,1.0
+2015,Slovakia,Somali Republic,REF,185.0,188.0,3.0
+2015,Slovakia,United Kingdom,REF,7.0,7.0,0.0
+2015,Slovakia,Syrian Arab Republic,REF,40.0,47.0,7.0
+2015,Slovakia,Ukraine,REF,17.0,18.0,1.0
+2015,Angola,Afghanistan,REF,23.0,22.0,-1.0
+2015,Angola,Canada,REF,11.0,8.0,-3.0
+2015,Angola,Ukraine,REF,6.0,8.0,2.0
+2015,Angola,Eritrea,REF,5.0,5.0,0.0
+2015,Angola,Iran,REF,25.0,45.0,20.0
+2015,Angola,Kazakhstan,REF,17.0,14.0,-3.0
+2015,Angola,Germany,REF,12.0,13.0,1.0
+2015,Angola,Somali Republic,REF,41.0,48.0,7.0
+2015,Angola,Serbia,REF,65.0,65.0,0.0
+2015,Angola,Sudan,REF,6.0,6.0,0.0
+2015,Angola,Syrian Arab Republic,REF,20.0,30.0,10.0
+2015,United States,Papua New Guinea,REF,8.0,9.0,1.0
+2015,United States,Burundi,REF,113.0,144.0,31.0
+2015,United States,Democratic Republic of the Congo,REF,0.0,0.0,0.0
+2015,United States,Ukraine,REF,232.0,320.0,88.0
+2015,United States,Sudan,REF,0.0,0.0,0.0
+2015,United States,Rwanda,REF,106.0,136.0,30.0
+2015,United States,Somali Republic,REF,25.0,52.0,27.0
+2015,United States,Uganda,REF,5.0,6.0,1.0
+2015,United States,Zimbabwe,REF,7.0,7.0,0.0
+2015,Sweden,Afghanistan,REF,12090.0,13064.0,974.0
+2015,Sweden,Mexico,REF,289.0,297.0,8.0
+2015,Sweden,United States,REF,74.0,61.0,-13.0
+2015,Sweden,Papua New Guinea,REF,70.0,68.0,-2.0
+2015,Sweden,South Africa,REF,228.0,274.0,46.0
+2015,Sweden,Spain,REF,573.0,559.0,-14.0
+2015,Sweden,Germany,REF,856.0,783.0,-73.0
+2015,Sweden,Bahrain,REF,14.0,14.0,0.0
+2015,Sweden,Burundi,REF,830.0,436.0,-394.0
+2015,Sweden,Brazil,REF,13.0,8.0,-5.0
+2015,Sweden,Libya,REF,5.0,5.0,0.0
+2015,Sweden,Bangladesh,REF,250.0,228.0,-22.0
+2015,Sweden,India,REF,9.0,9.0,0.0
+2015,Sweden,United States,REF,177.0,166.0,-11.0
+2015,Sweden,Bolivia,REF,70.0,70.0,0.0
+2015,Sweden,Brazil,REF,7.0,8.0,1.0
+2015,Sweden,Canada,REF,360.0,261.0,-99.0
+2015,Sweden,Democratic Republic of the Congo,REF,23.0,22.0,-1.0
+2015,Sweden,United States,REF,5.0,5.0,0.0
+2015,Sweden,Russia,REF,6.0,10.0,4.0
+2015,Sweden,Canada,REF,272.0,262.0,-10.0
+2015,Sweden,United States,REF,31.0,24.0,-7.0
+2015,Sweden,United Kingdom,REF,137.0,142.0,5.0
+2015,Sweden,Congo-Brazzaville,REF,65.0,56.0,-9.0
+2015,Sweden,Ukraine,REF,328.0,309.0,-19.0
+2015,Sweden,Canada,REF,41.0,31.0,-10.0
+2015,Sweden,Cuba,REF,84.0,77.0,-7.0
+2015,Sweden,Djibouti,REF,8.0,9.0,1.0
+2015,Sweden,Ecuador,REF,18.0,14.0,-4.0
+2015,Sweden,Eritrea,REF,14107.0,20203.0,6096.0
+2015,Sweden,Ethiopia,REF,749.0,901.0,152.0
+2015,Sweden,Germany,REF,99.0,108.0,9.0
+2015,Sweden,Gaza Strip,REF,7.0,323.0,316.0
+2015,Sweden,United States,REF,6.0,6.0,0.0
+2015,Sweden,Guyana,REF,161.0,153.0,-8.0
+2015,Sweden,France,REF,6.0,6.0,0.0
+2015,Sweden,Ghana,REF,41.0,43.0,2.0
+2015,Sweden,Guinea-Bissau,REF,7.0,7.0,0.0
+2015,Sweden,Greece,REF,9.0,13.0,4.0
+2015,Sweden,Mexico,REF,9.0,9.0,0.0
+2015,Sweden,Republic of Guinea,REF,71.0,73.0,2.0
+2015,Sweden,United States,REF,10.0,9.0,-1.0
+2015,Sweden,Croatia,REF,22.0,10.0,-12.0
+2015,Sweden,Cocos Islands,REF,80.0,71.0,-9.0
+2015,Sweden,Ireland,REF,51.0,42.0,-9.0
+2015,Sweden,United Kingdom,REF,6.0,5.0,-1.0
+2015,Sweden,Iran,REF,4152.0,23886.0,19734.0
+2015,Sweden,Iran,REF,24184.0,4232.0,-19952.0
+2015,Sweden,Israel,REF,36.0,35.0,-1.0
+2015,Sweden,Romania,REF,381.0,388.0,7.0
+2015,Sweden,Kazakhstan,REF,308.0,294.0,-14.0
+2015,Sweden,United States,REF,85.0,83.0,-2.0
+2015,Sweden,Kyrgyzstan,REF,227.0,184.0,-43.0
+2015,Sweden,Democratic People's Republic of Korea,REF,10.0,6.0,-4.0
+2015,Sweden,Kazakhstan,REF,9.0,6.0,-3.0
+2015,Sweden,United States,REF,22.0,19.0,-3.0
+2015,Sweden,Germany,REF,27.0,22.0,-5.0
+2015,Sweden,Albania,REF,408.0,375.0,-33.0
+2015,Sweden,United States,REF,511.0,532.0,21.0
+2015,Sweden,Lao Peoples Democratic Republic,REF,49.0,49.0,0.0
+2015,Sweden,France,REF,8.0,8.0,0.0
+2015,Sweden,Mauritius,REF,13.0,13.0,0.0
+2015,Sweden,United Kingdom,REF,95.0,12.0,-83.0
+2015,Sweden,Mali,REF,23.0,23.0,0.0
+2015,Sweden,Mexico,REF,62.0,62.0,0.0
+2015,Sweden,Mongolia,REF,240.0,283.0,43.0
+2015,Sweden,Mexico,REF,148.0,170.0,22.0
+2015,Sweden,Iceland,REF,32.0,26.0,-6.0
+2015,Sweden,Nepal,REF,21.0,19.0,-2.0
+2015,Sweden,United States,REF,6.0,6.0,0.0
+2015,Sweden,Nigeria,REF,365.0,398.0,33.0
+2015,Sweden,United States,REF,305.0,322.0,17.0
+2015,Sweden,Pakistan,REF,27.0,15.0,-12.0
+2015,Sweden,Netherlands,REF,30.0,15.0,-15.0
+2015,Sweden,Dominican Republic,REF,70.0,70.0,0.0
+2015,Sweden,Germany,REF,2014.0,2003.0,-11.0
+2015,Sweden,Rwanda,REF,40.0,38.0,-2.0
+2015,Sweden,El Salvador,REF,45.0,59.0,14.0
+2015,Sweden,Spain,REF,13.0,29.0,16.0
+2015,Sweden,United Kingdom,REF,27.0,31.0,4.0
+2015,Sweden,South Africa,REF,66.0,64.0,-2.0
+2015,Sweden,Somali Republic,REF,21189.0,21501.0,312.0
+2015,Sweden,Serbia,REF,3082.0,2390.0,-692.0
+2015,Sweden,Mexico,REF,78.0,76.0,-2.0
+2015,Sweden,United Kingdom,REF,12476.0,15410.0,2934.0
+2015,Sweden,Sudan,REF,417.0,474.0,57.0
+2015,Sweden,Slovakia,REF,8.0,7.0,-1.0
+2015,Sweden,Syrian Arab Republic,REF,34285.0,52707.0,18422.0
+2015,Sweden,Tanzania,REF,24.0,28.0,4.0
+2015,Sweden,Thailand,REF,14.0,72.0,58.0
+2015,Sweden,Tajikistan,REF,47.0,50.0,3.0
+2015,Sweden,Guatemala,REF,47.0,30.0,-17.0
+2015,Sweden,United States,REF,17.0,14.0,-3.0
+2015,Sweden,Kiribati,REF,46.0,41.0,-5.0
+2015,Sweden,Ecuador,REF,395.0,341.0,-54.0
+2015,Sweden,Uganda,REF,522.0,578.0,56.0
+2015,Sweden,Ukraine,REF,114.0,133.0,19.0
+2015,Sweden,United States,REF,15.0,21.0,6.0
+2015,Sweden,Uzbekistan,REF,1481.0,998.0,-483.0
+2015,Sweden,Bulgaria,REF,866.0,904.0,38.0
+2015,Sweden,Yemem,REF,536.0,610.0,74.0
+2015,Sweden,Zambia,REF,7.0,9.0,2.0
+2015,Sweden,Zimbabwe,REF,41.0,31.0,-10.0
+2015,United States,Afghanistan,REF,4119.0,4686.0,567.0
+2015,United States,Mexico,REF,47.0,64.0,17.0
+2015,United States,United States,REF,166.0,158.0,-8.0
+2015,United States,Papua New Guinea,REF,975.0,918.0,-57.0
+2015,United States,South Africa,REF,64.0,86.0,22.0
+2015,United States,Spain,REF,108.0,120.0,12.0
+2015,United States,Germany,REF,74.0,79.0,5.0
+2015,United States,Burundi,REF,66.0,67.0,1.0
+2015,United States,Libya,REF,26.0,28.0,2.0
+2015,United States,Bangladesh,REF,54.0,56.0,2.0
+2015,United States,Finland,REF,7.0,17.0,10.0
+2015,United States,United States,REF,33.0,40.0,7.0
+2015,United States,Brazil,REF,9.0,11.0,2.0
+2015,United States,Canada,REF,2460.0,2274.0,-186.0
+2015,United States,Democratic Republic of the Congo,REF,11.0,11.0,0.0
+2015,United States,United States,REF,356.0,342.0,-14.0
+2015,United States,Central African Republic,REF,9.0,11.0,2.0
+2015,United States,Russia,REF,48.0,50.0,2.0
+2015,United States,Canada,REF,3344.0,3022.0,-322.0
+2015,United States,United States,REF,11.0,10.0,-1.0
+2015,United States,United Kingdom,REF,197.0,215.0,18.0
+2015,United States,Congo-Brazzaville,REF,75.0,71.0,-4.0
+2015,United States,Ukraine,REF,1337.0,1346.0,9.0
+2015,United States,Canada,REF,302.0,274.0,-28.0
+2015,United States,Cuba,REF,40.0,42.0,2.0
+2015,United States,Venezuela,REF,8.0,6.0,-2.0
+2015,United States,Djibouti,REF,5.0,8.0,3.0
+2015,United States,Ecuador,REF,10.0,11.0,1.0
+2015,United States,Eritrea,REF,16091.0,21000.0,4909.0
+2015,United States,Ethiopia,REF,845.0,1019.0,174.0
+2015,United States,Germany,REF,50.0,50.0,0.0
+2015,United States,Gaza Strip,REF,18.0,0.0,-18.0
+2015,United States,Guyana,REF,87.0,100.0,13.0
+2015,United States,Ghana,REF,11.0,15.0,4.0
+2015,United States,Guinea-Bissau,REF,44.0,54.0,10.0
+2015,United States,Republic of Guinea,REF,111.0,125.0,14.0
+2015,United States,Croatia,REF,46.0,43.0,-3.0
+2015,United States,Taiwan,REF,9.0,9.0,0.0
+2015,United States,Cocos Islands,REF,151.0,178.0,27.0
+2015,United States,Ireland,REF,50.0,47.0,-3.0
+2015,United States,Iran,REF,1486.0,1604.0,118.0
+2015,United States,Iran,REF,3751.0,3501.0,-250.0
+2015,United States,United States,REF,7.0,6.0,-1.0
+2015,United States,Romania,REF,31.0,44.0,13.0
+2015,United States,Kazakhstan,REF,14.0,12.0,-2.0
+2015,United States,United States,REF,45.0,42.0,-3.0
+2015,United States,Kyrgyzstan,REF,25.0,23.0,-2.0
+2015,United States,Lao Peoples Democratic Republic,REF,143.0,136.0,-7.0
+2015,United States,Germany,REF,48.0,49.0,1.0
+2015,United States,Albania,REF,216.0,250.0,34.0
+2015,United States,United States,REF,41.0,44.0,3.0
+2015,United States,Lao Peoples Democratic Republic,REF,3731.0,4989.0,1258.0
+2015,United States,Mauritius,REF,5.0,5.0,0.0
+2015,United States,United Kingdom,REF,181.0,184.0,3.0
+2015,United States,Taiwan,REF,13.0,14.0,1.0
+2015,United States,Mali,REF,15.0,18.0,3.0
+2015,United States,Mexico,REF,33.0,43.0,10.0
+2015,United States,Mongolia,REF,77.0,86.0,9.0
+2015,United States,Mexico,REF,33.0,38.0,5.0
+2015,United States,Iceland,REF,52.0,53.0,1.0
+2015,United States,Nepal,REF,16.0,18.0,2.0
+2015,United States,Nigeria,REF,10.0,10.0,0.0
+2015,United States,Nigeria,REF,142.0,179.0,37.0
+2015,United States,United States,REF,104.0,112.0,8.0
+2015,United States,Pakistan,REF,9.0,9.0,0.0
+2015,United States,Netherlands,REF,6.0,6.0,0.0
+2015,United States,Dominican Republic,REF,25.0,22.0,-3.0
+2015,United States,Germany,REF,676.0,710.0,34.0
+2015,United States,Rwanda,REF,163.0,164.0,1.0
+2015,United States,United Kingdom,REF,24.0,31.0,7.0
+2015,United States,South Africa,REF,37.0,41.0,4.0
+2015,United States,Somali Republic,REF,4279.0,4334.0,55.0
+2015,United States,Serbia,REF,3380.0,3158.0,-222.0
+2015,United States,Mexico,REF,1203.0,1130.0,-73.0
+2015,United States,United Kingdom,REF,10.0,400.0,390.0
+2015,United States,Sudan,REF,200.0,205.0,5.0
+2015,United States,Syrian Arab Republic,REF,5161.0,8695.0,3534.0
+2015,United States,Tanzania,REF,16.0,15.0,-1.0
+2015,United States,United States,REF,744.0,742.0,-2.0
+2015,United States,Kiribati,REF,312.0,294.0,-18.0
+2015,United States,Ecuador,REF,3618.0,3544.0,-74.0
+2015,United States,Uganda,REF,30.0,35.0,5.0
+2015,United States,Ukraine,REF,17.0,16.0,-1.0
+2015,United States,Uzbekistan,REF,56.0,54.0,-2.0
+2015,United States,Bulgaria,REF,565.0,1173.0,608.0
+2015,United States,United States,REF,7.0,7.0,0.0
+2015,United States,Yemem,REF,300.0,323.0,23.0
+2015,United States,Zimbabwe,REF,14.0,18.0,4.0
+2015,Syrian Arab Republic,Afghanistan,REF,1214.0,1213.0,-1.0
+2015,Syrian Arab Republic,United States,REF,9.0,8.0,-1.0
+2015,Syrian Arab Republic,South Africa,REF,18.0,27.0,9.0
+2015,Syrian Arab Republic,Finland,REF,6.0,5.0,-1.0
+2015,Syrian Arab Republic,Democratic Republic of the Congo,REF,0.0,0.0,0.0
+2015,Syrian Arab Republic,Russia,REF,6.0,7.0,1.0
+2015,Syrian Arab Republic,Ukraine,REF,0.0,0.0,0.0
+2015,Syrian Arab Republic,Eritrea,REF,34.0,28.0,-6.0
+2015,Syrian Arab Republic,Ethiopia,REF,16.0,18.0,2.0
+2015,Syrian Arab Republic,Republic of Guinea,REF,29.0,34.0,5.0
+2015,Syrian Arab Republic,Ireland,REF,0.0,0.0,0.0
+2015,Syrian Arab Republic,Iran,REF,37.0,38.0,1.0
+2015,Syrian Arab Republic,Iran,REF,146200.0,18253.0,-127947.0
+2015,Syrian Arab Republic,Romania,REF,23.0,25.0,2.0
+2015,Syrian Arab Republic,United States,REF,0.0,0.0,0.0
+2015,Syrian Arab Republic,United States,REF,6.0,5.0,-1.0
+2015,Syrian Arab Republic,Albania,REF,5.0,5.0,0.0
+2015,Syrian Arab Republic,United States,REF,22.0,26.0,4.0
+2015,Syrian Arab Republic,Mauritius,REF,0.0,0.0,0.0
+2015,Syrian Arab Republic,Mali,REF,0.0,0.0,0.0
+2015,Syrian Arab Republic,Mexico,REF,7.0,6.0,-1.0
+2015,Syrian Arab Republic,Nigeria,REF,0.0,0.0,0.0
+2015,Syrian Arab Republic,United States,REF,38.0,66.0,28.0
+2015,Syrian Arab Republic,Spain,REF,5.0,6.0,1.0
+2015,Syrian Arab Republic,South Africa,REF,0.0,0.0,0.0
+2015,Syrian Arab Republic,Somali Republic,REF,630.0,490.0,-140.0
+2015,Syrian Arab Republic,France,REF,79.0,79.0,0.0
+2015,Syrian Arab Republic,Sudan,REF,653.0,699.0,46.0
+2015,Syrian Arab Republic,Kiribati,REF,6.0,6.0,0.0
+2015,Syrian Arab Republic,Ecuador,REF,5.0,6.0,1.0
+2015,Syrian Arab Republic,Uzbekistan,REF,0.0,0.0,0.0
+2015,Syrian Arab Republic,Yemem,REF,59.0,52.0,-7.0
+2015,Tanzania,Burundi,REF,34313.0,155755.0,121442.0
+2015,Tanzania,Ukraine,REF,53881.0,55803.0,1922.0
+2015,Tanzania,Somali Republic,REF,150.0,150.0,0.0
+2015,Tanzania,Bulgaria,REF,148.0,137.0,-11.0
+2015,Thailand,Afghanistan,REF,8.0,16.0,8.0
+2015,Thailand,United States,REF,65.0,82.0,17.0
+2015,Thailand,Canada,REF,76.0,112.0,36.0
+2015,Thailand,Ukraine,REF,20.0,23.0,3.0
+2015,Thailand,Gaza Strip,REF,269.0,409.0,140.0
+2015,Thailand,Cocos Islands,REF,20.0,19.0,-1.0
+2015,Thailand,Iran,REF,37.0,31.0,-6.0
+2015,Thailand,Iran,REF,58.0,75.0,17.0
+2015,Thailand,Lao Peoples Democratic Republic,REF,159.0,152.0,-7.0
+2015,Thailand,Iceland,REF,73762.0,53233.0,-20529.0
+2015,Thailand,Iceland,REF-like,55101.0,53116.0,-1985.0
+2015,Thailand,Nepal,REF,12.0,11.0,-1.0
+2015,Thailand,United States,REF,362.0,554.0,192.0
+2015,Thailand,Somali Republic,REF,72.0,81.0,9.0
+2015,Thailand,Mexico,REF,99.0,201.0,102.0
+2015,Thailand,Syrian Arab Republic,REF,82.0,95.0,13.0
+2015,Thailand,United States,REF,5.0,5.0,0.0
+2015,Thailand,Ecuador,REF,0.0,0.0,0.0
+2015,Tajikistan,Afghanistan,REF,1975.0,1950.0,-25.0
+2015,Tajikistan,Kyrgyzstan,REF,36.0,0.0,-36.0
+2015,Tajikistan,United States,REF,6.0,8.0,2.0
+2015,Guatemala,Afghanistan,REF,19.0,18.0,-1.0
+2015,Guatemala,Spain,REF,0.0,0.0,0.0
+2015,Guatemala,Germany,REF,15.0,7.0,-8.0
+2015,United States,Libya,REF,0.0,0.0,0.0
+2015,United States,Central African Republic,REF,337.0,476.0,139.0
+2015,United States,Russia,REF,20.0,19.0,-1.0
+2015,United States,Congo-Brazzaville,REF,42.0,34.0,-8.0
+2015,United States,Ukraine,REF,101.0,109.0,8.0
+2015,United States,Ghana,REF,18444.0,18476.0,32.0
+2015,United States,Cocos Islands,REF,2558.0,2516.0,-42.0
+2015,United States,Iran,REF,5.0,5.0,0.0
+2015,United States,Mali,REF,39.0,85.0,46.0
+2015,United States,Nigeria,REF,8.0,8.0,0.0
+2015,United States,Rwanda,REF,214.0,211.0,-3.0
+2015,Sudan,Bangladesh,REF,8.0,10.0,2.0
+2015,Sudan,Ukraine,REF,0.0,0.0,0.0
+2015,Sudan,Canada,REF,8.0,12.0,4.0
+2015,Sudan,Cuba,REF,36.0,41.0,5.0
+2015,Sudan,United States,REF,0.0,0.0,0.0
+2015,Sudan,United States,REF,6.0,6.0,0.0
+2015,Sudan,Syrian Arab Republic,REF,8.0,22.0,14.0
+2015,Kiribati,United States,REF,15.0,13.0,-2.0
+2015,Kiribati,South Africa,REF,0.0,0.0,0.0
+2015,Kiribati,Eritrea,REF,43.0,9.0,-34.0
+2015,Kiribati,Ethiopia,REF,19.0,5.0,-14.0
+2015,Kiribati,Gaza Strip,REF,42.0,35.0,-7.0
+2015,Kiribati,Republic of Guinea,REF,0.0,0.0,0.0
+2015,Kiribati,Iran,REF,17.0,13.0,-4.0
+2015,Kiribati,Sweden,REF,0.0,0.0,0.0
+2015,Kiribati,Rwanda,REF,6.0,6.0,0.0
+2015,Kiribati,Somali Republic,REF,81.0,13.0,-68.0
+2015,Kiribati,Sudan,REF,84.0,51.0,-33.0
+2015,Kiribati,Syrian Arab Republic,REF,558.0,499.0,-59.0
+2015,Ecuador,Afghanistan,REF,4188.0,3846.0,-342.0
+2015,Ecuador,South Africa,REF,22.0,30.0,8.0
+2015,Ecuador,Canada,REF,16.0,14.0,-2.0
+2015,Ecuador,United Kingdom,REF,9.0,8.0,-1.0
+2015,Ecuador,Congo-Brazzaville,REF,10.0,9.0,-1.0
+2015,Ecuador,Ukraine,REF,62.0,51.0,-11.0
+2015,Ecuador,Eritrea,REF,59.0,82.0,23.0
+2015,Ecuador,Ethiopia,REF,98.0,92.0,-6.0
+2015,Ecuador,Gaza Strip,REF,849.0,906.0,57.0
+2015,Ecuador,Republic of Guinea,REF,8.0,7.0,-1.0
+2015,Ecuador,Cocos Islands,REF,23.0,22.0,-1.0
+2015,Ecuador,Iran,REF,3388.0,5262.0,1874.0
+2015,Ecuador,Iran,REF,17542.0,24135.0,6593.0
+2015,Ecuador,Romania,REF,27.0,26.0,-1.0
+2015,Ecuador,Kazakhstan,REF,0.0,0.0,0.0
+2015,Ecuador,Kyrgyzstan,REF,204.0,204.0,0.0
+2015,Ecuador,Albania,REF,10.0,20.0,10.0
+2015,Ecuador,United States,REF,7.0,7.0,0.0
+2015,Ecuador,Lao Peoples Democratic Republic,REF,15.0,14.0,-1.0
+2015,Ecuador,Mauritius,REF,6.0,7.0,1.0
+2015,Ecuador,Mexico,REF,25.0,32.0,7.0
+2015,Ecuador,Nigeria,REF,6.0,8.0,2.0
+2015,Ecuador,India,REF,0.0,0.0,0.0
+2015,Ecuador,United States,REF,28.0,41.0,13.0
+2015,Ecuador,Germany,REF,5.0,5.0,0.0
+2015,Ecuador,Somali Republic,REF,2389.0,2364.0,-25.0
+2015,Ecuador,United Kingdom,REF,61.0,94.0,33.0
+2015,Ecuador,Sudan,REF,217.0,262.0,45.0
+2015,Ecuador,Syrian Arab Republic,REF,1557899.0,2503549.0,945650.0
+2015,Ecuador,Tajikistan,REF,18.0,14.0,-4.0
+2015,Ecuador,Kiribati,REF,9.0,8.0,-1.0
+2015,Ecuador,Uganda,REF,23.0,22.0,-1.0
+2015,Ecuador,Uzbekistan,REF,65.0,66.0,1.0
+2015,Ecuador,Yemem,REF,40.0,101.0,61.0
+2015,United Arab Emirates,Ethiopia,REF,6.0,7.0,1.0
+2015,United Arab Emirates,Iran,REF,348.0,589.0,241.0
+2015,United Arab Emirates,Lao Peoples Democratic Republic,REF,0.0,0.0,0.0
+2015,United Arab Emirates,United States,REF,0.0,0.0,0.0
+2015,United Arab Emirates,Somali Republic,REF,21.0,21.0,0.0
+2015,United Arab Emirates,Sudan,REF,6.0,5.0,-1.0
+2015,United Arab Emirates,Syrian Arab Republic,REF,28.0,36.0,8.0
+2015,Uganda,South Africa,REF,5.0,0.0,-5.0
+2015,Uganda,Burundi,REF,11903.0,26256.0,14353.0
+2015,Uganda,Central African Republic,REF,14.0,13.0,-1.0
+2015,Uganda,Russia,REF,5.0,5.0,0.0
+2015,Uganda,United Kingdom,REF,0.0,0.0,0.0
+2015,Uganda,Ukraine,REF,178217.0,201782.0,23565.0
+2015,Uganda,Eritrea,REF,2600.0,3401.0,801.0
+2015,Uganda,Ethiopia,REF,1265.0,1495.0,230.0
+2015,Uganda,Iran,REF,0.0,0.0,0.0
+2015,Uganda,United States,REF,1274.0,289.0,-985.0
+2015,Uganda,Albania,REF,0.0,0.0,0.0
+2015,Uganda,United States,REF,38.0,135.0,97.0
+2015,Uganda,Rwanda,REF,14312.0,14714.0,402.0
+2015,Uganda,South Africa,REF,0.0,0.0,0.0
+2015,Uganda,Somali Republic,REF,17010.0,27720.0,10710.0
+2015,Uganda,France,REF,157053.0,199359.0,42306.0
+2015,Uganda,Sudan,REF,1802.0,1992.0,190.0
+2015,Ukraine,Afghanistan,REF,1544.0,1520.0,-24.0
+2015,Ukraine,Papua New Guinea,REF,30.0,29.0,-1.0
+2015,Ukraine,Spain,REF,201.0,200.0,-1.0
+2015,Ukraine,Germany,REF,176.0,169.0,-7.0
+2015,Ukraine,Burundi,REF,6.0,6.0,0.0
+2015,Ukraine,United States,REF,21.0,20.0,-1.0
+2015,Ukraine,Russia,REF,7.0,7.0,0.0
+2015,Ukraine,Congo-Brazzaville,REF,21.0,21.0,0.0
+2015,Ukraine,Ukraine,REF,66.0,69.0,3.0
+2015,Ukraine,Eritrea,REF,17.0,19.0,2.0
+2015,Ukraine,Ethiopia,REF,16.0,18.0,2.0
+2015,Ukraine,Gaza Strip,REF,38.0,38.0,0.0
+2015,Ukraine,Guyana,REF,62.0,60.0,-2.0
+2015,Ukraine,Republic of Guinea,REF,5.0,5.0,0.0
+2015,Ukraine,Iran,REF,57.0,57.0,0.0
+2015,Ukraine,Iran,REF,81.0,86.0,5.0
+2015,Ukraine,Kazakhstan,REF,10.0,10.0,0.0
+2015,Ukraine,Kyrgyzstan,REF,7.0,10.0,3.0
+2015,Ukraine,United States,REF,6.0,7.0,1.0
+2015,Ukraine,Lao Peoples Democratic Republic,REF,10.0,9.0,-1.0
+2015,Ukraine,Nigeria,REF,5.0,5.0,0.0
+2015,Ukraine,United States,REF,6.0,9.0,3.0
+2015,Ukraine,Germany,REF,104.0,116.0,12.0
+2015,Ukraine,South Africa,REF,5.0,5.0,0.0
+2015,Ukraine,Somali Republic,REF,118.0,115.0,-3.0
+2015,Ukraine,Serbia,REF,5.0,5.0,0.0
+2015,Ukraine,Mexico,REF,5.0,5.0,0.0
+2015,Ukraine,United Kingdom,REF,47.0,53.0,6.0
+2015,Ukraine,Sudan,REF,59.0,62.0,3.0
+2015,Ukraine,Syrian Arab Republic,REF,341.0,399.0,58.0
+2015,Ukraine,Tajikistan,REF,9.0,14.0,5.0
+2015,Ukraine,Guatemala,REF,10.0,8.0,-2.0
+2015,Ukraine,Ecuador,REF,13.0,11.0,-2.0
+2015,Ukraine,Uzbekistan,REF,62.0,59.0,-3.0
+2015,Papua New Guinea,United Kingdom,REF,8.0,8.0,0.0
+2015,Papua New Guinea,Canada,REF,130.0,140.0,10.0
+2015,Papua New Guinea,Cuba,REF,6.0,8.0,2.0
+2015,Papua New Guinea,Ecuador,REF,7.0,7.0,0.0
+2015,Papua New Guinea,France,REF,5.0,5.0,0.0
+2015,Papua New Guinea,Nigeria,REF,10.0,11.0,1.0
+2015,Papua New Guinea,Pakistan,REF,8.0,8.0,0.0
+2015,Papua New Guinea,Germany,REF,11.0,11.0,0.0
+2015,Papua New Guinea,Syrian Arab Republic,REF,48.0,58.0,10.0
+2015,Papua New Guinea,Ukraine,REF,11.0,11.0,0.0
+2015,United States,Afghanistan,REF,1210.0,1361.0,151.0
+2015,United States,Mexico,REF,2751.0,2194.0,-557.0
+2015,United States,United States,REF,172.0,145.0,-27.0
+2015,United States,Papua New Guinea,REF,122.0,133.0,11.0
+2015,United States,South Africa,REF,10047.0,10852.0,805.0
+2015,United States,Argentina,REF,85.0,73.0,-12.0
+2015,United States,Spain,REF,2816.0,2440.0,-376.0
+2015,United States,Germany,REF,384.0,339.0,-45.0
+2015,United States,Bahrain,REF,41.0,44.0,3.0
+2015,United States,Burundi,REF,563.0,652.0,89.0
+2015,United States,Libya,REF,76.0,85.0,9.0
+2015,United States,Bangladesh,REF,1096.0,1121.0,25.0
+2015,United States,Bahamas,REF,185.0,180.0,-5.0
+2015,United States,India,REF,57.0,58.0,1.0
+2015,United States,Finland,REF,827.0,929.0,102.0
+2015,United States,United States,REF,1923.0,1804.0,-119.0
+2015,United States,Bolivia,REF,118.0,110.0,-8.0
+2015,United States,Botswana,REF,5.0,37.0,32.0
+2015,United States,Brazil,REF,656.0,627.0,-29.0
+2015,United States,Canada,REF,175.0,151.0,-24.0
+2015,United States,Democratic Republic of the Congo,REF,652.0,544.0,-108.0
+2015,United States,Belize,REF,33.0,38.0,5.0
+2015,United States,United States,REF,267.0,208.0,-59.0
+2015,United States,United Kingdom,REF,49.0,45.0,-4.0
+2015,United States,Central African Republic,REF,215.0,211.0,-4.0
+2015,United States,Cayman Islands,REF,6.0,6.0,0.0
+2015,United States,Russia,REF,403.0,390.0,-13.0
+2015,United States,Canada,REF,71902.0,74020.0,2118.0
+2015,United States,United States,REF,42.0,33.0,-9.0
+2015,United States,United Kingdom,REF,5016.0,4530.0,-486.0
+2015,United States,Congo-Brazzaville,REF,1351.0,1344.0,-7.0
+2015,United States,Ukraine,REF,817.0,842.0,25.0
+2015,United States,United States,REF,6.0,5.0,-1.0
+2015,United States,Canada,REF,10552.0,8043.0,-2509.0
+2015,United States,Costa Rica,REF,175.0,174.0,-1.0
+2015,United States,Cuba,REF,578.0,476.0,-102.0
+2015,United States,United States,REF,35.0,35.0,0.0
+2015,United States,Venezuela,REF,23.0,20.0,-3.0
+2015,United States,Djibouti,REF,165.0,224.0,59.0
+2015,United States,United States,REF,12.0,12.0,0.0
+2015,United States,Dominican Republic,REF,100.0,114.0,14.0
+2015,United States,Ecuador,REF,334.0,579.0,245.0
+2015,United States,Uganda,REF,11.0,10.0,-1.0
+2015,United States,Eritrea,REF,3868.0,4085.0,217.0
+2015,United States,Mexico,REF,294.0,279.0,-15.0
+2015,United States,Ethiopia,REF,10384.0,10566.0,182.0
+2015,United States,Fiji,REF,377.0,339.0,-38.0
+2015,United States,Finland,REF,5.0,5.0,0.0
+2015,United States,United Kingdom,REF,29.0,24.0,-5.0
+2015,United States,Canada,REF,44.0,45.0,1.0
+2015,United States,Germany,REF,1264.0,1371.0,107.0
+2015,United States,Gaza Strip,REF,5.0,5.0,0.0
+2015,United States,United States,REF,52.0,44.0,-8.0
+2015,United States,Guyana,REF,496.0,422.0,-74.0
+2015,United States,France,REF,59.0,54.0,-5.0
+2015,United States,Ghana,REF,211.0,262.0,51.0
+2015,United States,Guinea-Bissau,REF,30.0,24.0,-6.0
+2015,United States,Greece,REF,27.0,22.0,-5.0
+2015,United States,United States,REF,23.0,23.0,0.0
+2015,United States,Mexico,REF,6098.0,8864.0,2766.0
+2015,United States,Republic of Guinea,REF,3145.0,2862.0,-283.0
+2015,United States,French Guiana,REF,116.0,90.0,-26.0
+2015,United States,Canada,REF,24170.0,21790.0,-2380.0
+2015,United States,United States,REF,2797.0,4918.0,2121.0
+2015,United States,Croatia,REF,59.0,51.0,-8.0
+2015,United States,Taiwan,REF,25.0,21.0,-4.0
+2015,United States,Cocos Islands,REF,1709.0,1574.0,-135.0
+2015,United States,Ireland,REF,4484.0,4581.0,97.0
+2015,United States,United Kingdom,REF,3604.0,3183.0,-421.0
+2015,United States,Iran,REF,4848.0,5216.0,368.0
+2015,United States,Iran,REF,5284.0,5760.0,476.0
+2015,United States,Israel,REF,163.0,145.0,-18.0
+2015,United States,United States,REF,24.0,22.0,-2.0
+2015,United States,Kenya,REF,454.0,514.0,60.0
+2015,United States,Romania,REF,377.0,382.0,5.0
+2015,United States,United Kingdom,REF,11.0,9.0,-2.0
+2015,United States,Kazakhstan,REF,594.0,628.0,34.0
+2015,United States,United States,REF,2305.0,2258.0,-47.0
+2015,United States,Kyrgyzstan,REF,833.0,986.0,153.0
+2015,United States,Democratic People's Republic of Korea,REF,27.0,29.0,2.0
+2015,United States,Kazakhstan,REF,22.0,19.0,-3.0
+2015,United States,United States,REF,105.0,107.0,2.0
+2015,United States,Lao Peoples Democratic Republic,REF,199.0,173.0,-26.0
+2015,United States,Germany,REF,1357.0,1266.0,-91.0
+2015,United States,Albania,REF,182.0,212.0,30.0
+2015,United States,United States,REF,434.0,413.0,-21.0
+2015,United States,Lesotho,REF,5.0,5.0,0.0
+2015,United States,Lao Peoples Democratic Republic,REF,1322.0,1313.0,-9.0
+2015,United States,Germany,REF,47.0,38.0,-9.0
+2015,United States,France,REF,55.0,44.0,-11.0
+2015,United States,Canada,REF,19.0,18.0,-1.0
+2015,United States,Mauritius,REF,1327.0,1174.0,-153.0
+2015,United States,United Kingdom,REF,169.0,147.0,-22.0
+2015,United States,Taiwan,REF,1138.0,1237.0,99.0
+2015,United States,Moldova,REF,8.0,6.0,-2.0
+2015,United States,United States,REF,3807.0,4822.0,1015.0
+2015,United States,Mali,REF,1178.0,1239.0,61.0
+2015,United States,United States,REF,114.0,103.0,-11.0
+2015,United States,Liberia,REF,31.0,28.0,-3.0
+2015,United States,Mexico,REF,98.0,102.0,4.0
+2015,United States,Mongolia,REF,902.0,874.0,-28.0
+2015,United States,Mexico,REF,118.0,117.0,-1.0
+2015,United States,Indonesia,REF,25.0,28.0,3.0
+2015,United States,Iceland,REF,2204.0,1999.0,-205.0
+2015,United States,Canada,REF,43.0,47.0,4.0
+2015,United States,Nepal,REF,6197.0,6605.0,408.0
+2015,United States,Nigeria,REF,10.0,8.0,-2.0
+2015,United States,Nigeria,REF,163.0,153.0,-10.0
+2015,United States,United States,REF,495.0,523.0,28.0
+2015,United States,Nigeria,REF,805.0,908.0,103.0
+2015,United States,Niue,REF,18.0,18.0,0.0
+2015,United States,United States,REF,3009.0,3111.0,102.0
+2015,United States,Thailand,REF,25.0,23.0,-2.0
+2015,United States,Australia,REF,24.0,21.0,-3.0
+2015,United States,Pakistan,REF,773.0,696.0,-77.0
+2015,United States,Netherlands,REF,197.0,169.0,-28.0
+2015,United States,Sweden,REF,41.0,34.0,-7.0
+2015,United States,Mexico,REF,10.0,9.0,-1.0
+2015,United States,Canada,REF,10.0,10.0,0.0
+2015,United States,Dominican Republic,REF,381.0,369.0,-12.0
+2015,United States,Sudan,REF,72.0,62.0,-10.0
+2015,United States,Germany,REF,6163.0,5905.0,-258.0
+2015,United States,Rwanda,REF,1020.0,1048.0,28.0
+2015,United States,El Salvador,REF,8256.0,11273.0,3017.0
+2015,United States,Spain,REF,254.0,293.0,39.0
+2015,United States,United Kingdom,REF,361.0,357.0,-4.0
+2015,United States,Singapore,REF,19.0,17.0,-2.0
+2015,United States,South Africa,REF,710.0,634.0,-76.0
+2015,United States,Somali Republic,REF,2263.0,2313.0,50.0
+2015,United States,United States,REF,13.0,11.0,-2.0
+2015,United States,Serbia,REF,1596.0,1396.0,-200.0
+2015,United States,United Kingdom,REF,817.0,703.0,-114.0
+2015,United States,Sudan,REF,1347.0,1362.0,15.0
+2015,United States,Egypt,REF,9.0,11.0,2.0
+2015,United States,Slovakia,REF,17.0,13.0,-4.0
+2015,United States,Angola,REF,7.0,5.0,-2.0
+2015,United States,Sweden,REF,8.0,8.0,0.0
+2015,United States,Syrian Arab Republic,REF,4750.0,5651.0,901.0
+2015,United States,Tanzania,REF,164.0,146.0,-18.0
+2015,United States,Turks and Caicos Islands,REF,15.0,14.0,-1.0
+2015,United States,Thailand,REF,27.0,26.0,-1.0
+2015,United States,Tajikistan,REF,224.0,250.0,26.0
+2015,United States,Guatemala,REF,246.0,221.0,-25.0
+2015,United States,United States,REF,1206.0,883.0,-323.0
+2015,United States,Sudan,REF,62.0,62.0,0.0
+2015,United States,Kiribati,REF,44.0,44.0,0.0
+2015,United States,Ecuador,REF,419.0,418.0,-1.0
+2015,United States,United Arab Emirates,REF,38.0,42.0,4.0
+2015,United States,Uganda,REF,1178.0,1231.0,53.0
+2015,United States,Ukraine,REF,1424.0,1486.0,62.0
+2015,United States,Papua New Guinea,REF,8.0,6.0,-2.0
+2015,United States,Uzbekistan,REF,1497.0,1431.0,-66.0
+2015,United States,United States,REF,5.0,31.0,26.0
+2015,United States,Venezuela,REF,6693.0,6193.0,-500.0
+2015,United States,Yemem,REF,410.0,457.0,47.0
+2015,United States,Zambia,REF,70.0,54.0,-16.0
+2015,United States,Zimbabwe,REF,1492.0,1316.0,-176.0
+2015,Uzbekistan,Afghanistan,REF,123.0,106.0,-17.0
+2015,Venezuela,Canada,REF,0.0,0.0,0.0
+2015,Venezuela,United States,REF,5.0,5.0,0.0
+2015,Venezuela,Canada,REF,4971.0,6613.0,1642.0
+2015,Venezuela,Canada,REF-like,168548.0,167060.0,-1488.0
+2015,Venezuela,Canada,REF,15.0,15.0,0.0
+2015,Venezuela,Pakistan,REF,7.0,7.0,0.0
+2015,Venezuela,Serbia,REF,5.0,5.0,0.0
+2015,Yemem,South Africa,REF,15.0,15.0,0.0
+2015,Yemem,Congo-Brazzaville,REF,0.0,0.0,0.0
+2015,Yemem,Ukraine,REF,5.0,5.0,0.0
+2015,Yemem,Eritrea,REF,1254.0,1278.0,24.0
+2015,Yemem,Ethiopia,REF,5934.0,5645.0,-289.0
+2015,Yemem,Gaza Strip,REF,463.0,482.0,19.0
+2015,Yemem,Iran,REF,3391.0,3404.0,13.0
+2015,Yemem,Romania,REF,11.0,11.0,0.0
+2015,Yemem,Somali Republic,REF,244204.0,253215.0,9011.0
+2015,Yemem,Mexico,REF,15.0,15.0,0.0
+2015,Yemem,Sudan,REF,64.0,71.0,7.0
+2015,Yemem,Syrian Arab Republic,REF,2276.0,3011.0,735.0
+2015,Yemem,Tanzania,REF,0.0,0.0,0.0
+2015,Zambia,Burundi,REF,2501.0,2931.0,430.0
+2015,Zambia,Ukraine,REF,18598.0,19293.0,695.0
+2015,Zambia,Eritrea,REF,13.0,13.0,0.0
+2015,Zambia,Ethiopia,REF,55.0,55.0,0.0
+2015,Zambia,Gaza Strip,REF,5.0,7.0,2.0
+2015,Zambia,United States,REF,0.0,0.0,0.0
+2015,Zambia,Germany,REF,19.0,19.0,0.0
+2015,Zambia,United States,REF,6.0,6.0,0.0
+2015,Zambia,Rwanda,REF,1904.0,1548.0,-356.0
+2015,Zambia,Somali Republic,REF,2314.0,2403.0,89.0
+2015,Zambia,Sudan,REF,35.0,37.0,2.0
+2015,Zambia,Uganda,REF,105.0,105.0,0.0
+2015,Zambia,Zimbabwe,REF,6.0,6.0,0.0
+2015,Zimbabwe,Burundi,REF,593.0,608.0,15.0
+2015,Zimbabwe,Congo-Brazzaville,REF,14.0,15.0,1.0
+2015,Zimbabwe,Ukraine,REF,4866.0,5414.0,548.0
+2015,Zimbabwe,Eritrea,REF,16.0,15.0,-1.0
+2015,Zimbabwe,Ethiopia,REF,52.0,66.0,14.0
+2015,Zimbabwe,Cocos Islands,REF,9.0,10.0,1.0
+2015,Zimbabwe,Liberia,REF,0.0,0.0,0.0
+2015,Zimbabwe,Rwanda,REF,484.0,764.0,280.0
+2015,Zimbabwe,Somali Republic,REF,13.0,22.0,9.0
+2015,Zimbabwe,Sudan,REF,11.0,11.0,0.0
+2015,Zimbabwe,Uganda,REF,8.0,8.0,0.0
