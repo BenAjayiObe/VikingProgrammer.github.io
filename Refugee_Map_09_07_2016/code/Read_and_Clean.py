@@ -2,6 +2,7 @@ import pandas as pd
 from pandas import DataFrame
 import numpy as np
 import math
+from scipy.interpolate import interp1d
 # Data Source: https://data.humdata.org/dataset/2015-unhcr-refugees-statistics-by-coo-coa/resource/278278d5-ba6c-45eb-b34d-c0b8cbdbe223
 # #year,#adm1+code,#adm1+code,#affected+code,#affected,#affected
 if(0):
@@ -64,32 +65,88 @@ if(0):
 
 data = DataFrame.from_csv("../data/cleaned_name_corrected_refugee_2015.csv",sep=",",index_col=False,header=0)
 
+data = data.loc[data['Total_Movement']>0]
 Origin = data.Country_Of_Origin.unique().tolist()
 Asylum = data.Country_Of_Asylum.unique().tolist()
 
 Origin_Indexed = range(len(Origin))
 Asylum_Indexed = range(len(Asylum))
 
-w = 2
+w = 7
 h = len(data.index)
 Matrix = [[0 for x in range(w)] for y in range(h)]
 
 data["Country_Of_Asylum_Indexed"] = 0
 data["Country_Of_Origin_Indexed"] = 0
 
-# for index, row in data.iterrows():
-# 	data.set_value(index,"Country_Of_Origin_Indexed",Origin.index(row["Country_Of_Origin"])+1)
-# 	data.set_value(index,"Country_Of_Asylum_Indexed",Asylum.index(row["Country_Of_Asylum"])+1)
+for index, row in data.iterrows():
+	data.set_value(index,"Country_Of_Origin_Indexed",Origin.index(row["Country_Of_Origin"]))
+	data.set_value(index,"Country_Of_Asylum_Indexed",Asylum.index(row["Country_Of_Asylum"]))
 
-# i = 0
-# for row in Matrix:
-# 	row[0] = data.iloc[i]["Country_Of_Origin_Indexed"]
-# 	row[1] = data.iloc[i]["Country_Of_Asylum_Indexed"]
-# 	i+=1
+linescale = interp1d([1,945650],[0.1,50])
+Origin_dict = {}
+Aslyum_dict = {}
+Origin_lines_pos = [0 for x in range(len(Origin))]
+Asylum_lines_pos = [0 for x in range(len(Asylum))]
+i = 0
+for row in Matrix:
+	row[0] = data.iloc[i]["Country_Of_Origin_Indexed"]	# The number denoting the country of Origin.
+	row[1] = data.iloc[i]["Country_Of_Asylum_Indexed"]	# The number denoting the country of Asylum.
+	row[2] = data.iloc[i]["Total_Movement"] 			# The number denoting the total movement.
+	Origin_lines_pos[row[0]] += linescale(row[2])
+	Asylum_lines_pos[row[1]] += linescale(row[2])
+	row[3] = Origin_lines_pos[row[0]]					# The cumulated thickness of all the lines before it for that country.
+	row[4] = Asylum_lines_pos[row[1]]					# The cumulated thickness of all the lines before it for that country.
+	i+=1
 
-print "Origin_Indexed\n\n"
-print Origin_Indexed
+Origin_lines_cumul = [0 for x in range(len(Origin))]
+Asylum_lines_cumul = [0 for x in range(len(Asylum))]
+i=0
+for x in Origin_lines_pos:
+	if i==0:
+		Origin_lines_cumul[i] =  x
+	else:
+		Origin_lines_cumul[i] = Origin_lines_cumul[i-1] + x
+	i += 1
 
-print "Aslyum_Indexed\n\n"
-print Asylum_Indexed
+i=0
+for x in Asylum_lines_pos:
+	if i==0:
+		Asylum_lines_cumul[i] =  x
+	else:
+		Asylum_lines_cumul[i] = Asylum_lines_cumul[i-1] + x
+	i += 1
 
+for row in Matrix:
+	row[5] = Origin_lines_cumul[row[0]]					# The cumulated thickness of all the previous origin countries.
+	row[6] = Asylum_lines_cumul[row[1]]					# The cumulated thickness of all the previous asylum countries.
+
+# print "Origin Names\n\n"
+# print Origin
+# print "\n\n"
+
+# print "Asylum Names\n\n"
+# print Asylum
+# print "\n\n"
+
+# print "Origin_Indexed\n\n"
+# print Origin_Indexed
+# print "\n\n"
+
+# print "Aslyum_Indexed\n\n"
+# print Asylum_Indexed
+# print "\n\n"
+
+print "Matrix\n\n"
+print Matrix
+print "\n\n"
+
+# print min(data['Total_Movement'])
+# print max(data['Total_Movement'])
+
+print Origin_lines_pos
+print Asylum_lines_pos
+print "\n\n\n\n"
+
+print Origin_lines_cumul
+print Asylum_lines_cumul
