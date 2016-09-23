@@ -160,29 +160,41 @@ print "Asylum Names\n\n"
 print Asylum
 print "\n\n"
 
-print "Origin_Indexed\n\n"
-print Origin_Indexed
-print "\n\n"
+print("Origin Sum")
+sumOrigin =[]
+for country in Origin:
+    sumOrigin.append(sum(data[data['Country_Of_Origin']==country]['Summed_Movement']))
+print(sumOrigin)
 
-print "Aslyum_Indexed\n\n"
-print Asylum_Indexed
-print "\n\n"
+print("Asylum Sum")
+sumAsylum =[]
+for country in Asylum:
+    sumAsylum.append(sum(data[data['Country_Of_Asylum']==country]['Summed_Movement']))
+print(sumAsylum)
 
-print "Matrix\n\n"
-print Matrix
-print "\n\n"
+# print "Origin_Indexed\n\n"
+# print Origin_Indexed
+# print "\n\n"
 
-# print min(data['Total_Movement'])
-# print max(data['Total_Movement'])
+# print "Aslyum_Indexed\n\n"
+# print Asylum_Indexed
+# print "\n\n"
 
-print Origin_lines_pos
-print Asylum_lines_pos
-print "\n\n\n\n"
+# print "Matrix\n\n"
+# print Matrix
+# print "\n\n"
 
-print Origin_lines_cumul
-print Asylum_lines_cumul
+# # print min(data['Total_Movement'])
+# # print max(data['Total_Movement'])
 
-print len(data.index)
+# print Origin_lines_pos
+# print Asylum_lines_pos
+# print "\n\n\n\n"
+
+# print Origin_lines_cumul
+# print Asylum_lines_cumul
+
+# print len(data.index)
 
 
 
@@ -201,5 +213,11 @@ print len(data.index)
 # plt.plot(df,(np.sqrt(df)/30)+3)
 # plt.show()
 
-data = {"data":Matrix, "position":[Origin_Indexed,Asylum_Indexed],"label":[Origin,Asylum],"label_width":[Origin_lines_pos,Asylum_lines_pos],"label_position":[Origin_lines_cumul,Asylum_lines_cumul]}
-print(data)
+data = {
+"data":Matrix, "position":[Origin_Indexed,Asylum_Indexed],
+"Movement_Total":[sumOrigin,sumAsylum],
+"label":[Origin,Asylum],
+"label_width":[Origin_lines_pos,Asylum_lines_pos],
+"label_position":[Origin_lines_cumul,Asylum_lines_cumul]
+}
+print([sumOrigin,sumAsylum])
