@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="Rings.css">
+		<script type="text/javascript" src="d3.v3.min.js" charset="utf-8"></script>
+	</head>
+
+	<body>
+		<div class="animated-ring">
+			<svg></svg>
+		</div>
+		<script type="text/javascript" src="Rings.js"></script>
+		<div id="legend-wrapper">
+			<center>
+				<b>
+				<div class="legendName" style="">AFRICA</div>
+				<div class="legendName" style="">EUROPE</div>
+				<div class="legendName" style="">ASIA</div>
+				<div class="legendName" style="">NORTH AMERICA</div>
+				<div class="legendName" style="">SOUTH AMERICA</div>
+				<div class="legendName" style="">OCEANIA</div>
+				</b>
+			</center>
+		</div>
+		<div id="legend-wrapper">
+			<center>
+				<b>
+				<div class="legend" style="background-color:Blue; color:Blue;">.      .</div>
+				<div class="legend" style="background-color:Black; color:Black;">.    .</div>
+				<div class="legend" style="background-color:Red; color:Red;">.  .</div>
+				<div class="legend" style="background-color:Yellow; color:Yellow;">.           .</div>
+				<div class="legend" style="background-color:Purple; color:Purple;">.           .</div>
+				<div class="legend" style="background-color:Green; color:Green;">.     .</div>
+				</b>
+			</center>
+			<br>
+		</div>
+		<div id="option">
+			<center>
+				<input name="updateButton" type="button" value="Total" onclick="updateData('Total')" />
+				<input name="updateButton" type="button" value="Gold" onclick="updateData('Gold')" />
+				<input name="updateButton" type="button" value="Silver" onclick="updateData('Silver')" />
+				<input name="updateButton" type="button" value="Bronze" onclick="updateData('Bronze')" />
+			</center>
+		</div>
+		<p style="color:black;font-family:verdana;font-size:12px;">Written by Benjamin Ajayi-Obe</p>
+	</body>
+</html>
